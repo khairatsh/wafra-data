@@ -1,16 +1,5 @@
 [
   {
-    "priceId": "price_lulu_g1_sadia",
-    "variantId": "sadia-broast-1kg",
-    "storeId": "lulu-hypermarket",
-    "branchGroupId": "lulu-g1",
-    "pricePiastres": 1500,
-    "regularPricePiastres": 1900,
-    "priceType": "weekly_offer",
-    "observationDate": "2026-10-28",
-    "sourceAr": "سعر مخفض (عرض أسبوعي) - مجموعة الرياض والقصيم وحائل"
-  },
-  {
     "priceId": "price_lulu_g2_sadia",
     "variantId": "sadia-broast-1kg",
     "storeId": "lulu-hypermarket",
