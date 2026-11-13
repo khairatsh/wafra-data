@@ -2,250 +2,306 @@
   {
     "governorateId": "sa-riyad",
     "governorateNameAr": "الرياض",
+    "governorateNameEn": "Riyadh",
     "cities": [
       {
         "cityId": "riyad",
-        "cityNameAr": "الرياض"
+        "cityNameAr": "الرياض",
+        "cityNameEn": "Riyadh"
       },
       {
         "cityId": "kharj",
-        "cityNameAr": "الخرج"
+        "cityNameAr": "الخرج",
+        "cityNameEn": "Al Kharj"
       },
       {
         "cityId": "magmaa",
-        "cityNameAr": "المجمعة"
+        "cityNameAr": "المجمعة",
+        "cityNameEn": "Al Majmaah"
       },
       {
         "cityId": "dawadmi",
-        "cityNameAr": "الدوادمي"
+        "cityNameAr": "الدوادمي",
+        "cityNameEn": "Dawadmi"
       },
       {
         "cityId": "deria",
-        "cityNameAr": "الدرعية"
+        "cityNameAr": "الدرعية",
+        "cityNameEn": "Diriyah"
       },
       {
         "cityId": "wadidwaser",
-        "cityNameAr": "وادي الدواسر"
+        "cityNameAr": "وادي الدواسر",
+        "cityNameEn": "Wadi Al Dawasir"
       },
       {
         "cityId": "zelfi",
-        "cityNameAr": "الزلفي"
+        "cityNameAr": "الزلفي",
+        "cityNameEn": "Al Zulfi"
       },
       {
         "cityId": "hotbanitamim",
-        "cityNameAr": "حوطة بني تميم"
+        "cityNameAr": "حوطة بني تميم",
+        "cityNameEn": "Hotat Bani Tamim"
       },
       {
         "cityId": "afif",
-        "cityNameAr": "عفيف"
+        "cityNameAr": "عفيف",
+        "cityNameEn": "Afif"
       },
       {
         "cityId": "ghat",
-        "cityNameAr": "الغاط"
+        "cityNameAr": "الغاط",
+        "cityNameEn": "Al Ghat"
       }
     ]
   },
   {
     "governorateId": "sa-mecca",
     "governorateNameAr": "مكة المكرمة",
+    "governorateNameEn": "Makkah",
     "cities": [
       {
         "cityId": "mecca",
-        "cityNameAr": "مكة المكرمة"
+        "cityNameAr": "مكة المكرمة",
+        "cityNameEn": "Makkah"
       },
       {
         "cityId": "gedda",
-        "cityNameAr": "جدة"
+        "cityNameAr": "جدة",
+        "cityNameEn": "Jeddah"
       },
       {
         "cityId": "taief",
-        "cityNameAr": "الطائف"
+        "cityNameAr": "الطائف",
+        "cityNameEn": "Taif"
       },
       {
         "cityId": "rabigh",
-        "cityNameAr": "رابغ"
+        "cityNameAr": "رابغ",
+        "cityNameEn": "Rabigh"
       }
     ]
   },
   {
     "governorateId": "sa-madina",
     "governorateNameAr": "المدينة المنورة",
+    "governorateNameEn": "Madinah",
     "cities": [
       {
         "cityId": "madina",
-        "cityNameAr": "المدينة المنورة"
+        "cityNameAr": "المدينة المنورة",
+        "cityNameEn": "Madinah"
       },
       {
         "cityId": "yanbu",
-        "cityNameAr": "ينبع"
+        "cityNameAr": "ينبع",
+        "cityNameEn": "Yanbu"
       },
       {
         "cityId": "ola",
-        "cityNameAr": "العلا"
+        "cityNameAr": "العلا",
+        "cityNameEn": "AlUla"
       }
     ]
   },
   {
     "governorateId": "sa-qassim",
     "governorateNameAr": "القصيم",
+    "governorateNameEn": "Qassim",
     "cities": [
       {
         "cityId": "unaizah",
-        "cityNameAr": "عنيزة"
+        "cityNameAr": "عنيزة",
+        "cityNameEn": "Unaizah"
       },
       {
         "cityId": "buraidah",
-        "cityNameAr": "بريدة"
+        "cityNameAr": "بريدة",
+        "cityNameEn": "Buraydah"
       },
       {
         "cityId": "rass",
-        "cityNameAr": "الرس"
+        "cityNameAr": "الرس",
+        "cityNameEn": "Al Rass"
       },
       {
         "cityId": "methnib",
-        "cityNameAr": "المذنب"
+        "cityNameAr": "المذنب",
+        "cityNameEn": "Al Mithnab"
       },
       {
         "cityId": "bakeria",
-        "cityNameAr": "البكيرية"
+        "cityNameAr": "البكيرية",
+        "cityNameEn": "Al Bukayriyah"
       },
       {
         "cityId": "badaie",
-        "cityNameAr": "البدائع"
+        "cityNameAr": "البدائع",
+        "cityNameEn": "Al Badaya"
       }
     ]
   },
   {
     "governorateId": "sa-sharkia",
     "governorateNameAr": "المنطقة الشرقية",
+    "governorateNameEn": "Eastern Province",
     "cities": [
       {
         "cityId": "dammam",
-        "cityNameAr": "الدمام"
+        "cityNameAr": "الدمام",
+        "cityNameEn": "Dammam"
       },
       {
         "cityId": "khobar",
-        "cityNameAr": "الخبر"
+        "cityNameAr": "الخبر",
+        "cityNameEn": "Khobar"
       },
       {
         "cityId": "hafrbatin",
-        "cityNameAr": "حفر الباطن"
+        "cityNameAr": "حفر الباطن",
+        "cityNameEn": "Hafr Al Batin"
       },
       {
         "cityId": "ihsaa",
-        "cityNameAr": "الإحساء"
+        "cityNameAr": "الإحساء",
+        "cityNameEn": "Al Ahsa"
       },
       {
         "cityId": "gubail",
-        "cityNameAr": "الجبيل"
+        "cityNameAr": "الجبيل",
+        "cityNameEn": "Jubail"
       },
       {
         "cityId": "qateif",
-        "cityNameAr": "القطيف"
+        "cityNameAr": "القطيف",
+        "cityNameEn": "Qatif"
       }
     ]
   },
   {
     "governorateId": "sa-aseer",
     "governorateNameAr": "عسير",
+    "governorateNameEn": "Asir",
     "cities": [
       {
         "cityId": "khamismesheet",
-        "cityNameAr": "خميس مشيط"
+        "cityNameAr": "خميس مشيط",
+        "cityNameEn": "Khamis Mushait"
       },
       {
         "cityId": "abha",
-        "cityNameAr": "أبها"
+        "cityNameAr": "أبها",
+        "cityNameEn": "Abha"
       },
       {
         "cityId": "bisha",
-        "cityNameAr": "بيشة"
+        "cityNameAr": "بيشة",
+        "cityNameEn": "Bisha"
       },
       {
         "cityId": "mahayelaseer",
-        "cityNameAr": "محايل عسير"
+        "cityNameAr": "محايل عسير",
+        "cityNameEn": "Mahayel Asir"
       }
     ]
   },
   {
     "governorateId": "sa-tabuk",
     "governorateNameAr": "تبوك",
+    "governorateNameEn": "Tabuk",
     "cities": [
       {
         "cityId": "tabuk",
-        "cityNameAr": "تبوك"
+        "cityNameAr": "تبوك",
+        "cityNameEn": "Tabuk"
       }
     ]
   },
   {
     "governorateId": "sa-hail",
     "governorateNameAr": "حائل",
+    "governorateNameEn": "Hail",
     "cities": [
       {
         "cityId": "hail",
-        "cityNameAr": "حائل"
+        "cityNameAr": "حائل",
+        "cityNameEn": "Hail"
       }
     ]
   },
   {
     "governorateId": "sa-hododshamalia",
     "governorateNameAr": "الحدود الشمالية",
+    "governorateNameEn": "Northern Borders",
     "cities": [
       {
         "cityId": "arar",
-        "cityNameAr": "عرعر"
+        "cityNameAr": "عرعر",
+        "cityNameEn": "Arar"
       }
     ]
   },
   {
     "governorateId": "sa-jazan",
     "governorateNameAr": "جازان",
+    "governorateNameEn": "Jazan",
     "cities": [
       {
         "cityId": "jazan",
-        "cityNameAr": "جازان"
+        "cityNameAr": "جازان",
+        "cityNameEn": "Jazan"
       },
       {
         "cityId": "sibia",
-        "cityNameAr": "صبيا"
+        "cityNameAr": "صبيا",
+        "cityNameEn": "Sabya"
       },
       {
         "cityId": "samta",
-        "cityNameAr": "صامطة"
+        "cityNameAr": "صامطة",
+        "cityNameEn": "Samtah"
       }
     ]
   },
   {
     "governorateId": "sa-najran",
     "governorateNameAr": "نجران",
+    "governorateNameEn": "Najran",
     "cities": [
       {
         "cityId": "najran",
-        "cityNameAr": "نجران"
+        "cityNameAr": "نجران",
+        "cityNameEn": "Najran"
       }
     ]
   },
   {
     "governorateId": "sa-jouf",
     "governorateNameAr": "الجوف",
+    "governorateNameEn": "Al Jouf",
     "cities": [
       {
         "cityId": "skaka",
-        "cityNameAr": "سكاكا"
+        "cityNameAr": "سكاكا",
+        "cityNameEn": "Sakaka"
       },
       {
         "cityId": "qirryat",
-        "cityNameAr": "القريات"
+        "cityNameAr": "القريات",
+        "cityNameEn": "Qurayyat"
       }
     ]
   },
   {
     "governorateId": "sa-baha",
     "governorateNameAr": "الباحة",
+    "governorateNameEn": "Al Bahah",
     "cities": [
       {
         "cityId": "baha",
-        "cityNameAr": "الباحة"
+        "cityNameAr": "الباحة",
+        "cityNameEn": "Al Bahah"
       }
     ]
   }

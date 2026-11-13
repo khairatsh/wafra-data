@@ -1,49 +1,3292 @@
 [
   {
-    "productId": "cow-meat-liver",
-    "productNameAr": "كبدة",
-    "brandAr": "لحم بقري",
-    "categoryId": "cat_meat",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qH5sPXPrJe0OJj3mZEIDZc2iKBO4IRWEPoalD4Eskf1BdU4FgXoOSzw&s=10",
+    "productId": "oreobiscuits36.8gm*12&",
+    "productNameAr": "بسكويت شوكولاتة كريمة",
+    "productNameEn": "Oreo",
+    "brandAr": "أوريو",
+    "brandEn": "Oreo",
+    "categoryId": "biscuits",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYtBt3ahReqkduUUDCBCzmoAUuAd_QuEeB6rOMx3orpA&s=10",
     "homeSuggested": true,
     "variants": [
       {
-        "variantId": "cow-meat-liver-1kg",
+        "variantId": "oreobiscuits36.8gm*12&",
+        "packageSize": 36.8,
+        "unit": "جم * 12",
+        "unitEn": "g * 12",
+        "categoryId": "biscuits"
+      }
+    ]
+  },
+  {
+    "productId": "deemabrownies37gm*12&",
+    "productNameAr": "براونيز",
+    "productNameEn": "Brownies",
+    "brandAr": "ديما",
+    "brandEn": "Deema",
+    "categoryId": "biscuits",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NLJ28iU3z6ESLjEU8UZAXtskYqJGYkrYRVOwXuyQpQ&s=10",
+    "variants": [
+      {
+        "variantId": "deemabrownies37gm*12&",
+        "packageSize": 37,
+        "unit": "جم * 12",
+        "unitEn": "g * 12",
+        "categoryId": "biscuits"
+      }
+    ]
+  },
+  {
+    "productId": "deemafantasycake40gm*12&",
+    "productNameAr": "كيك",
+    "productNameEn": "Cake",
+    "brandAr": "ديما",
+    "brandEn": "Deema",
+    "categoryId": "biscuits",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbr1nsFs_71fA9Xl0ItnQmBOQC6k2Gi4HFEXmuViS6qg&s=10",
+    "variants": [
+      {
+        "variantId": "deemafantasycake40gm*12&",
+        "packageSize": 40,
+        "unit": "جم * 12",
+        "unitEn": "g * 12",
+        "categoryId": "biscuits"
+      }
+    ]
+  },
+  {
+    "productId": "oreobiscuitspistachio34gm*12&",
+    "productNameAr": "بسكويت شوكولاتة بيستاشيو",
+    "productNameEn": "Pistachio Oreo",
+    "brandAr": "أوريو",
+    "brandEn": "Oreo",
+    "categoryId": "biscuits",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJD2IldajV1WpBHJWnHwA64W8R6iTXK9MX0faKlHadUg&s",
+    "variants": [
+      {
+        "variantId": "oreobiscuitspistachio34gm*12&",
+        "packageSize": 34,
+        "unit": "جم * 12",
+        "unitEn": "g * 12",
+        "categoryId": "biscuits"
+      }
+    ]
+  },
+  {
+    "productId": "oreobiscuitsmarvel34gm*12&",
+    "productNameAr": "بسكويت شوكولاتة مارفيل",
+    "productNameEn": "Marvel Oreo",
+    "brandAr": "أوريو",
+    "brandEn": "Oreo",
+    "categoryId": "biscuits",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdIAoU96nFTyI1khS4jDxz8w8Nz3XYEm_igO8hQqqEA&s",
+    "variants": [
+      {
+        "variantId": "oreobiscuitsmarvel34gm*12&",
+        "packageSize": 34,
+        "unit": "جم * 12",
+        "unitEn": "g * 12",
+        "categoryId": "biscuits"
+      }
+    ]
+  },
+  {
+    "productId": "memoriesteabiscuits70gm*12&",
+    "productNameAr": "بسكويت شاي",
+    "productNameEn": "Tea Biscuits",
+    "brandAr": "ميموريز",
+    "brandEn": "Memories",
+    "categoryId": "biscuits",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWa3rulzVK00f6GPeGFZOcJ3kkJCQisFd6JnmlMw6ow&s=10",
+    "variants": [
+      {
+        "variantId": "memoriesteabiscuits70gm*12&",
+        "packageSize": 70,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "biscuits"
+      }
+    ]
+  },
+  {
+    "productId": "ulkerteabiscuits70gm*12&",
+    "productNameAr": "بسكويت شاي",
+    "productNameEn": "Tea Biscuits",
+    "brandAr": "أولكر",
+    "brandEn": "Ulker",
+    "categoryId": "biscuits",
+    "imageUrl": "https://m.media-amazon.com/images/I/81ks785XV1L.jpg",
+    "variants": [
+      {
+        "variantId": "ulkerteabiscuits70gm*12&",
+        "packageSize": 70,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "biscuits"
+      }
+    ]
+  },
+  {
+    "productId": "nivea-bodylotion-400ml&",
+    "productNameAr": "لوشن للجسم",
+    "productNameEn": "Body Lotion",
+    "brandAr": "نيفيا",
+    "brandEn": "Nivea",
+    "categoryId": "bodylotion",
+    "imageUrl": "https://m.media-amazon.com/images/I/51bvjQoMwxL.jpg",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "nivea-bodylotion-400ml&",
+        "packageSize": 400,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "bodylotion"
+      }
+    ]
+  },
+  {
+    "productId": "farm-pure-ghee-400gm&",
+    "productNameAr": "سمن نقي",
+    "productNameEn": "Pure Ghee",
+    "brandAr": "فارم",
+    "brandEn": "Farm",
+    "categoryId": "butter",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMYhnylbZQWXOHjLyi173nqe9VhrGZFr6SESUxSLxt3W15HLeW2J3rB7kw&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "farm-pure-ghee-400gm&",
+        "packageSize": 400,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "butter"
+      }
+    ]
+  },
+  {
+    "productId": "almaraei-natural-butter-100gm&",
+    "productNameAr": "زبدة",
+    "productNameEn": "Butter",
+    "brandAr": "المراعي",
+    "brandEn": "Al Maraei",
+    "categoryId": "butter",
+    "imageUrl": "https://m.media-amazon.com/images/I/71+ebr27ZuL.jpg",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "almaraei-natural-butter-100gm&",
+        "packageSize": 100,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "butter"
+      }
+    ]
+  },
+  {
+    "productId": "nadec-natural-butter-1kg&",
+    "productNameAr": "زبدة",
+    "productNameEn": "Butter",
+    "brandAr": "نادك",
+    "brandEn": "Nadec",
+    "categoryId": "butter",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbj7YLrUpMQFNb8G7yrjwhmT2xoEmDnjOSDuvn2zJYKQ&s=10",
+    "variants": [
+      {
+        "variantId": "nadec-natural-butter-1kg&",
         "packageSize": 1,
         "unit": "كجم",
-        "attributesAr": " "
+        "unitEn": "kg",
+        "categoryId": "butter"
       }
     ]
   },
   {
-    "productId": "broast-chicken-1kg",
-    "productNameAr": "بروست دجاج",
+    "productId": "luprak-natural-butter-200gm&",
+    "productNameAr": "زبدة",
+    "productNameEn": "Butter",
+    "brandAr": "لوبراك",
+    "brandEn": "Luprak",
+    "categoryId": "butter",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3_4TfezqXbAxDX_RggmkrDUwOzMhsqcH3Kncg5trPiQ&s=10",
+    "variants": [
+      {
+        "variantId": "luprak-natural-butter-200gm&",
+        "packageSize": 200,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "butter"
+      }
+    ]
+  },
+  {
+    "productId": "anchor-natural-butter-380gm&",
+    "productNameAr": "زبدة",
+    "productNameEn": "Butter",
+    "brandAr": "أنكور",
+    "brandEn": "Anchor",
+    "categoryId": "butter",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl2NvQg9OloF4dte2Mo0JXXhWYpGI7wODc-4Ab0LfY9w&s=10",
+    "variants": [
+      {
+        "variantId": "anchor-natural-butter-380gm&",
+        "packageSize": 380,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "butter"
+      }
+    ]
+  },
+  {
+    "productId": "nestlecountrycornflakes500gm&",
+    "productNameAr": "حبوب إفطار",
+    "productNameEn": "Breakfast Cereal",
+    "brandAr": "نيستلة كونتري",
+    "brandEn": "Nestlé Country",
+    "categoryId": "cereal",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSp16Yy2ruP0kdrOGGrRogmEYnLhxgVjSYq8VMbaHZYQ&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "nestlecountrycornflakes500gm&",
+        "packageSize": 500,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "cereal"
+      }
+    ]
+  },
+  {
+    "productId": "nesquick-cereal-chocolate-625gm&",
+    "productNameAr": "حبوب إفطار بالشوكولاتة",
+    "productNameEn": "Chocolate Breakfast Cereal",
+    "brandAr": "نيسكويك",
+    "brandEn": "Nesquik",
+    "categoryId": "cereal",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNrLEa3dPZq0uF33nUHyDCBVtX_zaRQzXsUB7bh35Fw&s=10",
+    "variants": [
+      {
+        "variantId": "nesquick-cereal-chocolate-625gm&",
+        "packageSize": 625,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "cereal"
+      }
+    ]
+  },
+  {
+    "productId": "esser-cornflakes375gm&",
+    "productNameAr": "حبوب إفطار",
+    "productNameEn": "Breakfast Cereal",
+    "brandAr": "إيسر",
+    "brandEn": "Esser",
+    "categoryId": "cereal",
+    "imageUrl": "https://hungerstation.dhmedia.io/image/product-information-management/69ef216bc69c45d71f60228f.jpg?width=350&quality=75&webp=true",
+    "variants": [
+      {
+        "variantId": "esser-cornflakes375gm&",
+        "packageSize": 375,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "cereal"
+      }
+    ]
+  },
+  {
+    "productId": "esser-chocoballs375gm&",
+    "productNameAr": "حبوب إفطار بالشوكولاتة",
+    "productNameEn": "Chocolate Breakfast Cereal",
+    "brandAr": "إيسر",
+    "brandEn": "Esser",
+    "categoryId": "cereal",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsB95rAw1zIGa_XlkKB9H8pMG6iwoWW3WC33LrSUy3A&s",
+    "variants": [
+      {
+        "variantId": "esser-chocoballs375gm&",
+        "packageSize": 375,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "cereal"
+      }
+    ]
+  },
+  {
+    "productId": "roumy-cheese-egypt&",
+    "productNameAr": "جبنة رومي مصرية",
+    "productNameEn": "Egyptian Roumy Cheese",
+    "brandAr": "جبنة رومي",
+    "brandEn": "Roumy Cheese",
+    "categoryId": "cheese",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5rtxPx0i2UbXP4r2nKpPikyRfcRY-zhz6B6jmHB2gjg&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "roumy-cheese-egypt&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "cheese"
+      }
+    ]
+  },
+  {
+    "productId": "puck-slicecheese200gm&",
+    "productNameAr": "شرائح جبنة",
+    "productNameEn": "Cheese Slices",
+    "brandAr": "بوك",
+    "brandEn": "Buck",
+    "categoryId": "cheese-sliced",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKe9cTIILTmY4LIh3bgLJbDaz3wrD0xG3Ut1CrLVH_rA&s",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "puck-slicecheese200gm&",
+        "packageSize": 200,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "cheese-sliced"
+      }
+    ]
+  },
+  {
+    "productId": "president-slicecheese400gm&",
+    "productNameAr": "شرائح جبنة",
+    "productNameEn": "Cheese Slices",
+    "brandAr": "بريزيدون",
+    "brandEn": "President",
+    "categoryId": "cheese-sliced",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRghhAK3jTW9Ke_n4SOiZmuUAGH4s810V_aDl2J8fhGOIB2FspNunEh08w&s=10",
+    "variants": [
+      {
+        "variantId": "president-slicecheese400gm&",
+        "packageSize": 400,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "cheese-sliced"
+      }
+    ]
+  },
+  {
+    "productId": "sadiatender-chicken-breast-2k&",
+    "productNameAr": "صدور دجاج طرية",
+    "productNameEn": "Tender Chicken Breast",
     "brandAr": "ساديا",
-    "categoryId": "cat_poultary",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTpGMFjZ7-w249mRCgDp-azFrtZcGvUN0CFnDKZhyu15rjjQq5MsD3u2s-&s=10",
-    "homeSuggested": true,
+    "brandEn": "Sadia",
+    "categoryId": "chicken-breasts",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnZGvvcMUbP9yjOHqcoTOThl__GXnjHIU5pVAA0QRCAsHdfL7TgPOzBuI&s=10",
     "variants": [
       {
-        "variantId": "sadia-broast-1kg",
-        "packageSize": 750,
-        "unit": "جم",
-        "attributesAr": " "
+        "variantId": "sadiatender-chicken-breast-2k&",
+        "packageSize": 2,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "chicken-breasts"
       }
     ]
   },
   {
-    "productId": "americana-broast-chicken",
-    "productNameAr": "بروست دجاج ",
-    "brandAr": "أمريكانا",
-    "categoryId": "cat_poultary",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkqWVsH0KI6zquAnGzk9N40BZGKljCvgBkDBmCzYuRKA&s=10",
+    "productId": "alkabeer-tender-chicken-breasts-1kg&",
+    "productNameAr": "صدور دجاج طرية",
+    "productNameEn": "Tender Chicken Breast",
+    "brandAr": "الكبير",
+    "brandEn": "Al Kabeer",
+    "categoryId": "chicken-breasts",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAAQxfOQh-iTQ4QRmrlqYKgAkNRw9elAjoka2kmprKg&s=10",
     "homeSuggested": true,
     "variants": [
       {
-        "variantId": "americana-broast-1kg",
+        "variantId": "alkabeer-tender-chicken-breasts-1kg&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "chicken-breasts"
+      }
+    ]
+  },
+  {
+    "productId": "searatender-chicken-breast-1k&",
+    "productNameAr": "صدور دجاج طرية",
+    "productNameEn": "Tender Chicken Breast",
+    "brandAr": "سيارا",
+    "brandEn": "Seara",
+    "categoryId": "chicken-breasts",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h21/h69/33954356002846/685412_main.jpg",
+    "variants": [
+      {
+        "variantId": "sadiatender-chicken-breast-1k&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "chicken-breasts"
+      }
+    ]
+  },
+  {
+    "productId": "douxtender-chicken-breast-1k&",
+    "productNameAr": "صدور دجاج طرية",
+    "productNameEn": "Tender Chicken Breast",
+    "brandAr": "دو",
+    "brandEn": "Doux",
+    "categoryId": "chicken-breasts",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fFjgR3q2ZHDWa3kxCszug1MHEayU2Rn39PyhJQxgkh5bznUysSU3TYl7&s=10",
+    "variants": [
+      {
+        "variantId": "douxtender-chicken-breast-1k&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "chicken-breasts"
+      }
+    ]
+  },
+  {
+    "productId": "sadia-chickenbroasted-750g&",
+    "productNameAr": "شرائح دجاج عادية / حارة",
+    "productNameEn": "Chicken Strips Plain / Spicy",
+    "brandAr": "ساديا",
+    "brandEn": "Sadia",
+    "categoryId": "chicken-strips",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzFIQia_U0eu_agQskSDzeRi_NB_x8wj8zvQxsWFgykw&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "sadia-chickenbroasted-750g&",
         "packageSize": 750,
         "unit": "جم",
-        "attributesAr": " "
+        "unitEn": "g",
+        "categoryId": "chicken-broast"
+      }
+    ]
+  },
+  {
+    "productId": "alkabeer-breaded-chickenburger-840g&",
+    "productNameAr": "برجر دجاج بالبقسماط",
+    "productNameEn": "Breaded Chicken Burger",
+    "brandAr": "الكبير",
+    "brandEn": "Al Kabeer",
+    "categoryId": "chicken-burger",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmSumrrSPb4mP-C_KGVHCD2sYrFyy-idtrtVd-2iOJEw&s=10",
+    "variants": [
+      {
+        "variantId": "alkabeer-breaded-chickenburger-840g&",
+        "packageSize": 840,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chicken-burger"
+      }
+    ]
+  },
+  {
+    "productId": "herfy-breaded-chickenburger-1344g&",
+    "productNameAr": "برجر دجاج بالبقسماط",
+    "productNameEn": "Breaded Chicken Burger",
+    "brandAr": "هرفي",
+    "brandEn": "Herfy",
+    "categoryId": "chicken-burger",
+    "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/320/20211207/216141_1-20211207-060022.png",
+    "variants": [
+      {
+        "variantId": "herfy-breaded-chickenburger-1344g&",
+        "packageSize": 1344,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chicken-burger"
+      }
+    ]
+  },
+  {
+    "productId": "sadia-breaded-chickenburger-1k&",
+    "productNameAr": "برجر دجاج بالبقسماط جامبو",
+    "productNameEn": "Breaded Chicken Burger Jumbo",
+    "brandAr": "ساديا",
+    "brandEn": "Sadia",
+    "categoryId": "chicken-burger",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNe6yVsc5CiDHkEOr9if81mHf-WA-AVPtg2eCl1BoxQ&s",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "sadia-breaded-chickenburger-1k&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "chicken-burger"
+      }
+    ]
+  },
+  {
+    "productId": "sadiachicken-1.2kg*10&",
+    "productNameAr": "دجاج مجمد بدون أحشاء",
+    "productNameEn": "Frozen Whole Chicken (Giblets Removed)",
+    "brandAr": "ساديا",
+    "brandEn": "Sadia",
+    "categoryId": "chicken-frozen",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDNEqemygMUd09LAGzrX6VI2qpmIU6G6iZvGU4Yg_U9ENsZoQDdWkfdaAf&s=10",
+    "variants": [
+      {
+        "variantId": "sadiachicken-1.2kg*10&",
+        "packageSize": 1200,
+        "unit": "جم * 10",
+        "unitEn": "g * 10",
+        "categoryId": "chicken-frozen"
+      }
+    ]
+  },
+  {
+    "productId": "sadiachicken-800g*10&",
+    "productNameAr": "دجاج مجمد بدون أحشاء",
+    "productNameEn": "Frozen Whole Chicken (Giblets Removed)",
+    "brandAr": "ساديا",
+    "brandEn": "Sadia",
+    "categoryId": "chicken-frozen",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h39/h12/11349599748126/255906_main.jpg?im=Resize=376",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "sadiachicken-800g*10&",
+        "packageSize": 800,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chicken-frozen"
+      }
+    ]
+  },
+  {
+    "productId": "douxchicken-1.3kg*10&",
+    "productNameAr": "دجاج مجمد بدون أحشاء",
+    "productNameEn": "Frozen Whole Chicken (Giblets Removed)",
+    "brandAr": "دو",
+    "brandEn": "Doux",
+    "categoryId": "chicken-frozen",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOnyQsHGHzSHRAh7QwSyZuMC9BAzZTprCRlesAzDT3lE2v3Ie4LeBLiCC&s=10",
+    "variants": [
+      {
+        "variantId": "douxchicken-1.3kg*10&",
+        "packageSize": 1.3,
+        "unit": "كجم * 10",
+        "unitEn": "kg * 10",
+        "categoryId": "chicken-frozen"
+      }
+    ]
+  },
+  {
+    "productId": "darichicken-900g*10&",
+    "productNameAr": "دجاج مجمد بدون أحشاء",
+    "productNameEn": "Frozen Whole Chicken (Giblets Removed)",
+    "brandAr": "دو",
+    "brandEn": "Doux",
+    "categoryId": "chicken-frozen",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYOMAHPLk-b_LAXjCc19fPuOop5eqMhfiV-KeN9etN-OcqFX1K2BUKsw&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "darichicken-900g*10&",
+        "packageSize": 900,
+        "unit": "جم * 10",
+        "unitEn": "g * 10",
+        "categoryId": "chicken-frozen"
+      }
+    ]
+  },
+  {
+    "productId": "americana-zingz-chicken-mosahab750g&",
+    "productNameAr": "مسحب دجاج",
+    "productNameEn": "Chicken Mosahab",
+    "brandAr": "أمريكانا",
+    "brandEn": "Americana",
+    "categoryId": "chicken-mosahab",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h9b/h8e/52042138026014/630148_main.jpg",
+    "variants": [
+      {
+        "variantId": "americana-zingz-chicken-mosahab750g&",
+        "packageSize": 750,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chicken-mosahab"
+      }
+    ]
+  },
+  {
+    "productId": "americana-chickenstrips-750g&",
+    "productNameAr": "شرائح دجاج عادية / حارة",
+    "productNameEn": "Chicken Strips Plain / Spicy",
+    "brandAr": "أمريكانا",
+    "brandEn": "Americana",
+    "categoryId": "chicken-strips",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFoQpa5FoxbJF8HG4oSYreyEDC0pSwvga_p-gQsZSj8KQd9GfIQ1Am5ho&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "americana-chickenstrips-750g&",
+        "packageSize": 750,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chicken-strips"
+      }
+    ]
+  },
+  {
+    "productId": "seara-chickenstrips-750g&",
+    "productNameAr": "شرائح دجاج",
+    "productNameEn": "Chicken Strips",
+    "brandAr": "سيارا",
+    "brandEn": "Seara",
+    "categoryId": "chicken-strips",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc2vc84kfExQVmLiHxoFcptbTEFSexdOaHk5j9eNhLw&s=10",
+    "variants": [
+      {
+        "variantId": "seara-chickenstrips-750g&",
+        "packageSize": 750,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chicken-strips"
+      }
+    ]
+  },
+  {
+    "productId": "doux-chickenstrips-700g&",
+    "productNameAr": "شرائح دجاج عادية / حارة",
+    "productNameEn": "Chicken Strips Plain / Spicy",
+    "brandAr": "دو",
+    "brandEn": "Doux",
+    "categoryId": "chicken-strips",
+    "imageUrl": "https://img.ananinja.com/media/bra-public-files/services-admin/files/c8746419-4e9e-4c8a-a77d-7dc929f96d97?w=3840&q=75"
+  },
+  {
+    "productId": "galaxyjewels-550gm&",
+    "productNameAr": "جيولز",
+    "productNameEn": "Jewels",
+    "brandAr": "جالالكسي",
+    "brandEn": "Galaxy",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-rNRolI0NLXSlGypXBw_aPoJ3aYupRQWOtP4-B1Yd6vRuuBhUXbGbEfd&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "galaxyjewels-550gm&",
+        "packageSize": 550,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "cadburyminismix598gm&",
+    "productNameAr": "مينيز ميكس",
+    "productNameEn": "Minis Mix",
+    "brandAr": "كادبوري",
+    "brandEn": "Cadbury",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://f.nooncdn.com/p/pzsku/ZBCDA89E9A710D7923840Z/45/1759159720/6aa6a753-b866-4f75-b968-b5d602d7eda5.jpg?width=940",
+    "variants": [
+      {
+        "variantId": "cadburyminismix598gm&",
+        "packageSize": 598,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "kitkat2fingers20.5gm*18&",
+    "productNameAr": "كيت كات إصبعان",
+    "productNameEn": "Kitkat 2 Fingers",
+    "brandAr": "كيت كات",
+    "brandEn": "KitKat",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQVbyZqZwAHHS9p0_pHEOXIg2qrzwn9d8Sq-Y73WylxahjpfU7B8HIFE&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "kitkat2fingers20.5gm*18&",
+        "packageSize": 20.5,
+        "unit": "جم * 18",
+        "unitEn": "g * 18",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "diamondtwistkunafa450g&",
+    "productNameAr": "شوكو ليك",
+    "productNameEn": "Choco Lake",
+    "brandAr": "دايموند تويست",
+    "brandEn": "Diamond Twist",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/SAU/media/product/758881/1778142600/758881_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "diamondtwistkunafa450g&",
+        "packageSize": 450,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "luxuryimpcreamfudge900gm&",
+    "productNameAr": "كاراميل فادج",
+    "productNameEn": "Caramel Fudge",
+    "brandAr": "لكجري إمب",
+    "brandEn": "Luxury Imp",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtPAu_fr-DS2SE_QNMd_zbgLJhJ6rFraw-CLCyG8_r2WchiFvnfQ7lUE&s=10",
+    "variants": [
+      {
+        "variantId": "luxuryimpcreamfudge900gm&",
+        "packageSize": 900,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "marsmixedminis400gm&",
+    "productNameAr": "مينيز",
+    "productNameEn": "Minis",
+    "brandAr": "مارس",
+    "brandEn": "Mars",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqQV4jwJfyCqkHV0_mqH8MLadi38tucAc8MBO4UfTRg&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "marsmixedminis400gm&",
+        "packageSize": 400,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "sneakers-minis-198gm&",
+    "productNameAr": "مينيز",
+    "productNameEn": "Minis",
+    "brandAr": "سنيكرز",
+    "brandEn": "Sneakers",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://m.media-amazon.com/images/I/61QxPFJnP7L.jpg",
+    "variants": [
+      {
+        "variantId": "sneakers-minis-198gm&",
+        "packageSize": 198,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "mars-minis-198gm&",
+    "productNameAr": "مينيز",
+    "productNameEn": "Minis",
+    "brandAr": "مارس",
+    "brandEn": "Mars",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXC8FdaWpwAls6WRz59QRIT0s2hJyFyQ-BjvDUPagXssjUZwlAA3C9EU&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "mars-minis-198gm&",
+        "packageSize": 198,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "bounty-minis-225gm&",
+    "productNameAr": "مينيز",
+    "productNameEn": "Minis",
+    "brandAr": "باونتي",
+    "brandEn": "Bounty",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZ2xzFfTfkpgGkryd_GPGjdjGFglc4UguowyZZSVG7g&s=10",
+    "variants": [
+      {
+        "variantId": "bounty-minis-225gm&",
+        "packageSize": 225,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "twix-minis-180gm&",
+    "productNameAr": "مينيز",
+    "productNameEn": "Minis",
+    "brandAr": "تويكس",
+    "brandEn": "Twix",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzBfTEMeq6MHDaLu1SzuDeNt6y4rwVbSNdtb8oYMNFlg&s=10",
+    "variants": [
+      {
+        "variantId": "twix-minis-180gm&",
+        "packageSize": 180,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "galaxy-minis-137.5gm&",
+    "productNameAr": "مينيز",
+    "productNameEn": "Minis",
+    "brandAr": "جالالكسي",
+    "brandEn": "Galaxy",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKL-lW0d3CvPdwWaJ1FcwfgqODBWMuNo6tjwY5_Rq6vQ&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "galaxy-minis-137.5gm&",
+        "packageSize": 137.5,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "marscelebration163gm&",
+    "productNameAr": "سيليبريشن",
+    "productNameEn": "Celebration",
+    "brandAr": "مارس",
+    "brandEn": "Mars",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uvcmmajchSMC8oCUTpHvaWOZKMWA-Xbh99C8wk7ywQ&s",
+    "variants": [
+      {
+        "variantId": "marscelebration163gm&",
+        "packageSize": 163,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "kitkatchunckypistachiokunafa166gm*10&",
+    "productNameAr": "كيت كات شانكي فستق وكنافة",
+    "productNameEn": "Kitkat Chuncky",
+    "brandAr": "كيت كات",
+    "brandEn": "KitKat",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://m.media-amazon.com/images/I/71CxZSQytHL._AC_UF1000,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "kitkatchunckypistachiokunafa166gm*10&",
+        "packageSize": 166,
+        "unit": "جم * 10",
+        "unitEn": "g * 10",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "kitkatmilkchocolate-minis-94.5gm&",
+    "productNameAr": "كيت كات مينيز بالحليب",
+    "productNameEn": "Kitkat Minis",
+    "brandAr": "كيت كات",
+    "brandEn": "KitKat",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-aHyB5iEeGq9vncnShe-EceNRmP8NNkfcGlNDtXV3EVaJpDzZCEj1Voj&s=10",
+    "variants": [
+      {
+        "variantId": "kitkatmilkchocolate-minis-94.5gm&",
+        "packageSize": 94.5,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "snickerschocolate-40gm*24&",
+    "productNameAr": " سنيكرز شوكولاتة",
+    "productNameEn": "Snickers Chocolate",
+    "brandAr": "مارس",
+    "brandEn": "Mars",
+    "categoryId": "chocolate-box",
+    "imageUrl": "https://storage.googleapis.com/platrawblobeuwestglive/photo/d73367b6-98bf-44e7-a316-1bebaeceacd3-%C3%99%C2%84%C3%99%C2%82%C3%98%C2%B7%C3%98%C2%A9_%C3%98%C2%A7%C3%99%C2%84%C3%98%C2%B4%C3%98%C2%A7%C3%98%C2%B4%C3%98%C2%A9_2025-11-27_112953-removebg-preview.png",
+    "variants": [
+      {
+        "variantId": "snickerschocolate-40gm*24&",
+        "packageSize": 40,
+        "unit": "جم * 24",
+        "unitEn": "g * 24",
+        "categoryId": "chocolate-box"
+      }
+    ]
+  },
+  {
+    "productId": "nesacfegold-190&",
+    "productNameAr": "قهوة سريعة التحضير",
+    "productNameEn": "Instant Coffee",
+    "brandAr": "نيسكافيه جولد",
+    "brandEn": "Nescafé Gold",
+    "categoryId": "coffee",
+    "imageUrl": "https://m.media-amazon.com/images/I/512wYjuaq3L._AC_UF894,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "nesacfegold-190&",
+        "packageSize": 190,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "coffee"
+      }
+    ]
+  },
+  {
+    "productId": "nescafee3in120gm*24&",
+    "productNameAr": "قهوة سريعة التحضير",
+    "productNameEn": "Instant Coffee",
+    "brandAr": "نيسكافيه",
+    "brandEn": "Nescafé",
+    "categoryId": "coffee",
+    "imageUrl": "https://m.media-amazon.com/images/I/718hztyYB7L._AC_UF1000,1000_QL80_.jpg",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "nescafee3in120gm*24&",
+        "packageSize": 120,
+        "unit": "جم * 24",
+        "unitEn": "g * 24",
+        "categoryId": "coffee"
+      }
+    ]
+  },
+  {
+    "productId": "bunnadripcoffee-10gm*10&",
+    "productNameAr": "قهوة مقطرة",
+    "productNameEn": "Drip Coffee",
+    "brandAr": "بونا",
+    "brandEn": "Buna",
+    "categoryId": "coffee",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToy_rvieXUZ6u4X5gghQKohIpT-wcE18c2Gb60nCemmh-GkLLVTEz_db2x&s=10",
+    "variants": [
+      {
+        "variantId": "bunnadripcoffee-10gm*10&",
+        "packageSize": 10,
+        "unit": "جم * 10",
+        "unitEn": "g * 10",
+        "categoryId": "coffee"
+      }
+    ]
+  },
+  {
+    "productId": "nestle-coffeemate400gm&",
+    "productNameAr": "مبيض قهوة",
+    "productNameEn": "Coffee Creamer",
+    "brandAr": "نيستله",
+    "brandEn": "Nestlé",
+    "categoryId": "coffee",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiM2P9kzww0n0fmfldAmWkhTGkLvVsZhhdgnNcNE9zkg&s=10",
+    "variants": [
+      {
+        "variantId": "nestle-coffeemate400gm&",
+        "packageSize": 400,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "coffee"
+      }
+    ]
+  },
+  {
+    "productId": "americana-buttercookies454gm&",
+    "productNameAr": "كوكيز بالزبدة",
+    "productNameEn": "Cookies",
+    "brandAr": "أمريكانا",
+    "brandEn": "Americana",
+    "categoryId": "cookies",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKb1JvKZpaoyikd77wneUlUOGK-8wTV4D7IdvFJ4aO9Q&s=10",
+    "variants": [
+      {
+        "variantId": "americana-buttercookies454gm&",
+        "packageSize": 454,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "cookies"
+      }
+    ]
+  },
+  {
+    "productId": "maggy-chickenstocks-18gm*16&",
+    "productNameAr": "مكعبات مرق الدجاج",
+    "productNameEn": "Chicken Stock Cubes",
+    "brandAr": "ماجي",
+    "brandEn": "Maggi",
+    "categoryId": "cooking-essentials",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCmIa6LtGwvOLsdevyISjehsgh88qC18Ha_VIGXu4ypqJNk2axrIH7Rk&s=10",
+    "variants": [
+      {
+        "variantId": "maggy-chickenstocks-18gm*16&",
+        "packageSize": 18,
+        "unit": "جم * 16",
+        "unitEn": "g * 16",
+        "categoryId": "cooking-essentials"
+      }
+    ]
+  },
+  {
+    "productId": "puck-cookingcream-1l&",
+    "productNameAr": "كريمة طبخ",
+    "productNameEn": "Cooking Cream",
+    "brandAr": "بوك",
+    "brandEn": "Buck",
+    "categoryId": "cooking-essentials",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeUgXh79iyfqmpVjsrJ0E1fiD6PIxeM75iBewH92tJQ&s",
+    "variants": [
+      {
+        "variantId": "puck-cookingcream-1l&",
+        "packageSize": 1000,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "cooking-essentials"
+      }
+    ]
+  },
+  {
+    "productId": "nadec-cookingcream-500ml&",
+    "productNameAr": "كريمة طبخ",
+    "productNameEn": "Cooking Cream",
+    "brandAr": "نادك",
+    "brandEn": "Nadec",
+    "categoryId": "cooking-essentials",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGRAEQSeSPBc9PJWaRL2AMKpuwIw1iBEVg_UJAKgAoLCE4m8ZbKi1yWbU&s=10",
+    "variants": [
+      {
+        "variantId": "nadec-cookingcream-500ml&",
+        "packageSize": 500,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "cooking-essentials"
+      }
+    ]
+  },
+  {
+    "productId": "almaraei-cookingcream-1l&",
+    "productNameAr": "كريمة طبخ",
+    "productNameEn": "Cooking Cream",
+    "brandAr": "المراعي",
+    "brandEn": "Al Maraei",
+    "categoryId": "cooking-essentials",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUyOEiO9Im7V33OkTu5-dLJA4O37Oh4xR3IA2a2d_wbQ&s=10",
+    "variants": [
+      {
+        "variantId": "almaraei-cookingcream-1l&",
+        "packageSize": 1,
+        "unit": "لتر",
+        "unitEn": "L",
+        "categoryId": "cooking-essentials"
+      }
+    ]
+  },
+  {
+    "productId": "millac-cookingcream-1l&",
+    "productNameAr": "كريمة طبخ",
+    "productNameEn": "Cooking Cream",
+    "brandAr": "ميلاك",
+    "brandEn": "Millac",
+    "categoryId": "cooking-essentials",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7a0BoyCJExhFN-NjpDnSrDWSuFq3qCmUJBb68hKnZYCb3VZMkcT-CjJy0&s=10",
+    "variants": [
+      {
+        "variantId": "millac-cookingcream-1l&",
+        "packageSize": 1,
+        "unit": "لتر",
+        "unitEn": "L",
+        "categoryId": "cooking-essentials"
+      }
+    ]
+  },
+  {
+    "productId": "pampers-babydiaper-ultimate-comfor-megapack&",
+    "productNameAr": "حفاضات أطفال",
+    "productNameEn": "Baby Diapers",
+    "brandAr": "بامبرز",
+    "brandEn": "Pampers",
+    "categoryId": "diapers",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "pampers-babydiaper-ultimate-comfor-megapack&",
+        "packageSize": 1,
+        "unit": "mega pack",
+        "unitEn": "mega pack",
+        "categoryId": "diapers"
+      }
+    ]
+  },
+  {
+    "productId": "lux-dishwash-liquid-1250ml&",
+    "productNameAr": "سائل غسيل الصحون",
+    "productNameEn": "Dishwashing Liquid",
+    "brandAr": "لوكس",
+    "brandEn": "Lux",
+    "categoryId": "dishwash",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5LqYbR1Bm7hnsUAXlPErSK-Scqkvzn6bjF_IQu8S4NQ&s=10",
+    "variants": [
+      {
+        "variantId": "lux-dishwash-liquid-1250ml&",
+        "packageSize": 1250,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "dishwash"
+      }
+    ]
+  },
+  {
+    "productId": "alghadeer-egg-big-30&",
+    "productNameAr": "بيض أبيض طازج كبير",
+    "productNameEn": "Large Fresh White Eggs",
+    "brandAr": "الغدير",
+    "brandEn": "Al Ghadeer",
+    "categoryId": "egg",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0O7edjNY4CgxWwGPXYNdPIr3ZItEaQHw6rklTbT6LIAUzaChma70BLcxn&s=10",
+    "variants": [
+      {
+        "variantId": "alghadeer-egg-big-30&",
+        "packageSize": 30,
+        "unit": "حبة",
+        "unitEn": "pc",
+        "categoryId": "egg"
+      }
+    ]
+  },
+  {
+    "productId": "saha-whiteeggs-medium30&",
+    "productNameAr": "بيض أبيض طازج متوسط",
+    "productNameEn": "White Eggs Medium",
+    "brandAr": "صحة",
+    "brandEn": "Saha",
+    "categoryId": "egg",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFi8v2Ua3ltXVvMbxypzNNaOxFpeQYiXTJSMBikfZFp-8NCzft_yzyoBb7&s=10",
+    "variants": [
+      {
+        "variantId": "saha-whiteeggs-medium30&",
+        "packageSize": 30,
+        "unit": "حبة",
+        "unitEn": "pc",
+        "categoryId": "egg"
+      }
+    ]
+  },
+  {
+    "productId": "downy-fabric-conditioner-concentrate-1l&",
+    "productNameAr": "منعم أقمشة",
+    "productNameEn": "Fabric Conditioner",
+    "brandAr": "داوني",
+    "brandEn": "Downy",
+    "categoryId": "fabric-conditioner",
+    "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/104042299_a1dbcbe1759c63c1f_85816.jpg",
+    "variants": [
+      {
+        "variantId": "downy-fabric-conditioner-concentrate-1l&",
+        "packageSize": 1,
+        "unit": "لتر",
+        "unitEn": "L",
+        "categoryId": "fabric-conditioner"
+      }
+    ]
+  },
+  {
+    "productId": "mccain-frenshfries-2.5kg&",
+    "productNameAr": "بطاطس مقلية",
+    "productNameEn": "French Fries",
+    "brandAr": "ماكين",
+    "brandEn": "McCain",
+    "categoryId": "frenchfries",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUTn3fecN0lseL1YfKM87iNHZwNyo8KRkYgaQYRiT8vuiTh68OSBOt1A&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "mccain-frenshfries-2.5kg&",
+        "packageSize": 2.5,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "frenchfries"
+      }
+    ]
+  },
+  {
+    "productId": "sadia-frenshfries-2.5kg&",
+    "productNameAr": "بطاطس مقلية",
+    "productNameEn": "French Fries",
+    "brandAr": "ساديا",
+    "brandEn": "Sadia",
+    "categoryId": "frenchfries",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8DSI34TzHChL6XnjHN3ikgAjhazCDz_WYQqV1YomJJg&s",
+    "variants": [
+      {
+        "variantId": "sadia-frenshfries-2.5kg&",
+        "packageSize": 2.5,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "frenchfries"
+      }
+    ]
+  },
+  {
+    "productId": "sadia-frenshfries-wedge-2.5kg&",
+    "productNameAr": "بطاطس مقلية ويدجز",
+    "productNameEn": "French Fries Wedges",
+    "brandAr": "ساديا",
+    "brandEn": "Sadia",
+    "categoryId": "frenchfries",
+    "variants": [
+      {
+        "variantId": "sadia-frenshfries-wedge-2.5kg&",
+        "packageSize": 2.5,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "frenchfries"
+      }
+    ]
+  },
+  {
+    "productId": "lambstone-frenshfries-2.5kg&",
+    "productNameAr": "بطاطس مقلية",
+    "productNameEn": "French Fries",
+    "brandAr": "لامب ويسون",
+    "brandEn": "Lamb Weston",
+    "categoryId": "frenchfries",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjJdSvv5hZx1K7e3ey2viSWELEkIGLidAu0Idw2dZ2vjRAN34bbDRufTye&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "lambstone-frenshfries-2.5kg&",
+        "packageSize": 2.5,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "frenchfries"
+      }
+    ]
+  },
+  {
+    "productId": "dari-frenshfries-2kg&",
+    "productNameAr": "بطاطس مقلية",
+    "productNameEn": "French Fries",
+    "brandAr": "داري",
+    "brandEn": "Dari",
+    "categoryId": "frenchfries",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h0b/h0f/51847207256094/610334_main.jpg",
+    "variants": [
+      {
+        "variantId": "dari-frenshfries-2kg&",
+        "packageSize": 2,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "frenchfries"
+      }
+    ]
+  },
+  {
+    "productId": "apple-red-turkey&",
+    "productNameAr": "تفاح أحمر تركي",
+    "productNameEn": "Red Apple Turkey",
+    "brandAr": "فاكهة طازجة",
+    "brandEn": "Fresh Fruit",
+    "categoryId": "fru-apples",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiD4IEwxM9S5xQFEMrE20Y4JpH6_DmS-R0wFR2ISeyiw&s",
+    "variants": [
+      {
+        "variantId": "apple-red-turkey&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-apples"
+      }
+    ]
+  },
+  {
+    "productId": "banana-equador&",
+    "productNameAr": "موز إكوادوري",
+    "productNameEn": "Banana Ecuador",
+    "brandAr": "فاكهة طازجة",
+    "brandEn": "Fresh Fruit",
+    "categoryId": "fru-banana",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_D7ih_flBEv2HvAkI2h4_M7mc7Q1Pz_-5AAFnxjL6VQ&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "banana-equador&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-banana"
+      }
+    ]
+  },
+  {
+    "productId": "dragonfruit-red-syrian&",
+    "productNameAr": "فاكهة التنين سورية",
+    "productNameEn": "Dragon Fruit Red Syria",
+    "brandAr": "فاكهة طازجة",
+    "brandEn": "Fresh Fruit",
+    "categoryId": "fru-dragon",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxozEGn7bz7cOPTidsW0busqjv9L8HmanBch2MYC62lA&s",
+    "variants": [
+      {
+        "variantId": "dragonfruit-red-syrian&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-dragon"
+      }
+    ]
+  },
+  {
+    "productId": "grapes-black-lebanese&",
+    "productNameAr": "عنب أسود لبناني",
+    "productNameEn": "Grapes Black Lebanon",
+    "brandAr": "فاكهة طازجة",
+    "brandEn": "Fresh Fruit",
+    "categoryId": "fru-grapes",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoXPOS47Ep4jmYempgVOvCPgoKH8AmI46TC-8AUfmaAQ&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "grapes-black-lebanese&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-grapes"
+      }
+    ]
+  },
+  {
+    "productId": "lemon-big-egypt&",
+    "productNameAr": "ليمون كبير مصري",
+    "productNameEn": "Lemon Big Egypt",
+    "brandAr": "فاكهة طازجة",
+    "brandEn": "Fresh Fruit",
+    "categoryId": "fru-lemon",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvHxKTvjxKzr2ukMgw3UVAiIWJWQflWIj854l37a9MA&s=10",
+    "variants": [
+      {
+        "variantId": "lemon-big-egypt&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-lemon"
+      }
+    ]
+  },
+  {
+    "productId": "mango-yasmina-maluka-egypt&",
+    "productNameAr": "مانجو ياسمينا ملكي مصري",
+    "productNameEn": "Egyptian Royal Yasmina Mango",
+    "brandAr": "فاكهة طازجة",
+    "brandEn": "Fresh Fruit",
+    "categoryId": "fru-mango",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPs1XUFViHOAxKXE25c3tMekkN6OhEDyjDdczDJeCP3Q&s=10",
+    "variants": [
+      {
+        "variantId": "mango-yasmina-maluka-egypt&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-mango"
+      }
+    ]
+  },
+  {
+    "productId": "mango-keith-egypt&",
+    "productNameAr": "مانجو كيت مصري",
+    "productNameEn": "Mango Keith Egypt",
+    "brandAr": "فاكهة طازجة",
+    "brandEn": "Fresh Fruit",
+    "categoryId": "fru-mango",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuC1T9Q0GqKrmuRtZ3XjwIpUZQoWnNdemAm4e_kPsRFQ&s=10",
+    "variants": [
+      {
+        "variantId": "mango-keith-egypt&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-mango"
+      }
+    ]
+  },
+  {
+    "productId": "orange-valencia-southafrica&",
+    "productNameAr": "برتقال فالنسيا جنوب أفريقيا",
+    "productNameEn": "Orange Valencia South Africa",
+    "brandAr": "فاكهة طازجة",
+    "brandEn": "Fresh Fruit",
+    "categoryId": "fru-orange",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0FAOnh6oTO9B0ceh-DkOcDZfhvgybUwTefFW-msVaoQ&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "orange-valencia-southafrica&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-orange"
+      }
+    ]
+  },
+  {
+    "productId": "persimmons-spain&",
+    "productNameAr": "كاكا أسباني",
+    "productNameEn": "Persimmons Spain",
+    "brandAr": "فاكهة طازجة",
+    "brandEn": "Fresh Fruit",
+    "categoryId": "fru-persimmons",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRiWvq82irbSH7IAwUhoA46k4_H_gLOGOhI6kRxKe9gw&s=10",
+    "variants": [
+      {
+        "variantId": "persimmons-spain&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-persimmons"
+      }
+    ]
+  },
+  {
+    "productId": "pineapple-panama-kenya&",
+    "productNameAr": "أناناس بنما/كيني",
+    "productNameEn": "Panama/Kenyan Pineapple",
+    "brandAr": "فاكهة طازجة",
+    "brandEn": "Fresh Fruit",
+    "categoryId": "fru-pineapple",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdI3MMwB_DR7XOvV2n4-HYw5vQF42wq93N1gFDgruVRg&s=10",
+    "variants": [
+      {
+        "variantId": "pineapple-panama-kenya&",
+        "packageSize": 1,
+        "unit": "حبة",
+        "unitEn": "pc",
+        "categoryId": "fru-pineapple"
+      }
+    ]
+  },
+  {
+    "productId": "plumsblackangelinospain&",
+    "productNameAr": "برقوق أسود أنجلينو أسباني",
+    "productNameEn": "Spanish Black Angelino Plums",
+    "brandAr": "فاكهة طازجة",
+    "brandEn": "Fresh Fruit",
+    "categoryId": "fru-plums",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7FMgwMbumTKTxCjcsL4oYstK_j4XW_YBauGTuRj_Q9ojgCbydyVK4nRw&s=10",
+    "variants": [
+      {
+        "variantId": "plumsblackangelinospain&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-plums"
+      }
+    ]
+  },
+  {
+    "productId": "watermelon-saudi&",
+    "productNameAr": "بطيخ سعودي",
+    "productNameEn": "Saudi Watermelon",
+    "brandAr": "فاكهة طازجة",
+    "brandEn": "Fresh Fruit",
+    "categoryId": "fru-watermelon",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVN2rhS-OE0hUBOhJgDsmdYQxd0Q2lwitmZK431UeTug&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "watermelon-saudi&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-watermelon"
+      }
+    ]
+  },
+  {
+    "productId": "7bahar-honey-500gm&",
+    "productNameAr": "عسل طبيعي",
+    "productNameEn": "Natural Honey",
+    "brandAr": "7 بهار",
+    "brandEn": "7 Bahar",
+    "categoryId": "honey",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPkIegFtDgiKTFGfczhVnYNA3Kp6Q_Bs48rZPRmxL4cA&s",
+    "variants": [
+      {
+        "variantId": "7bahar-honey-500gm&",
+        "packageSize": 500,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "honey"
+      }
+    ]
+  },
+  {
+    "productId": "biohoney-honey-500gm&",
+    "productNameAr": "عسل طبيعي",
+    "productNameEn": "Natural Honey",
+    "brandAr": "بيو هوني",
+    "brandEn": "Bio Honey",
+    "categoryId": "honey",
+    "imageUrl": "https://hungerstation.dhmedia.io/image/product-information-management/686fdc621289c220eb1ed4a2.png?width=1440&quality=75&webp=true",
+    "variants": [
+      {
+        "variantId": "biohoney-honey-500gm&",
+        "packageSize": 500,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "honey"
+      }
+    ]
+  },
+  {
+    "productId": "igloo-icecream-1l&",
+    "productNameAr": "ايس كريم",
+    "productNameEn": "Ice Cream",
+    "brandAr": "ايجلو",
+    "brandEn": "Igloo",
+    "categoryId": "icecream",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ihHbOXRV3C-UyA0JVdtsxSgY3ez2VRS-Ce1y10HPdQ&s",
+    "variants": [
+      {
+        "variantId": "igloo-icecream-1l&",
+        "packageSize": 1000,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "icecream"
+      }
+    ]
+  },
+  {
+    "productId": "londondairy-icecream-500ml&",
+    "productNameAr": "ايس كريم",
+    "productNameEn": "Ice Cream",
+    "brandAr": "لندن ديري",
+    "brandEn": "London Dairy",
+    "categoryId": "icecream",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7pgEV0ps1K1A4tkpNL-wXePUS3GHn9lyPnf1MIdWY-w&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "londondairy-icecream-500ml&",
+        "packageSize": 500,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "icecream"
+      }
+    ]
+  },
+  {
+    "productId": "quanta-icecream-50ml*6&",
+    "productNameAr": "أعواد ايس كريم",
+    "productNameEn": "Ice Cream Sticks",
+    "brandAr": "كوانتا",
+    "brandEn": "Quanta",
+    "categoryId": "icecream",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuwCIlj4u5kF4Rc0Ke4-u1JVeCepLQ5SInY1UQwyogKg&s=10",
+    "variants": [
+      {
+        "variantId": "quanta-icecream-50ml*6&",
+        "packageSize": 50,
+        "unit": "مل * 6",
+        "unitEn": "ml * 6",
+        "categoryId": "icecream"
+      }
+    ]
+  },
+  {
+    "productId": "igloo-icecream-65ml*5&",
+    "productNameAr": "أعواد ايس كريم",
+    "productNameEn": "Ice Cream Sticks",
+    "brandAr": "ايجلو",
+    "brandEn": "Igloo",
+    "categoryId": "icecream",
+    "imageUrl": "https://img.ananinja.com/media/bra-public-files/services-admin/files/0e105e4f-0140-499e-9040-852b2d6b6489",
+    "variants": [
+      {
+        "variantId": "igloo-icecream-65ml*5&",
+        "packageSize": 65,
+        "unit": "مل * 5",
+        "unitEn": "ml * 5",
+        "categoryId": "icecream"
+      }
+    ]
+  },
+  {
+    "productId": "londondairy-icecream-stick-*6&",
+    "productNameAr": "أعواد ايس كريم",
+    "productNameEn": "Ice Cream Sticks",
+    "brandAr": "لندن ديري",
+    "brandEn": "London Dairy",
+    "categoryId": "icecream",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2g4Uc1WYKS7GGKkATPUdXU_dcFK6nmgyp_ukmhj0L3A&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "londondairy-icecream-stick-*6&",
+        "packageSize": 50,
+        "unit": "مل * 6",
+        "unitEn": "ml * 6",
+        "categoryId": "icecream"
+      }
+    ]
+  },
+  {
+    "productId": "alsaudia-icecream-2l&",
+    "productNameAr": "ايس كريم",
+    "productNameEn": "Ice Cream",
+    "brandAr": "السعودية",
+    "brandEn": "Al Saudia",
+    "categoryId": "icecream",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GZ-IUqab2At81nN2LOEwk78AehCamlYyot9dktyf8A&s=10",
+    "variants": [
+      {
+        "variantId": "alsaudia-icecream-2l&",
+        "packageSize": 2000,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "icecream"
+      }
+    ]
+  },
+  {
+    "productId": "suntop-juice-125ml*18&",
+    "productNameAr": "عصير فواكه",
+    "productNameEn": "Fruit Juice",
+    "brandAr": "صن توب",
+    "brandEn": "Sun Top",
+    "categoryId": "juice",
+    "imageUrl": "https://m.media-amazon.com/images/I/71O8ZucxiXL._AC_UF1000,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "suntop-juice-125ml*18&",
+        "packageSize": 125,
+        "unit": "مل * 18",
+        "unitEn": "ml * 18",
+        "categoryId": "juice"
+      }
+    ]
+  },
+  {
+    "productId": "nestle-condensedmilk-370gm&",
+    "productNameAr": "حليب مكثف",
+    "productNameEn": "Condensed Milk",
+    "brandAr": "نيستله",
+    "brandEn": "Nestlé",
+    "categoryId": "milk-condensed",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pEat7F8ZxlEBQqzdKwk-IyPPktnzcoPrIzjqBe0etBLqEyVjgH_guvat&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "nestle-condensedmilk-370gm&",
+        "packageSize": 370,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "milk-condensed"
+      }
+    ]
+  },
+  {
+    "productId": "luna-evaporatedmilk-170gm&",
+    "productNameAr": "حليب مبخر",
+    "productNameEn": "Evaporated Milk",
+    "brandAr": "لونا",
+    "brandEn": "Luna",
+    "categoryId": "milk-evaporated",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9A2zAfSSL9wATGItw_8jbypB6zYRa7X1rnhnsa9KtFw&s=10",
+    "variants": [
+      {
+        "variantId": "luna-evaporatedmilk-170gm&",
+        "packageSize": 170,
+        "unit": "جم * 6",
+        "unitEn": "g * 6",
+        "categoryId": "milk-evaporated"
+      }
+    ]
+  },
+  {
+    "productId": "nadecuhtmilk-1l*12&",
+    "productNameAr": "حليب طويل الأجل",
+    "productNameEn": "Long-Life Milk",
+    "brandAr": "نادك",
+    "brandEn": "Nadec",
+    "categoryId": "milk-long",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Zbnq3FS_DtLwDfruKGzqKR-hJza_FngUWh5u3oRm_w&s=10",
+    "variants": [
+      {
+        "variantId": "nadecuhtmilk-1l*12&",
+        "packageSize": 1,
+        "unit": "لتر * 12",
+        "unitEn": "L * 12",
+        "categoryId": "milk-long"
+      }
+    ]
+  },
+  {
+    "productId": "almaraeiuhtmilk-200ml*18&",
+    "productNameAr": "حليب طويل الأجل",
+    "productNameEn": "Long-Life Milk",
+    "brandAr": "المراعي",
+    "brandEn": "Al Maraei",
+    "categoryId": "milk-long",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fvhwljDGFrxprbDd3y3v46lB5922piNsKqzeytUkaA&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "almaraeiuhtmilk-200ml*18&",
+        "packageSize": 200,
+        "unit": "مل * 18",
+        "unitEn": "ml * 18",
+        "categoryId": "milk-long"
+      }
+    ]
+  },
+  {
+    "productId": "sama-milkpowder-1.8kg&",
+    "productNameAr": "حليب بودرة",
+    "productNameEn": "Milk Powder",
+    "brandAr": "سما",
+    "brandEn": "Sama",
+    "categoryId": "milk-powder",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDA1Hkt-cixZ0zUgIvjiihqvrKs_f-yLsG7fYpWbk1QA&s=10",
+    "variants": [
+      {
+        "variantId": "sama-milkpowder-1.8kg&",
+        "packageSize": 1.8,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "milk-powder"
+      }
+    ]
+  },
+  {
+    "productId": "nidomilkpowder-2.5kg&",
+    "productNameAr": "حليب بودرة",
+    "productNameEn": "Milk Powder",
+    "brandAr": "نيدو",
+    "brandEn": "Nido",
+    "categoryId": "milk-powder",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx9QR8fFm0X8gM4Mtgv3z8FhsSTmiFazs9HLGRtAeE9A&s=10",
+    "variants": [
+      {
+        "variantId": "nidomilkpowder-2.5kg&",
+        "packageSize": 2.5,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "milk-powder"
+      }
+    ]
+  },
+  {
+    "productId": "anchormilkpowder-fortified-1.8kg&",
+    "productNameAr": "حليب بودرة مدعم",
+    "productNameEn": "Fortified Milk Powder",
+    "brandAr": "أنكور",
+    "brandEn": "Anchor",
+    "categoryId": "milk-powder",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNqGmWObtDrSm0r5BA_eOH-oE0S7ykWaNCihoA4DIiEQ&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "anchormilkpowder-fortified-1.8kg&",
+        "packageSize": 1.8,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "milk-powder"
+      }
+    ]
+  },
+  {
+    "productId": "gardomilkpowder-2.25kg&",
+    "productNameAr": "حليب بودرة",
+    "productNameEn": "Milk Powder",
+    "brandAr": "جاردو",
+    "brandEn": "Gardo",
+    "categoryId": "milk-powder",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLUmE2JtFl_ifVX39lYPYKxQoPY9CObiIUzJ0AKgYoGeEmFgk4dU8BNyy&s=10",
+    "variants": [
+      {
+        "variantId": "gardomilkpowder-2.25kg&",
+        "packageSize": 2.25,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "milk-powder"
+      }
+    ]
+  },
+  {
+    "productId": "forsanashreddedmozzarella-500gm&",
+    "productNameAr": "جبنة موزاريلا مبشورة",
+    "productNameEn": "Shredded Mozzarella Cheese",
+    "brandAr": "فرسانا",
+    "brandEn": "Forsana",
+    "categoryId": "mozzarella",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkz-FPQC4-5L1qVLA_tl-lagB9vvXfL5XSvVWAH2PfkY2t4NofhcwwG4Y&s=10",
+    "variants": [
+      {
+        "variantId": "forsanashreddedmozzarella-500gm&",
+        "packageSize": 500,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "mozzarella"
+      }
+    ]
+  },
+  {
+    "productId": "threecows-shreddedmozzarella-900gm&",
+    "productNameAr": "جبنة موزاريلا مبشورة",
+    "productNameEn": "Shredded Mozzarella Cheese",
+    "brandAr": "البقرات الثلاث",
+    "brandEn": "Three Cows",
+    "categoryId": "mozzarella",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-ucY8Lve-haFnuQMMbsvP4L2ELIqanvmGjLYSlI88-V75RDQYtsGHlOR&s=10",
+    "variants": [
+      {
+        "variantId": "threecows-shreddedmozzarella-900gm&",
+        "packageSize": 900,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "mozzarella"
+      }
+    ]
+  },
+  {
+    "productId": "dari-shreddedmozzarella-900gm&",
+    "productNameAr": "جبنة موزاريلا مبشورة",
+    "productNameEn": "Shredded Mozzarella Cheese",
+    "brandAr": "داري",
+    "brandEn": "Dari",
+    "categoryId": "mozzarella",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/SAU/media/product/553704/1755761404/553704_main.jpg",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "dari-shreddedmozzarella-900gm&",
+        "packageSize": 900,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "mozzarella"
+      }
+    ]
+  },
+  {
+    "productId": "farmlandshreddedmozzarella-1kg&",
+    "productNameAr": "جبنة موزاريلا مبشورة تركية",
+    "productNameEn": " Turkey Shredded Mozzarella Cheese",
+    "brandAr": "فارم لاند",
+    "brandEn": "Farm Land",
+    "categoryId": "mozzarella",
+    "imageUrl": "https://www.farmland-kw.com/Shop/847FL%20Sh.%20Mozz.%20200gx2.png",
+    "variants": [
+      {
+        "variantId": "farmlandshreddedmozzarella-1kg&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "mozzarella"
+      }
+    ]
+  },
+  {
+    "productId": "moussy-nonalcoholicbeer-330ml*6&",
+    "productNameAr": "مشروب شعير",
+    "productNameEn": "Malt Beverage",
+    "brandAr": "موسي",
+    "brandEn": "Moussy",
+    "categoryId": "nonalcoholic-beer",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHihcxyFgm4g9Fus7wqN9g-aP9LyG5wRSdNIIANKb6BzbseHyV-j_EwOU&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "moussy-nonalcoholicbeer-330ml*6&",
+        "packageSize": 330,
+        "unit": "مل * 6",
+        "unitEn": "ml * 6",
+        "categoryId": "nonalcoholic-beer"
+      }
+    ]
+  },
+  {
+    "productId": "indo-malabar-coconut-oil-1l&",
+    "productNameAr": "زيت جوز الهند",
+    "productNameEn": "Coconut Oil",
+    "brandAr": "اندو مالابار",
+    "brandEn": "Indo Malabar",
+    "categoryId": "oil-coconut",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLRjWnXiS_1N6D5uvWQCX2LBiOMkeJcd9ayPETwwB1sw&s=10",
+    "variants": [
+      {
+        "variantId": "indo-malabar-coconut-oil-1l&",
+        "packageSize": 1,
+        "unit": "لتر",
+        "unitEn": "L",
+        "categoryId": "oil-coconut"
+      }
+    ]
+  },
+  {
+    "productId": "verde-oliveoil-3l&",
+    "productNameAr": "زيت زيتون",
+    "productNameEn": "Olive Oil",
+    "brandAr": "فيردي",
+    "brandEn": "Verde",
+    "categoryId": "oil-olive",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6_F5Nt7eT8VGsPZ7B8JxvrfARMaUjcNgm-FsmNmc3A&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "verde-oliveoil-3l&",
+        "packageSize": 3,
+        "unit": "لتر",
+        "unitEn": "L",
+        "categoryId": "oil-olive"
+      }
+    ]
+  },
+  {
+    "productId": "saso-olive-oil-400ml-mix&",
+    "productNameAr": "زيت زيتون خليط",
+    "productNameEn": "Mixed Olive Oil",
+    "brandAr": "ساسو",
+    "brandEn": "Sasso",
+    "categoryId": "oil-olive",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/SAU/media/product/112596/1768721400/112596_main.jpg",
+    "variants": [
+      {
+        "variantId": "saso-olive-oil-400ml-mix&",
+        "packageSize": 400,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "oil-olive"
+      }
+    ]
+  },
+  {
+    "productId": "nadec-organic-olive-oil-500ml&",
+    "productNameAr": "زيت زيتون",
+    "productNameEn": "Olive Oil",
+    "brandAr": "نادك",
+    "brandEn": "Nadec",
+    "categoryId": "oil-olive",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVeFE308MuodMA6Lha7JzcpGFAWnmoSdw5rFaP6rRUDfql34GEqvN1R4&s=10",
+    "variants": [
+      {
+        "variantId": "nadec-organic-olive-oil-500ml&",
+        "packageSize": 500,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "oil-olive"
+      }
+    ]
+  },
+  {
+    "productId": "crystal-sunflower-oil1.5l&",
+    "productNameAr": "زيت دوار الشمس",
+    "productNameEn": "Sunflower Oil",
+    "brandAr": "كريستال",
+    "brandEn": "Crystal",
+    "categoryId": "oil-sunflower",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCx4hr9CX31EzstOhuSULzfL9BihWi-6br4NzNllBPH5Mf7SrTA18Nhzc&s=10",
+    "variants": [
+      {
+        "variantId": "crystal-sunflower-oil1.5l&",
+        "packageSize": 1.5,
+        "unit": "لتر",
+        "unitEn": "L",
+        "categoryId": "oil-sunflower"
+      }
+    ]
+  },
+  {
+    "productId": "rahaf-sunflower-oil-3l&",
+    "productNameAr": "زيت دوار الشمس",
+    "productNameEn": "Sunflower Oil",
+    "brandAr": "رهف",
+    "brandEn": "Rahaf",
+    "categoryId": "oil-sunflower",
+    "imageUrl": "https://hungerstation.dhmedia.io/image/product-information-management/6a71bc12d5758be5c484c026.jpg",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "rahaf-sunflower-oil-3l&",
+        "packageSize": 3,
+        "unit": "لتر",
+        "unitEn": "L",
+        "categoryId": "oil-sunflower"
+      }
+    ]
+  },
+  {
+    "productId": "safya-sunflower-oil-1.5l&",
+    "productNameAr": "زيت دوار الشمس",
+    "productNameEn": "Sunflower Oil",
+    "brandAr": "صافيا",
+    "brandEn": "Safia",
+    "categoryId": "oil-sunflower",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRX_2I-ynlLhUJ-QSQVHrKagpivJVyiVYK0pKx8i8YKg&s=10",
+    "variants": [
+      {
+        "variantId": "safya-sunflower-oil-1.5l&",
+        "packageSize": 1.5,
+        "unit": "لتر",
+        "unitEn": "L",
+        "categoryId": "oil-sunflower"
+      }
+    ]
+  },
+  {
+    "productId": "lazeez-sella-basmati5k&",
+    "productNameAr": "سيلا أرز بسمتي",
+    "productNameEn": "Sella Basmati Rice",
+    "brandAr": "لذيذ",
+    "brandEn": "Lazeez",
+    "categoryId": "rice-basmati",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOrBi6p-AOF3a1mthKWFcVx__BCkUMyGSBpbhvh2Sg7w&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "lazeez-sella-basmati5k&",
+        "packageSize": 5,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "rice-basmati"
+      }
+    ]
+  },
+  {
+    "productId": "babalkhair-whitebasmati-10kg&",
+    "productNameAr": "أرز بنجابي بسمتي أبيض طويل الحبة",
+    "productNameEn": "Punjabi Long-Grain White Basmati Rice",
+    "brandAr": "باب الخير",
+    "brandEn": "Bab Al Khair",
+    "categoryId": "rice-basmati",
+    "imageUrl": "https://bf1af2.akinoncloudcdn.com/products/2024/12/19/320453/00ca92fc-fa29-4d2a-8049-0a4fc01fb55a.jpg",
+    "variants": [
+      {
+        "variantId": "babalkhair-whitebasmati-10kg&",
+        "packageSize": 10,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "rice-basmati"
+      }
+    ]
+  },
+  {
+    "productId": "alailawhitebasmatirice10kg&",
+    "productNameAr": "أرز بسمتي أبيض هندي طويل الحبة",
+    "productNameEn": "Indian Long-Grain White Basmati Rice",
+    "brandAr": "العائلة",
+    "brandEn": "Al Aila",
+    "categoryId": "rice-basmati",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzPKQnp5_1JDkqnb-wYQFQMU30suWwYVU7XkYg7Wo5nM3teueLbBLFchmc&s=10",
+    "variants": [
+      {
+        "variantId": "alailawhitebasmatirice10kg&",
+        "packageSize": 10,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "rice-basmati"
+      }
+    ]
+  },
+  {
+    "productId": "abusumbultainmazabasmatirice10kg&",
+    "productNameAr": "أرز بسمتي مزة هندي طويل الحبة",
+    "productNameEn": "Indian Mazaa Long-Grain Basmati Rice",
+    "brandAr": "أبو سنبلتين",
+    "brandEn": "Abu Sunbultein",
+    "categoryId": "rice-basmati",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDVFX6M7UOCbNbQctuLhZDqOKYQ4VqBFhnqVquwA-dVQ&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "abusumbultainmazabasmatirice10kg",
+        "packageSize": 10,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "rice-basmati"
+      }
+    ]
+  },
+  {
+    "productId": "alwalimastylesellabasmatirice5kg&",
+    "productNameAr": "أرز بسمتي سيلا",
+    "productNameEn": "Sella Basmati Rice",
+    "brandAr": "الوليمة",
+    "brandEn": "Al Walima",
+    "categoryId": "rice-basmati",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS616d-Zen6hgObdTUMRQmc4vmvM4ORrYfJo-OW5bmXnA&s",
+    "variants": [
+      {
+        "variantId": "alwalimastylesellabasmatirice5kg&",
+        "packageSize": 5,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "rice-basmati"
+      }
+    ]
+  },
+  {
+    "productId": "aladalabasmatirice5kg&",
+    "productNameAr": "أرز بسمتي حبة طويلة",
+    "productNameEn": "Long-Grain Basmati Rice",
+    "brandAr": "أل أدلة",
+    "brandEn": "Al Adla",
+    "categoryId": "rice-basmati",
+    "imageUrl": "https://hungerstation.dhmedia.io/image/product-information-management/6928291fb5f9c0ce0e6b5021.jpg?width=1440&quality=75&webp=true",
+    "variants": [
+      {
+        "variantId": "aladalabasmatirice5kg&",
+        "packageSize": 5,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "rice-basmati"
+      }
+    ]
+  },
+  {
+    "productId": "tajalhindwhitebasmati5kg&",
+    "productNameAr": "أرز بسمتي أبيض",
+    "productNameEn": "White Basmati Rice",
+    "brandAr": "تاج الهند",
+    "brandEn": "Taj Al Hind",
+    "categoryId": "rice-basmati",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7D6ht7-dnLbS6ALAQChVK8W1CJIVb0ywrSFwP7kRIuMlmuPzxbT5N33cu&s=10",
+    "variants": [
+      {
+        "variantId": "tajalhindwhitebasmati5kg&",
+        "packageSize": 5,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "rice-basmati"
+      }
+    ]
+  },
+  {
+    "productId": "kharifbasmatirice5kg&",
+    "productNameAr": "أرز بسمتي",
+    "productNameEn": "Basmati Rice",
+    "brandAr": "خريف",
+    "brandEn": "Kharif",
+    "categoryId": "rice-basmati",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQx4aymD6f3K1ENnS1S6GsNRLLByZakxnoyiOgHywOw&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "kharifbasmatirice5kg&",
+        "packageSize": 6,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "rice-basmati"
+      }
+    ]
+  },
+  {
+    "productId": "snowwhitecalrose5kg&",
+    "productNameAr": "أرز أبيض",
+    "productNameEn": "White Rice",
+    "brandAr": "صنوايت",
+    "brandEn": "Snow White",
+    "categoryId": "rice-white",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWc4JOogE_1fvtv_k-YQ7kpZa101q9CFX_1UCJ-ND-rXbDEXD3Tpp43sU&s=10",
+    "variants": [
+      {
+        "variantId": "snowwhitecalrose5kg&",
+        "packageSize": 5,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "rice-white"
+      }
+    ]
+  },
+  {
+    "productId": "lazeez-premiumwhite5kg&",
+    "productNameAr": "أرز أبيض",
+    "productNameEn": "White Rice",
+    "brandAr": "لذيذ",
+    "brandEn": "Lazeez",
+    "categoryId": "rice-white",
+    "imageUrl": "https://bf1af2.akinoncloudcdn.com/products/2026/03/28/659554/ead8d3cc-fc6d-4049-b115-97cd101d7bec_size1920x1920.jpg",
+    "variants": [
+      {
+        "variantId": "lazeez-premiumwhite5kg&",
+        "packageSize": 5,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "rice-white"
+      }
+    ]
+  },
+  {
+    "productId": "puck-cookingsauce-500ml&",
+    "productNameAr": "صلصة الطبخ",
+    "productNameEn": "Cooking Sauce",
+    "brandAr": "بوك",
+    "brandEn": "Puck",
+    "categoryId": "sauce",
+    "variants": [
+      {
+        "variantId": "puck-cookingsauce-500ml&",
+        "packageSize": 500,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "sauce"
+      }
+    ]
+  },
+  {
+    "productId": "goody-mayonaise-light-946ml&",
+    "productNameAr": "مايونيز",
+    "productNameEn": "Mayonnaise",
+    "brandAr": "قودي",
+    "brandEn": "Goody",
+    "categoryId": "sauce",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn5ckpcFk21YvF-bhnxZ5kuLQ3IxN-xxq6zB94VZCDVw&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "goody-mayonaise-light-946ml&",
+        "packageSize": 946,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "sauce"
+      }
+    ]
+  },
+  {
+    "productId": "heinze-ketchup-700gm&",
+    "productNameAr": "كاتشب",
+    "productNameEn": "Ketchup",
+    "brandAr": "هاينز",
+    "brandEn": "Heinz",
+    "categoryId": "sauce",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsUSLZtkiAFlwm0i5agZdG6QHF595bmmoc5SK8vmhfw&s=10",
+    "variants": [
+      {
+        "variantId": "heinze-ketchup-700gm&",
+        "packageSize": 700,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "sauce"
+      }
+    ]
+  },
+  {
+    "productId": "wisepicks-ketchup-1300gm&",
+    "productNameAr": "كاتشب",
+    "productNameEn": "Ketchup",
+    "brandAr": "وايزبيكس",
+    "brandEn": "Wise Picks",
+    "categoryId": "sauce",
+    "imageUrl": "https://bf1af2.akinoncloudcdn.com/products/2026/09/23/696728/57fcf8a8-225d-408c-a3aa-f3de4afbd841_size1920x1920.jpg",
+    "variants": [
+      {
+        "variantId": "wisepicks-ketchup-1300gm&",
+        "packageSize": 1300,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "sauce"
+      }
+    ]
+  },
+  {
+    "productId": "headandshoulders-shampoo-350ml&",
+    "productNameAr": "شامبو",
+    "productNameEn": "Shampoo",
+    "brandAr": "هيد آند شولدرز",
+    "brandEn": "Head & Shoulders",
+    "categoryId": "shampoo",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-hh-JJ3LbPHlw-vTzU_d8MdRSxAZA2Cqt6OYGosW4A&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "headandshoulders-shampoo-350ml&",
+        "packageSize": 350,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "shampoo"
+      }
+    ]
+  },
+  {
+    "productId": "albatalchips23gm*12&",
+    "productNameAr": "شيبس",
+    "productNameEn": "Chips",
+    "brandAr": "البطل",
+    "brandEn": "Al Batal",
+    "categoryId": "snackes",
+    "imageUrl": "https://m.media-amazon.com/images/I/715m15l8XOL.jpg",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "albatalchips23gm*12&",
+        "packageSize": 23,
+        "unit": "جم * 12",
+        "unitEn": "g * 12",
+        "categoryId": "snackes"
+      }
+    ]
+  },
+  {
+    "productId": "kenza-softdrink-360ml*6&",
+    "productNameAr": "مشروب غازي",
+    "productNameEn": "Soft Drink",
+    "brandAr": "كينزا",
+    "brandEn": "Kenza",
+    "categoryId": "softdrink",
+    "imageUrl": "https://m.media-amazon.com/images/I/61YwQgZnmLL._AC_UF1000,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "kenza-softdrink-360ml*6&",
+        "packageSize": 360,
+        "unit": "مل * 6",
+        "unitEn": "ml * 6",
+        "categoryId": "softdrink"
+      }
+    ]
+  },
+  {
+    "productId": "cocacola-softdrink-320*24&",
+    "productNameAr": "مشروب غازي",
+    "productNameEn": "Soft Drink",
+    "brandAr": "كوكاكولا",
+    "brandEn": "Coca-Cola",
+    "categoryId": "softdrink",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3ypOZrgXIj6sDklb3EJiZ8uFrnz-uGewXQtQZm5OMw&s=10",
+    "variants": [
+      {
+        "variantId": "cocacola-softdrink-320*24&",
+        "packageSize": 320,
+        "unit": "مل * 24",
+        "unitEn": "ml * 24",
+        "categoryId": "softdrink"
+      }
+    ]
+  },
+  {
+    "productId": "pepsidiet-softdrink-325ml*6&",
+    "productNameAr": "مشروب غازي",
+    "productNameEn": "Soft Drink",
+    "brandAr": "بيبسي",
+    "brandEn": "Pepsi",
+    "categoryId": "softdrink",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6L9eI6DCwptCC-kDptlV3Em7fbXCtukLFUkVcp3mww2GR9PLdzOfBrGo&s=10",
+    "variants": [
+      {
+        "variantId": "pepsidiet-softdrink-325ml*6&",
+        "packageSize": 325,
+        "unit": "مل * 6",
+        "unitEn": "ml * 6",
+        "categoryId": "softdrink"
+      }
+    ]
+  },
+  {
+    "productId": "sevenupdiet-softdrink-325ml*6&",
+    "productNameAr": "مشروب غازي",
+    "productNameEn": "Soft Drink",
+    "brandAr": "سفن أب",
+    "brandEn": "7UP",
+    "categoryId": "softdrink",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0Rse4Oe8ufiWpD3gRNtMPU9_IKYCGp81JF8zjzQgf2SKSqz2Q6x-NZTL&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "sevenupdiet-softdrink-325ml*6&",
+        "packageSize": 325,
+        "unit": "مل * 6",
+        "unitEn": "ml * 6",
+        "categoryId": "softdrink"
+      }
+    ]
+  },
+  {
+    "productId": "albalad-peanutbutter1kg&",
+    "productNameAr": "زبدة الفول السوداني",
+    "productNameEn": "Peanut Butter",
+    "brandAr": "البلد",
+    "brandEn": "Al Balad",
+    "categoryId": "spread",
+    "imageUrl": "https://hungerstation.dhmedia.io/image/product-information-management/6a8afa5c406ec970e16f75c4.jpg",
+    "variants": [
+      {
+        "variantId": "albalad-peanutbutter1kg&",
+        "packageSize": 1000,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "spread"
+      }
+    ]
+  },
+  {
+    "productId": "freshly-peanutbutter1kg&",
+    "productNameAr": "زبدة الفول السوداني",
+    "productNameEn": "Peanut Butter",
+    "brandAr": "فرشلي",
+    "brandEn": "Freshly",
+    "categoryId": "spread",
+    "imageUrl": "https://m.media-amazon.com/images/I/519OiuvQy3L._AC_UF1000,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "freshly-peanutbutter1kg&",
+        "packageSize": 18,
+        "unit": "أونصة",
+        "unitEn": "oz",
+        "categoryId": "spread"
+      }
+    ]
+  },
+  {
+    "productId": "nutellachocoate-spread350gm&",
+    "productNameAr": "شوكولاتة قابلة للدهن",
+    "productNameEn": "Chocolate Spread",
+    "brandAr": "نوتيلا",
+    "brandEn": "Nutella",
+    "categoryId": "spread",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLVQO9UpI_Uv3Bim1OEhGBP3oqzDTYZpPPNqB4GSga8sCal3TEOfuooo&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "nutellachocoate-spread350gm&",
+        "packageSize": 350,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "spread"
+      }
+    ]
+  },
+  {
+    "productId": "alalalyjam400gm&",
+    "productNameAr": "مربى",
+    "productNameEn": "Jam",
+    "brandAr": "العلالي",
+    "brandEn": "Al Alaly",
+    "categoryId": "spread",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTetKn8L1Lr09Zr0z5dd7WLTqSTHCiEQN3EYm0u0UdEgYiLefUW7zYZ39Q&s=10",
+    "variants": [
+      {
+        "variantId": "alalalyjam400gm&",
+        "packageSize": 400,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "spread"
+      }
+    ]
+  },
+  {
+    "productId": "bbccrunchtime-peanutbutter454&",
+    "productNameAr": "زبدة الفول السوداني",
+    "productNameEn": "Peanut Butter",
+    "brandAr": "بي بي سي",
+    "brandEn": "BBC",
+    "categoryId": "spread",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7u7JSgBb-tzzdsYhZ7mLrFmRqg0JhxxmRxGkcWdOgg&s=10",
+    "variants": [
+      {
+        "variantId": "bbccrunchtime-peanutbutter454&",
+        "packageSize": 454,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "spread"
+      }
+    ]
+  },
+  {
+    "productId": "bbc-peanutbutterwithhoney454&",
+    "productNameAr": "زبدة الفول السوداني",
+    "productNameEn": "Peanut Butter",
+    "brandAr": "بي بي سي",
+    "brandEn": "BBC",
+    "categoryId": "spread",
+    "imageUrl": "https://stgprevapi.al-dawaa.com/medias/Peanut-Butter-Co-Peanut-Butter-Spread-With-Honey-454-Gm_0_300.webp?context=bWFzdGVyfGltYWdlc3w0NTI2MnxpbWFnZS93ZWJwfGFEUmxMMmcwTlM4NU16UXhNamswT1RBek16STJMekl6T0RnNE4xOHdYMlZ1WHpNd01GZDRNekF3U0Y5WFJVSlFMbmRsWW5BfGRhZWVlMmEyOGE4YWUzMGIxYTc5MWI2N2RmNWI0NzUwMDgyNWQ3MTllOTIyYzE4MGY0OWY5MzIyZDcxMWI0ZDA",
+    "variants": [
+      {
+        "variantId": "bbc-peanutbutterwithhoney454&",
+        "packageSize": 454,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "spread"
+      }
+    ]
+  },
+  {
+    "productId": "pucks-preadablecheese750gm&",
+    "productNameAr": "جبنة قابلة للدهن",
+    "productNameEn": "Spreadable Cheese",
+    "brandAr": "بوك",
+    "brandEn": "Buck",
+    "categoryId": "spread",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/SAU/media/product/752280/1753768803/752280_main.jpg",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "pucks-preadablecheese750gm&",
+        "packageSize": 750,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "spread"
+      }
+    ]
+  },
+  {
+    "productId": "alsafi-preadablecheese500gm&",
+    "productNameAr": "جبنة قابلة للدهن",
+    "productNameEn": "Spreadable Cheese",
+    "brandAr": "الصافي",
+    "brandEn": "Al Safi",
+    "categoryId": "spread",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/SAU/media/product/655836/1756015203/655836_main.jpg",
+    "variants": [
+      {
+        "variantId": "alsafi-preadablecheese500gm&",
+        "packageSize": 500,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "spread"
+      }
+    ]
+  },
+  {
+    "productId": "philadelphia-preadablecheese500gm&",
+    "productNameAr": "جبنة قابلة للدهن",
+    "productNameEn": "Spreadable Cheese",
+    "brandAr": "فيلادلفيا",
+    "brandEn": "Philadelphia",
+    "categoryId": "spread",
+    "imageUrl": "https://m.media-amazon.com/images/I/51JLWG5obLL._AC_UF1000,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "philadelphia-preadablecheese500gm&",
+        "packageSize": 500,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "spread"
+      }
+    ]
+  },
+  {
+    "productId": "albait-fine-sugar-10kg&",
+    "productNameAr": "سكر ناعم",
+    "productNameEn": "Fine Sugar",
+    "brandAr": "البيت",
+    "brandEn": "Al Bait",
+    "categoryId": "sugar",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQf2rguGcuKEYu98rlguabzjxp0Z_3onC23V7D1-aJfg&s=10",
+    "variants": [
+      {
+        "variantId": "albait-fine-sugar-10kg&",
+        "packageSize": 10,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "sugar"
+      }
+    ]
+  },
+  {
+    "productId": "halawani-tahina-1kg&",
+    "productNameAr": "طحينة سائلة",
+    "productNameEn": "Liquid Tahini",
+    "brandAr": "حلواني",
+    "brandEn": "Halawani",
+    "categoryId": "tahina",
+    "imageUrl": "https://media.zid.store/cdn-cgi/image/w=1200,h=630,q=90,fit=pad,background=white/https://media.zid.store/4f665de7-4529-4e5d-9970-a8031ab24f18/c3f9dded-e8ec-4ba9-bc0d-81a0ed9a62f7.jpg",
+    "variants": [
+      {
+        "variantId": "halawani-tahina-1kg&",
+        "packageSize": 1000,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "tahina"
+      }
+    ]
+  },
+  {
+    "productId": "yellow-lipton-teadust400gm&",
+    "productNameAr": "شاي ناعم",
+    "productNameEn": "Fine Tea",
+    "brandAr": "ليبتون",
+    "brandEn": "Lipton",
+    "categoryId": "tea",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZ-mV4DtK6kiItRFQRd_PUaQIq3vCKpqRGzvRYq6RxA&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "yellow-lipton-teadust400gm&",
+        "packageSize": 400,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "tea"
+      }
+    ]
+  },
+  {
+    "productId": "alkabous-teabags-100&",
+    "productNameAr": "شاي أكياس",
+    "productNameEn": "Tea Bags",
+    "brandAr": "الكبوس",
+    "brandEn": "Al Kabous",
+    "categoryId": "tea",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM2Ad7u4Cci7OizjdvVPMUgPG3LP3d2ktt9-4_QVqOaQ&s=10",
+    "variants": [
+      {
+        "variantId": "alkabous-teabags-100&",
+        "packageSize": 100,
+        "unit": "كيس",
+        "unitEn": "bag",
+        "categoryId": "tea"
+      }
+    ]
+  },
+  {
+    "productId": "ahmedenglishtea-greenteabags100&",
+    "productNameAr": "شاي أخضر أكياس",
+    "productNameEn": "Green Tea Bags",
+    "brandAr": "أحمد",
+    "brandEn": "Ahmed",
+    "categoryId": "tea",
+    "imageUrl": "https://m.media-amazon.com/images/I/61u1-41RUVL._AC_UF1000,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "ahmedenglishtea-greenteabags100&",
+        "packageSize": 100,
+        "unit": "كيس",
+        "unitEn": "bag",
+        "categoryId": "tea"
+      }
+    ]
+  },
+  {
+    "productId": "alkahairkaraktea15g*12&",
+    "productNameAr": "شاي كرك",
+    "productNameEn": "Karak Tea",
+    "brandAr": "الخير",
+    "brandEn": "Al Khair",
+    "categoryId": "tea",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXOSh7t4iz7-TOXrVK6NcI7IfzBmvqTSwWCr9-L5hXZw&s=10",
+    "variants": [
+      {
+        "variantId": "alkahairkaraktea15g*12&",
+        "packageSize": 15,
+        "unit": "جم * 12",
+        "unitEn": "g * 12",
+        "categoryId": "tea"
+      }
+    ]
+  },
+  {
+    "productId": "kleenex-facial-tissuespack6&",
+    "productNameAr": "مناديل وجه",
+    "productNameEn": "Facial Tissues",
+    "brandAr": "كلينيكس",
+    "brandEn": "Kleenex",
+    "categoryId": "tissue-facial",
+    "imageUrl": "https://m.media-amazon.com/images/I/71exmk4iKLL.jpg",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "kleenex-facial-tissuespack6&",
+        "packageSize": 6,
+        "unit": "عبوة",
+        "unitEn": "pack",
+        "categoryId": "tissue-facial"
+      }
+    ]
+  },
+  {
+    "productId": "luna-tomatopaste135gm*8&",
+    "productNameAr": "معجون طماطم",
+    "productNameEn": "Tomato Paste",
+    "brandAr": "لونا",
+    "brandEn": "Luna",
+    "categoryId": "tomato-paste",
+    "imageUrl": "https://images.todoorstep.com/product/2227451/Ar.jpg?t=1744675200",
+    "variants": [
+      {
+        "variantId": "luna-tomatopaste135gm*8&",
+        "packageSize": 135,
+        "unit": "جم * 8",
+        "unitEn": "g * 8",
+        "categoryId": "tomato-paste"
+      }
+    ]
+  },
+  {
+    "productId": "cabbagewhite-saudi&",
+    "productNameAr": "ملفوف أبيض سعودي",
+    "productNameEn": "Saudi White Cabbage",
+    "brandAr": "خضار طازج",
+    "brandEn": "Fresh Vegetables",
+    "categoryId": "veg-cabbage",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/ha2/h08/13788173139998/657009_main.jpg",
+    "variants": [
+      {
+        "variantId": "cabbagewhite-saudi&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "veg-cabbage"
+      }
+    ]
+  },
+  {
+    "productId": "capsicum-red/yellow-egypt&",
+    "productNameAr": "فلفل رومي مصري أحمر / أصفر",
+    "productNameEn": "Capsicum Egypt Red/Yellow",
+    "brandAr": "خضار طازج",
+    "brandEn": "Fresh Vegetables",
+    "categoryId": "veg-capsicum",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS97LQ2nOVfL7F4bhK-bBAZy__ad4gl-t5Zzk3e4eMWaA&s",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "capsicum-red/yellow-egypt&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "veg-capsicum"
+      }
+    ]
+  },
+  {
+    "productId": "cucambertraypack&",
+    "productNameAr": "خيار معبأ في صينية",
+    "productNameEn": "Cucumber Packed in a Tray",
+    "brandAr": "خضار طازج",
+    "brandEn": "Fresh Vegetables",
+    "categoryId": "veg-cucamber",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_nk5raHm8U435H41MXezm5UXB672fopdeC_hZRFTvA&s=10",
+    "variants": [
+      {
+        "variantId": "cucambertraypack&",
+        "packageSize": 1,
+        "unit": "عبوة",
+        "unitEn": "pack",
+        "categoryId": "veg-cucamber"
+      }
+    ]
+  },
+  {
+    "productId": "eggplant-saudi-thermobox&",
+    "productNameAr": "باذنجان كبير محلي",
+    "productNameEn": "Eggplant Saudi",
+    "brandAr": "خضار طازج",
+    "brandEn": "Fresh Vegetables",
+    "categoryId": "veg-eggplant",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlnd8sSoJXLYKsxCKD34vKJHdt0dHq_XLzcFT59N709gMTQ2anUyd9F_vo&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "eggplant-saudi-thermobox&",
+        "packageSize": 1,
+        "unit": "فلين وسط",
+        "unitEn": "medium box",
+        "categoryId": "veg-eggplant"
+      }
+    ]
+  },
+  {
+    "productId": "marrow-koosa-saudi&",
+    "productNameAr": "كوسة محلية",
+    "productNameEn": "Marrow Koosa Saudi",
+    "brandAr": "خضار طازج",
+    "brandEn": "Fresh Vegetables",
+    "categoryId": "veg-koosa",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSX5yQnTTAdJ1cduAr_GZTT2Yt1Yt69zkmsulwb11iblrjGAoo_t_IENWk&s=10",
+    "variants": [
+      {
+        "variantId": "marrow-koosa-saudi&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "veg-koosa"
+      }
+    ]
+  },
+  {
+    "productId": "bragg-applecidar-vinegar-473ml&",
+    "productNameAr": "خل تفاح عضوي",
+    "productNameEn": "Organic Apple Cider Vinegar",
+    "brandAr": "براغ",
+    "brandEn": "Bragg",
+    "categoryId": "vinegar",
+    "imageUrl": "https://hungerstation.dhmedia.io/image/product-information-management/6a71bb9ed5758be5c4849eb5.jpg?width=1440&quality=75&webp=true",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "bragg-applecidar-vinegar-473ml&",
+        "packageSize": 473,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "vinegar"
+      }
+    ]
+  },
+  {
+    "productId": "taniawater-330ml*40&",
+    "productNameAr": "مياه شرب",
+    "productNameEn": "Drinking Water",
+    "brandAr": "تانيا",
+    "brandEn": "Tania",
+    "categoryId": "water",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdbVXfd6DXLHbE7688bpNyb1HDARhu6u5CpNLLpjIo9p-d2yG0iFysVtsS&s=10",
+    "variants": [
+      {
+        "variantId": "taniawater-330ml*40&",
+        "packageSize": 330,
+        "unit": "مل * 40",
+        "unitEn": "ml * 40",
+        "categoryId": "water"
+      }
+    ]
+  },
+  {
+    "productId": "albalad-drinkingwater-1.5l*6&",
+    "productNameAr": "مياه شرب",
+    "productNameEn": "Drinking Water",
+    "brandAr": "البلد",
+    "brandEn": "Al Balad",
+    "categoryId": "water",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGgxWdjx4rugSE8g7iwBHp2tVGRx4nGnNjEHjcvg3FVg&s=10",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "albalad-drinkingwater-1.5l*6&",
+        "packageSize": 1.5,
+        "unit": "لتر * 6",
+        "unitEn": "L * 6",
+        "categoryId": "water"
+      }
+    ]
+  },
+  {
+    "productId": "nova-water-550ml*24&",
+    "productNameAr": "مياه شرب",
+    "productNameEn": "Drinking Water",
+    "brandAr": "نوفا",
+    "brandEn": "Nova",
+    "categoryId": "water",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYibOUnz0Cky1HaSj8y-Q-AYYd6cLOGHsPxuBIU3QryftufNJdzQuZ1EY&s=10",
+    "variants": [
+      {
+        "variantId": "nova-water-550ml*24&",
+        "packageSize": 550,
+        "unit": "مل * 24",
+        "unitEn": "ml * 24",
+        "categoryId": "water"
+      }
+    ]
+  },
+  {
+    "productId": "nestle-purlife-water-330ml*12&",
+    "productNameAr": "مياه شرب",
+    "productNameEn": "Drinking Water",
+    "brandAr": "نيستله",
+    "brandEn": "Nestlé",
+    "categoryId": "water",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzUiIaK2yZWg8md6Qu6QxrT6ep4-DrffBJtKQLXDcaVw&s=10",
+    "variants": [
+      {
+        "variantId": "nestle-purlife-water-330ml*12&",
+        "packageSize": 330,
+        "unit": "مل * 12",
+        "unitEn": "ml * 12",
+        "categoryId": "water"
+      }
+    ]
+  },
+  {
+    "productId": "aquafina-water-330ml*30&",
+    "productNameAr": "مياه شرب",
+    "productNameEn": "Drinking Water",
+    "brandAr": "أكوافينا",
+    "brandEn": "Aquafina",
+    "categoryId": "water",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS4s1r0HbyWxfi4ZiMJOAaTdhwIlzYTCsFVgckCQR5cQ&s=10",
+    "variants": [
+      {
+        "variantId": "aquafina-water-330ml*30&",
+        "packageSize": 330,
+        "unit": "مل * 30",
+        "unitEn": "ml * 30",
+        "categoryId": "water"
+      }
+    ]
+  },
+  {
+    "productId": "peril-dishwash-liquid-ultrapower-lemon1.25l&",
+    "productNameAr": "سائل غسيل الصحون",
+    "productNameEn": "Dishwashing Liquid",
+    "brandAr": "بريل",
+    "brandEn": "Peril",
+    "categoryId": "dishwash",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKTzMr3B8ZqBoJLKPjeWMfdoobZ9vNBP1ospm0jnRcg&s=10",
+    "variants": [
+      {
+        "variantId": "peril-dishwash-liquid-ultrapower-lemon1.25l&",
+        "packageSize": 1.25,
+        "unit": "لتر",
+        "unitEn": "L",
+        "categoryId": "dishwash"
+      }
+    ]
+  },
+  {
+    "productId": "peril-dishwash-liquid-ultrapower-apple1.25l&",
+    "productNameAr": "سائل غسيل الصحون",
+    "productNameEn": "Dishwashing Liquid",
+    "brandAr": "بريل",
+    "brandEn": "Peril",
+    "categoryId": "dishwash",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMzNg-cj4ME8tuILJ6URTdd9bXooasInhfKKaT6qYFvuKIxWsjPBsbVyKC&s=10",
+    "variants": [
+      {
+        "variantId": "peril-dishwash-liquid-ultrapower-apple1.25l&",
+        "packageSize": 1.25,
+        "unit": "لتر",
+        "unitEn": "L",
+        "categoryId": "dishwash"
+      }
+    ]
+  },
+  {
+    "productId": "dettol-liquid-750ml&",
+    "productNameAr": "سائل مطهر",
+    "productNameEn": "Disinfectant Liquid",
+    "brandAr": "ديتول",
+    "brandEn": "Dettol",
+    "categoryId": "disinfectantliquid",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN3ME3p6pVUF4_qycLUlcglOW0nOaLHSuZyrd-ZxXGnjY718uO6TmXZLvL&s=10",
+    "variants": [
+      {
+        "variantId": "dettol-liquid-750ml&",
+        "packageSize": 750,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "disinfectantliquid"
+      }
+    ]
+  },
+  {
+    "productId": "clorex-bleach-regular-1gal&",
+    "productNameAr": "مبيض ملابس",
+    "productNameEn": "Bleacher",
+    "brandAr": "كلوريكس",
+    "brandEn": "Clorox",
+    "categoryId": "Bleacher",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyjjezc-xzSkAo8YTuBQASJH6qVeKtX-5cA8fhbxV1dg&s=10",
+    "variants": [
+      {
+        "variantId": "clorex-bleach-regular-1gal&",
+        "packageSize": 1,
+        "unit": "جالون",
+        "unitEn": "galon",
+        "categoryId": "Bleacher"
+      }
+    ]
+  },
+  {
+    "productId": "fairy-dishwash-liquid-900ml&",
+    "productNameAr": "سائل غسيل الصحون",
+    "productNameEn": "Dishwashing Liquid",
+    "brandAr": "فيري",
+    "brandEn": "Fairy",
+    "categoryId": "dishwash",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDn6gMcwtlB09hJL7ozzU4EkMo6OuF2hXHEx71BKroA&s=10",
+    "variants": [
+      {
+        "variantId": "fairy-dishwash-liquid-900ml&",
+        "packageSize": 900,
+        "unit": "مل",
+        "unitEn": "ml",
+        "categoryId": "dishwash"
+      }
+    ]
+  },
+  {
+    "productId": "fairy-dishwashertablets-5xpower-741gm&",
+    "productNameAr": "أقراص غسالات الأطباق",
+    "productNameEn": "Dishwasher Tablets",
+    "brandAr": "فيري",
+    "brandEn": "Fairy",
+    "categoryId": "dishwash",
+    "imageUrl": "https://m.media-amazon.com/images/I/61iNJLVh89L.jpg",
+    "variants": [
+      {
+        "variantId": "fairy-dishwashertablets-5xpower-741gm&",
+        "packageSize": 741,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "dishwash"
+      }
+    ]
+  },
+  {
+    "productId": "tide-washingpowder-2.25kg&",
+    "productNameAr": "مسحوق غسيل الملابس",
+    "productNameEn": "Washing Powder",
+    "brandAr": "تايد",
+    "brandEn": "Tide",
+    "categoryId": "clotheswashingpowder",
+    "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/104047612_a68b79a668f72088a_508.jpg",
+    "variants": [
+      {
+        "variantId": "tide-washingpowder-2.25kg&",
+        "packageSize": 2.25,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "clotheswashingpowder"
+      }
+    ]
+  },
+  {
+    "productId": "bonux-washingpowder-4kg&",
+    "productNameAr": "مسحوق غسيل الملابس",
+    "productNameEn": "Washing Powder",
+    "brandAr": "بونكس",
+    "brandEn": "Bonux",
+    "categoryId": "clotheswashingpowder",
+    "imageUrl": "https://f.nooncdn.com/p/pzsku/ZC067AE291402F7FCC2EDZ/45/1762679007/fbc9fdb0-b9b8-4346-b0dc-a6d1449558dd.jpg?width=1200",
+    "variants": [
+      {
+        "variantId": "bonux-washingpowder-4kg&",
+        "packageSize": 4,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "clotheswashingpowder"
+      }
+    ]
+  },
+  {
+    "productId": "dettol-liquid-3l&",
+    "productNameAr": "سائل مطهر",
+    "productNameEn": "Disinfectant Liquid",
+    "brandAr": "ديتول",
+    "brandEn": "Dettol",
+    "categoryId": "disinfectantliquid",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eYqSr-a_7K1fkca3M5RBDxc5CtYMxifMX2m6j60ngw&s=10",
+    "variants": [
+      {
+        "variantId": "dettol-liquid-3l&",
+        "packageSize": 3,
+        "unit": "لتر",
+        "unitEn": "L",
+        "categoryId": "disinfectantliquid"
+      }
+    ]
+  },
+  {
+    "productId": "persil-washingpowder-6.8kg&",
+    "productNameAr": "مسحوق غسيل الملابس",
+    "productNameEn": "Washing Powder",
+    "brandAr": "بيرسيل",
+    "brandEn": "Peril",
+    "categoryId": "clotheswashingpowder",
+    "imageUrl": "https://m.media-amazon.com/images/I/61jNMs0yr9L.jpg",
+    "variants": [
+      {
+        "variantId": "persil-washingpowder-6.8kg&",
+        "packageSize": 6.8,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "clotheswashingpowder"
+      }
+    ]
+  },
+  {
+    "productId": "extrawhite-washingpowder-5kg&",
+    "productNameAr": "مسحوق غسيل الملابس",
+    "productNameEn": "Washing Powder",
+    "brandAr": "إكسترا",
+    "brandEn": "Extra",
+    "categoryId": "clotheswashingpowder",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/SAU/media/product/734914/1722264003/734914_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "extrawhite-washingpowder-5kg&",
+        "packageSize": 5,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "clotheswashingpowder"
+      }
+    ]
+  },
+  {
+    "productId": "gento-washingpowder-2.25kg&",
+    "productNameAr": "مسحوق غسيل الملابس",
+    "productNameEn": "Washing Powder",
+    "brandAr": "جنتو",
+    "brandEn": "Gento",
+    "categoryId": "clotheswashingpowder",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdrBO_hDUJxIstVtpdiWtiaT3s0PaftTwH-DWIgXwrgQ&s=10",
+    "variants": [
+      {
+        "variantId": "gento-washingpowder-2.25kg&",
+        "packageSize": 2.25,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "clotheswashingpowder"
+      }
+    ]
+  },
+  {
+    "productId": "pampers-babydiaper-pants-giantpack&",
+    "productNameAr": "حفاضات أطفال",
+    "productNameEn": "Baby Diapers",
+    "brandAr": "بامبرز",
+    "brandEn": "Pampers",
+    "categoryId": "diapers",
+    "variants": [
+      {
+        "variantId": "pampers-babydiaper-pants-giantpack&",
+        "packageSize": 1,
+        "unit": "عبوة",
+        "unitEn": "pack",
+        "categoryId": "diapers"
+      }
+    ]
+  },
+  {
+    "productId": "kotex-sanitary-napkin-withwings-*30&",
+    "productNameAr": "فوط صحية",
+    "productNameEn": "Sanitary Napkins",
+    "brandAr": "كوتكس",
+    "brandEn": "Kotex",
+    "categoryId": "sanitarynapkins",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5GNAVrf2C3CyPoZv8yoOmjMTRp7YAOoumgcxGsgDRjA&s=10",
+    "variants": [
+      {
+        "variantId": "kotex-sanitary-napkin-withwings-*30&",
+        "packageSize": 1,
+        "unit": "عبوة",
+        "unitEn": "pack",
+        "categoryId": "sanitarynapkins"
+      }
+    ]
+  },
+  {
+    "productId": "always-maxi-thick-aloe-cool-xl*24&",
+    "productNameAr": "فوط صحية",
+    "productNameEn": "Sanitary Napkins",
+    "brandAr": "أولويز",
+    "brandEn": "Always",
+    "categoryId": "sanitarynapkins",
+    "imageUrl": "https://imagenew.unitedpharmacy.sa/cdn-cgi/image//live/media/catalog/product/d/p/dp-ad-492.jpg",
+    "variants": [
+      {
+        "variantId": "always-maxi-thick-aloe-cool-xl*24&",
+        "packageSize": 1,
+        "unit": "عبوة",
+        "unitEn": "pack",
+        "categoryId": "sanitarynapkins"
+      }
+    ]
+  },
+  {
+    "productId": "huggies-babydiaper-extracare-jumbopack&",
+    "productNameAr": "حفاضات أطفال",
+    "productNameEn": "Baby Diapers",
+    "brandAr": "هاجيز",
+    "brandEn": "Huggies",
+    "categoryId": "diapers",
+    "variants": [
+      {
+        "variantId": "huggies-babydiaper-extracare-jumbopack&",
+        "packageSize": 1,
+        "unit": "عبوة",
+        "unitEn": "pack",
+        "categoryId": "diapers"
+      }
+    ]
+  },
+  {
+    "productId": "carefree-sanitary-napkin-withwings-*48&",
+    "productNameAr": "فوط صحية",
+    "productNameEn": "Sanitary Napkins",
+    "brandAr": "كير فري",
+    "brandEn": "Care Free",
+    "categoryId": "sanitarynapkins",
+    "imageUrl": "https://m.media-amazon.com/images/I/71EyiMngQ3L._AC_UF1000,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "carefree-sanitary-napkin-withwings-*48&",
+        "packageSize": 1,
+        "unit": "عبوة",
+        "unitEn": "pack",
+        "categoryId": "sanitarynapkins"
+      }
+    ]
+  },
+  {
+    "productId": "napcofam-sanitary-napkin-withwings-compressed-folded-super*50&",
+    "productNameAr": "فوط صحية",
+    "productNameEn": "Sanitary Napkins",
+    "brandAr": "نابكو فام",
+    "brandEn": "Napco Fam",
+    "categoryId": "sanitarynapkins",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Lz8Ed+OIL._AC_UF1000,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "napcofam-sanitary-napkin-withwings-compressed-folded-super*50&",
+        "packageSize": 1,
+        "unit": "عبوة",
+        "unitEn": "pack",
+        "categoryId": "sanitarynapkins"
+      }
+    ]
+  },
+  {
+    "productId": "always-sanitary-napkin-withwings-*50&",
+    "productNameAr": "فوط صحية",
+    "productNameEn": "Sanitary Napkins",
+    "brandAr": "أولويز",
+    "brandEn": "Always",
+    "categoryId": "sanitarynapkins",
+    "variants": [
+      {
+        "variantId": "always-sanitary-napkin-withwings-*50&",
+        "packageSize": 1,
+        "unit": "عبوة",
+        "unitEn": "pack",
+        "categoryId": "sanitarynapkins"
+      }
+    ]
+  },
+  {
+    "productId": "always-sanitary-napkin-withwings-*30&",
+    "productNameAr": "فوط صحية",
+    "productNameEn": "Sanitary Napkins",
+    "brandAr": "أولويز",
+    "brandEn": "Always",
+    "categoryId": "sanitarynapkins",
+    "variants": [
+      {
+        "variantId": "always-sanitary-napkin-withwings-*30&",
+        "packageSize": 1,
+        "unit": "عبوة",
+        "unitEn": "pack",
+        "categoryId": "sanitarynapkins"
+      }
+    ]
+  },
+  {
+    "productId": "babyjoy-diaper-giantpack&",
+    "productNameAr": "حفاضات أطفال",
+    "productNameEn": "Baby Diapers",
+    "brandAr": "بيبي جوي",
+    "brandEn": "Baby Joy",
+    "categoryId": "diapers",
+    "variants": [
+      {
+        "variantId": "babyjoy-diaper-giantpack&",
+        "packageSize": 1,
+        "unit": "عبوة",
+        "unitEn": "pack",
+        "categoryId": "diapers"
       }
     ]
   }

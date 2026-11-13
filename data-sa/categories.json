@@ -1,32 +1,478 @@
 [
   {
-    "categoryId": "cat_meat",
-    "categoryNameAr": "لحوم ومصنعاتها",
-    "departmentId": "dept_fresh"
+    "categoryId": "biscuits",
+    "categoryNameAr": "بسكويت وويفر",
+    "categoryNameEn": "Biscuits & Wafer",
+    "departmentId": "dept_grocery",
+    "icon": "🍪"
   },
   {
-    "categoryId": "cat_poultary",
-    "categoryNameAr": "دواجن ومصنعاتها",
-    "departmentId": "dept_fresh"
+    "categoryId": "Bleacher",
+    "categoryNameAr": "مبيضات",
+    "categoryNameEn": "Bleachers",
+    "departmentId": "dept_detergents",
+    "icon": "🧴"
   },
   {
-    "categoryId": "cat_fish",
-    "categoryNameAr": "أسماك طازجة",
-    "departmentId": "dept_fresh"
+    "categoryId": "bodylotion",
+    "categoryNameAr": "مرطبات للجسم",
+    "categoryNameEn": "Bodylotions",
+    "departmentId": "dept_beauty",
+    "icon": "🧖‍♀️"
   },
   {
-    "categoryId": "cat_pharmacy",
-    "categoryNameAr": "عناية الأم والطفل",
-    "departmentId": "dept_health_beauty"
+    "categoryId": "butter",
+    "categoryNameAr": "زبدة وسمن",
+    "categoryNameEn": "Butters & Ghee",
+    "departmentId": "dept_grocery",
+    "icon": "🧈"
+  },
+  {
+    "categoryId": "cereal",
+    "categoryNameAr": "حبوب الإفطار",
+    "categoryNameEn": "Cereals",
+    "departmentId": "dept_grocery",
+    "icon": "🥣"
+  },
+  {
+    "categoryId": "cheese",
+    "categoryNameAr": "جبن",
+    "categoryNameEn": "Cheese",
+    "departmentId": "dept_grocery",
+    "icon": "🧀"
+  },
+  {
+    "categoryId": "cheese-sliced",
+    "categoryNameAr": "شرائح الجبن",
+    "categoryNameEn": "Sliced Cheese",
+    "departmentId": "dept_chicken",
+    "icon": "🧀"
+  },
+  {
+    "categoryId": "chicken-breasts",
+    "categoryNameAr": "صدور الدجاج",
+    "categoryNameEn": "Chicken Breasts",
+    "departmentId": "dept_chicken",
+    "icon": "🍗"
+  },
+  {
+    "categoryId": "chicken-burger",
+    "categoryNameAr": "برجر دجاج",
+    "categoryNameEn": "Chicken Burger",
+    "departmentId": "dept_chicken",
+    "icon": "🍔"
+  },
+  {
+    "categoryId": "chicken-frozen",
+    "categoryNameAr": "دجاج مجمد",
+    "categoryNameEn": "Frozen Chicken",
+    "departmentId": "dept_chicken",
+    "icon": "🧊"
+  },
+  {
+    "categoryId": "chicken-mosahab",
+    "categoryNameAr": "دجاج مسحب",
+    "categoryNameEn": "Chicken Mosahab",
+    "departmentId": "dept_chicken",
+    "icon": "🍗"
+  },
+  {
+    "categoryId": "chicken-strips",
+    "categoryNameAr": "شرائح الدجاج المقلية",
+    "categoryNameEn": "Chicken Strips",
+    "departmentId": "dept_chicken",
+    "icon": "🍗"
+  },
+  {
+    "categoryId": "chocolate-box",
+    "categoryNameAr": "شوكولاتة",
+    "categoryNameEn": "Chocolates",
+    "departmentId": "dept_chocolates",
+    "icon": "🍫"
+  },
+  {
+    "categoryId": "clotheswashingpowder",
+    "categoryNameAr": "منظفات الملابس",
+    "categoryNameEn": "Clothes Washing Powders",
+    "departmentId": "dept_detergents",
+    "icon": "🧺"
+  },
+  {
+    "categoryId": "coffee",
+    "categoryNameAr": "قهوة",
+    "categoryNameEn": "Coffee",
+    "departmentId": "dept_drinks",
+    "icon": "☕"
+  },
+  {
+    "categoryId": "cookies",
+    "categoryNameAr": "مخبوزات",
+    "categoryNameEn": "Bakeries",
+    "departmentId": "dept_grocery",
+    "icon": "🥖"
+  },
+  {
+    "categoryId": "cooking-essentials",
+    "categoryNameAr": "أساسيات المطبخ",
+    "categoryNameEn": "Cooking Essentials",
+    "departmentId": "dept_grocery",
+    "icon": "🍲"
+  },
+  {
+    "categoryId": "diapers",
+    "categoryNameAr": "حفاظات الأطفال",
+    "categoryNameEn": "Diapers",
+    "departmentId": "dept_babycare",
+    "icon": "🧷"
+  },
+  {
+    "categoryId": "dishwash",
+    "categoryNameAr": "غسيل الأطباق",
+    "categoryNameEn": "Dishwashers",
+    "departmentId": "dept_detergents",
+    "icon": "🧽"
+  },
+  {
+    "categoryId": "disinfectantliquid",
+    "categoryNameAr": "مطهرات",
+    "categoryNameEn": "Disinfectants",
+    "departmentId": "dept_detergents",
+    "icon": "🧴"
+  },
+  {
+    "categoryId": "egg",
+    "categoryNameAr": "بيض",
+    "categoryNameEn": "Eggs",
+    "departmentId": "dept_grocery",
+    "icon": "🥚"
+  },
+  {
+    "categoryId": "fabric-conditioner",
+    "categoryNameAr": "منعم الأقمشة",
+    "categoryNameEn": "Fabric Conditioners",
+    "departmentId": "dept_detergents",
+    "icon": "🧺"
+  },
+  {
+    "categoryId": "frenchfries",
+    "categoryNameAr": "بطاطس مقلية",
+    "categoryNameEn": "French Fries",
+    "departmentId": "dept_grocery",
+    "icon": "🍟"
+  },
+  {
+    "categoryId": "fru-apples",
+    "categoryNameAr": "تفاح",
+    "categoryNameEn": "Apples",
+    "departmentId": "dept_fruits",
+    "icon": "🍎"
+  },
+  {
+    "categoryId": "fru-banana",
+    "categoryNameAr": "موز",
+    "categoryNameEn": "Banana",
+    "departmentId": "dept_fruits",
+    "icon": "🍌"
+  },
+  {
+    "categoryId": "fru-dragon",
+    "categoryNameAr": "فاكهة التنين",
+    "categoryNameEn": "Dragon Fruit",
+    "departmentId": "dept_fruits",
+    "icon": "🍈"
+  },
+  {
+    "categoryId": "fru-grapes",
+    "categoryNameAr": "عنب",
+    "categoryNameEn": "Grapes",
+    "departmentId": "dept_fruits",
+    "icon": "🍇"
+  },
+  {
+    "categoryId": "fru-lemon",
+    "categoryNameAr": "ليمون",
+    "categoryNameEn": "Lemon",
+    "departmentId": "dept_fruits",
+    "icon": "🍋"
+  },
+  {
+    "categoryId": "fru-mango",
+    "categoryNameAr": "مانجو",
+    "categoryNameEn": "Mango",
+    "departmentId": "dept_fruits",
+    "icon": "🥭"
+  },
+  {
+    "categoryId": "fru-orange",
+    "categoryNameAr": "برتقال",
+    "categoryNameEn": "Orange",
+    "departmentId": "dept_fruits",
+    "icon": "🍊"
+  },
+  {
+    "categoryId": "fru-persimmons",
+    "categoryNameAr": "كاكا",
+    "categoryNameEn": "Persimmons",
+    "departmentId": "dept_fruits",
+    "icon": "🍊"
+  },
+  {
+    "categoryId": "fru-pineapple",
+    "categoryNameAr": "أناناس",
+    "categoryNameEn": "Pineapple",
+    "departmentId": "dept_fruits",
+    "icon": "🍍"
+  },
+  {
+    "categoryId": "fru-plums",
+    "categoryNameAr": "برقوق",
+    "categoryNameEn": "Plums",
+    "departmentId": "dept_fruits",
+    "icon": "🍑"
+  },
+  {
+    "categoryId": "fru-watermelon",
+    "categoryNameAr": "بطيخ",
+    "categoryNameEn": "Watermelon",
+    "departmentId": "dept_fruits",
+    "icon": "🍉"
+  },
+  {
+    "categoryId": "honey",
+    "categoryNameAr": "عسل طبيعي",
+    "categoryNameEn": "Honey",
+    "departmentId": "dept_grocery",
+    "icon": "🍯"
+  },
+  {
+    "categoryId": "icecream",
+    "categoryNameAr": "آيس كريم",
+    "categoryNameEn": "Ice-cream",
+    "departmentId": "dept_grocery",
+    "icon": "🍦"
+  },
+  {
+    "categoryId": "juice",
+    "categoryNameAr": "عصير",
+    "categoryNameEn": "Juice",
+    "departmentId": "dept_drinks",
+    "icon": "🧃"
+  },
+  {
+    "categoryId": "milk-condensed",
+    "categoryNameAr": "حليب مكثف",
+    "categoryNameEn": "Condensed Milk",
+    "departmentId": "dept_grocery",
+    "icon": "🥛"
+  },
+  {
+    "categoryId": "milk-evaporated",
+    "categoryNameAr": "حليب مبخر",
+    "categoryNameEn": "Evaporated Milk",
+    "departmentId": "dept_grocery",
+    "icon": "🥛"
+  },
+  {
+    "categoryId": "milk-long",
+    "categoryNameAr": "حليب طويل الأجل",
+    "categoryNameEn": "UHT Milk",
+    "departmentId": "dept_grocery",
+    "icon": "🥛"
+  },
+  {
+    "categoryId": "milk-powder",
+    "categoryNameAr": "حليب بودرة",
+    "categoryNameEn": "Milk Powder",
+    "departmentId": "dept_grocery",
+    "icon": "🥛"
+  },
+  {
+    "categoryId": "mozzarella",
+    "categoryNameAr": "جبنة مزاريلا",
+    "categoryNameEn": "Mozzarella",
+    "departmentId": "dept_grocery",
+    "icon": "🧀"
+  },
+  {
+    "categoryId": "nonalcoholic-beer",
+    "categoryNameAr": "مشروبات الشعير",
+    "categoryNameEn": "Nonalcoholic Beer",
+    "departmentId": "dept_drinks",
+    "icon": "🍺"
+  },
+  {
+    "categoryId": "oil-coconut",
+    "categoryNameAr": "زيوت جوز الهند",
+    "categoryNameEn": "Coconut Oil",
+    "departmentId": "dept_grocery",
+    "icon": "🥥"
+  },
+  {
+    "categoryId": "oil-olive",
+    "categoryNameAr": "زيوت الزيتون",
+    "categoryNameEn": "Olive Oil",
+    "departmentId": "dept_grocery",
+    "icon": "🫒"
+  },
+  {
+    "categoryId": "oil-sunflower",
+    "categoryNameAr": "زيوت دوار الشمس",
+    "categoryNameEn": "Sunflower Oil",
+    "departmentId": "dept_grocery",
+    "icon": "🌻"
+  },
+  {
+    "categoryId": "rice-basmati",
+    "categoryNameAr": "أرز بسمتي",
+    "categoryNameEn": "Basmati Rice",
+    "departmentId": "dept_rice",
+    "icon": "🍚"
+  },
+  {
+    "categoryId": "rice-white",
+    "categoryNameAr": "أرز أبيض",
+    "categoryNameEn": "White Rice",
+    "departmentId": "dept_rice",
+    "icon": "🍚"
+  },
+  {
+    "categoryId": "sanitarynapkins",
+    "categoryNameAr": "فوط صحية",
+    "categoryNameEn": "Sanitary Napkins",
+    "departmentId": "dept_womancare",
+    "icon": "🌸"
+  },
+  {
+    "categoryId": "sauce",
+    "categoryNameAr": "صوصات",
+    "categoryNameEn": "Sauces",
+    "departmentId": "dept_grocery",
+    "icon": "🥫"
+  },
+  {
+    "categoryId": "shampoo",
+    "categoryNameAr": "شامبو",
+    "categoryNameEn": "Shampoos",
+    "departmentId": "dept_beauty",
+    "icon": "🧴"
+  },
+  {
+    "categoryId": "snackes",
+    "categoryNameAr": "سناكس",
+    "categoryNameEn": "Snacks",
+    "departmentId": "dept_grocery",
+    "icon": "🍿"
+  },
+  {
+    "categoryId": "softdrink",
+    "categoryNameAr": "مشروبات غازية",
+    "categoryNameEn": "Soft Drinks",
+    "departmentId": "dept_drinks",
+    "icon": "🥤"
+  },
+  {
+    "categoryId": "spread",
+    "categoryNameAr": "أغذية قابلة للدهن",
+    "categoryNameEn": "Spreadables",
+    "departmentId": "dept_grocery",
+    "icon": "🥜"
+  },
+  {
+    "categoryId": "sugar",
+    "categoryNameAr": "سكر",
+    "categoryNameEn": "Sugar",
+    "departmentId": "dept_grocery",
+    "icon": "🍬"
+  },
+  {
+    "categoryId": "tahina",
+    "categoryNameAr": "طحينة",
+    "categoryNameEn": "Tahini",
+    "departmentId": "dept_grocery",
+    "icon": "🥣"
+  },
+  {
+    "categoryId": "tea",
+    "categoryNameAr": "شاي",
+    "categoryNameEn": "Tea",
+    "departmentId": "dept_grocery",
+    "icon": "🍵"
+  },
+  {
+    "categoryId": "tissue-facial",
+    "categoryNameAr": "مناديل الوجه",
+    "categoryNameEn": "Facial Tissues",
+    "departmentId": "dept_detergents",
+    "icon": "🧻"
+  },
+  {
+    "categoryId": "tomato-paste",
+    "categoryNameAr": "معجون الطماطم",
+    "categoryNameEn": "Tomoato paste",
+    "departmentId": "dept_grocery",
+    "icon": "🍅"
+  },
+  {
+    "categoryId": "veg-cabbage",
+    "categoryNameAr": "ملفوف",
+    "categoryNameEn": "Cabbage",
+    "departmentId": "dept_vegetables",
+    "icon": "🥬"
+  },
+  {
+    "categoryId": "veg-capsicum",
+    "categoryNameAr": "فلفل رومي",
+    "categoryNameEn": "Capsicum",
+    "departmentId": "dept_vegetables",
+    "icon": "🫑"
+  },
+  {
+    "categoryId": "veg-cucamber",
+    "categoryNameAr": "خيار",
+    "categoryNameEn": "Cucamber",
+    "departmentId": "dept_vegetables",
+    "icon": "🥒"
+  },
+  {
+    "categoryId": "veg-eggplant",
+    "categoryNameAr": "باذنجان",
+    "categoryNameEn": "Eggplant",
+    "departmentId": "dept_vegetables",
+    "icon": "🍆"
+  },
+  {
+    "categoryId": "veg-koosa",
+    "categoryNameAr": "كوسة",
+    "categoryNameEn": "Marrow",
+    "departmentId": "dept_vegetables",
+    "icon": "🥒"
+  },
+  {
+    "categoryId": "vinegar",
+    "categoryNameAr": "خل",
+    "categoryNameEn": "Vinger",
+    "departmentId": "dept_grocery",
+    "icon": "🧴"
+  },
+  {
+    "categoryId": "water",
+    "categoryNameAr": "مياه",
+    "categoryNameEn": "Water",
+    "departmentId": "dept_drinks",
+    "icon": "💧"
   },
   {
     "categoryId": "cat_supermarket",
     "categoryNameAr": "سوبر ماركت",
-    "departmentId": "dept_grocery"
+    "categoryNameEn": "Groceries",
+    "departmentId": "department_supermarket",
+    "icon": "🛒"
   },
   {
-    "categoryId": "cat_dairy",
-    "categoryNameAr": "منتجات ألبان",
-    "departmentId": "dept_grocery"
+    "categoryId": "cat_pharmacy",
+    "categoryNameAr": "صيدليات",
+    "categoryNameEn": "Pharmacies",
+    "departmentId": "department_pharmacy",
+    "icon": "💊"
   }
 ]

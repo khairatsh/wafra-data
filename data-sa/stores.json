@@ -2,80 +2,166 @@
   {
     "storeId": "lulu-hypermarket",
     "storeNameAr": "لولو هايبرماركت",
+    "storeNameEn": "LuLu Hypermarket",
     "imageUrl": "https://pbs.twimg.com/profile_images/1108028347999813632/QGKrGeto_400x400.png",
     "homeScreenDisplay": true,
     "categoryId": "cat_supermarket",
     "departmentIds": [
-      "dept_grocery"
+      "dept_grocery",
+      "dept_detergents",
+      "dept_beauty",
+      "dept_fresh",
+      "dept_electronics",
+      "dept_chicken",
+      "dept_fruits",
+      "dept_vegetables",
+      "dept_rice",
+      "dept_drinks",
+      "dept_chocolates",
+      "dept_detergents",
+      "dept_beauty",
+      "dept_babycare",
+      "dept_womancare"
     ],
     "featuredInCat": true,
     "branchGroups": [
       {
-        "branchGroupId": "lulu-g1",
-        "branchGroupNameAr": "الرياض والقصيم وحائل"
+        "branchGroupId": "lulu-center",
+        "branchGroupNameAr": "الرياض والقصيم وحائل",
+        "branchGroupNameEn": "Riyadh, Qassim & Hail"
       },
       {
-        "branchGroupId": "lulu-g2",
-        "branchGroupNameAr": "مكة وجدة والمدينة والطائف"
+        "branchGroupId": "lulu-west",
+        "branchGroupNameAr": "مكة وجدة والمدينة والطائف",
+        "branchGroupNameEn": "Makkah, Jeddah, Madinah & Taif"
       },
       {
-        "branchGroupId": "lulu-g3",
-        "branchGroupNameAr": "المنطقة الشرقية"
+        "branchGroupId": "lulu-east",
+        "branchGroupNameAr": "المنطقة الشرقية",
+        "branchGroupNameEn": "Eastern Province"
       }
     ]
   },
   {
     "storeId": "panda-hypermarket",
     "storeNameAr": "هايبر بندة",
+    "storeNameEn": "Panda Hypermarket",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Panda_Retail_Company_Logo.svg/1280px-Panda_Retail_Company_Logo.svg.png",
     "homeScreenDisplay": true,
     "categoryId": "cat_supermarket",
     "departmentIds": [
-      "dept_grocery"
+      "dept_grocery",
+      "dept_detergents",
+      "dept_beauty",
+      "dept_fresh",
+      "dept_electronics",
+      "dept_chicken",
+      "dept_fruits",
+      "dept_vegetables",
+      "dept_rice",
+      "dept_drinks",
+      "dept_chocolates",
+      "dept_detergents",
+      "dept_beauty",
+      "dept_babycare",
+      "dept_womancare"
     ],
     "featuredInCat": true
   },
   {
     "storeId": "othaim-hypermarket",
     "storeNameAr": "أسواق العثيم",
+    "storeNameEn": "Othaim Markets",
     "imageUrl": "https://manhom.majarracdn.cloud/mgmt/images/6408/1730118751/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B9%D8%AB%D9%8A%D9%85.webp",
     "homeScreenDisplay": true,
     "categoryId": "cat_supermarket",
     "departmentIds": [
-      "dept_grocery"
+      "dept_grocery",
+      "dept_detergents",
+      "dept_beauty",
+      "dept_fresh",
+      "dept_electronics",
+      "dept_chicken",
+      "dept_fruits",
+      "dept_vegetables",
+      "dept_rice",
+      "dept_drinks",
+      "dept_chocolates",
+      "dept_detergents",
+      "dept_beauty",
+      "dept_babycare",
+      "dept_womancare"
     ],
     "featuredInCat": true
   },
   {
     "storeId": "nahdi-pharmacy",
     "storeNameAr": "صيدليات النهدي",
+    "storeNameEn": "Nahdi Pharmacies",
     "imageUrl": "https://salogos.b-cdn.net/logos/png/1774932255625-hfrp7e7b.png",
     "homeScreenDisplay": true,
     "categoryId": "cat_pharmacy",
     "departmentIds": [
-      "dept_health_beauty"
+      "dept_health_beauty",
+      "dept_womancare",
+      "dept_babycare",
+      "dept_beauty"
     ],
     "featuredInCat": true
   },
   {
     "storeId": "motaheda-pharmacy",
     "storeNameAr": "صيدليات المتحدة",
+    "storeNameEn": "United Pharmacies",
     "imageUrl": "https://unitedpharmacy.sa/static/version1792046038/frontend/Brainvire/unitedpharmacy-mobile-arabic/ar_SA/images/pharmacist-new-logo.webp",
     "homeScreenDisplay": true,
     "categoryId": "cat_pharmacy",
     "departmentIds": [
-      "dept_health_beauty"
+      "dept_health_beauty",
+      "dept_womancare",
+      "dept_babycare",
+      "dept_beauty"
     ],
     "featuredInCat": true
   },
   {
     "storeId": "aldawaa-pharmacy",
     "storeNameAr": "صيدليات الدواء",
+    "storeNameEn": "Al-Dawaa Pharmacies",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcXS_MxW2epmi8MFWeHJZfDiWmM_62jVQChvN9RjF-eGUsQRtd37lCpw&s=10",
     "homeScreenDisplay": true,
     "categoryId": "cat_pharmacy",
     "departmentIds": [
-      "dept_health_beauty"
+      "dept_health_beauty",
+      "dept_womancare",
+      "dept_babycare",
+      "dept_beauty"
+    ],
+    "featuredInCat": true
+  },
+  {
+    "storeId": "tamimi-markets",
+    "storeNameAr": "أسواق التميمي",
+    "storeNameEn": "Tamimi Markets",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW_Sw2Kz41945xLxKvOtm39JrEvtsnckIZkHvUK1F2ow&s=10",
+    "homeScreenDisplay": true,
+    "categoryId": "cat_supermarket",
+    "departmentIds": [
+      "dept_grocery",
+      "dept_detergents",
+      "dept_beauty",
+      "dept_fresh",
+      "dept_electronics",
+      "dept_chicken",
+      "dept_fruits",
+      "dept_vegetables",
+      "dept_rice",
+      "dept_drinks",
+      "dept_chocolates",
+      "dept_detergents",
+      "dept_beauty",
+      "dept_babycare",
+      "dept_womancare"
     ],
     "featuredInCat": true
   }
