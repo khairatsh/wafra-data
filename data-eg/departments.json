@@ -4,55 +4,63 @@
     "departmentNameAr": "سوبر ماركت",
     "icon": "🛒",
     "sortOrder": 1,
-    "active": true
+    "active": true,
+    "departmentNameEn": "Supermarket"
   },
   {
     "departmentId": "dept_fresh",
     "departmentNameAr": "لحوم ودواجن وأسماك",
     "icon": "🥩",
     "sortOrder": 2,
-    "active": true
+    "active": true,
+    "departmentNameEn": "Meat, Poultry & Fish"
   },
   {
     "departmentId": "dept_restaurants",
     "departmentNameAr": "مطاعم ومقاهي",
     "icon": "☕",
     "sortOrder": 3,
-    "active": true
+    "active": true,
+    "departmentNameEn": "Restaurants & Cafés"
   },
   {
     "departmentId": "dept_electronics",
     "departmentNameAr": "إلكترونيات",
     "icon": "📱",
     "sortOrder": 4,
-    "active": true
+    "active": true,
+    "departmentNameEn": "Electronics"
   },
   {
     "departmentId": "dept_home_appliances",
     "departmentNameAr": "أجهزة منزلية",
     "icon": "🔌",
     "sortOrder": 5,
-    "active": true
+    "active": true,
+    "departmentNameEn": "Home Appliances"
   },
   {
     "departmentId": "dept_furniture",
     "departmentNameAr": "أثاث ومفروشات",
     "icon": "🛋️",
     "sortOrder": 6,
-    "active": true
+    "active": true,
+    "departmentNameEn": "Furniture & Furnishings"
   },
   {
     "departmentId": "dept_health_beauty",
     "departmentNameAr": "صحة وجمال",
     "icon": "💊",
     "sortOrder": 7,
-    "active": true
+    "active": true,
+    "departmentNameEn": "Health & Beauty"
   },
   {
     "departmentId": "dept_home_supplies",
     "departmentNameAr": "منزل ومستلزمات",
     "icon": "🧹",
     "sortOrder": 8,
-    "active": true
+    "active": true,
+    "departmentNameEn": "Home & Household Supplies"
   }
 ]

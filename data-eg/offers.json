@@ -1,3 +1,30 @@
 [
-  
+  {
+    "offerId": "bundle_001",
+    "offerType": "bundle",
+    "variantId": "fish-bolti-green-1kg",
+    "branchId": "fish-ala-elbahr-newdamietta",
+    "conditionAr": "اشترِ 3 كجم بسعر 400 جنيه",
+    "bundleQuantity": 3,
+    "bundlePricePiastres": 40000,
+    "startDate": "2026-10-27",
+    "endDate": "2026-11-10",
+    "homeOfferDisplay": true,
+    "sponsored": true,
+    "conditionEn": "Buy 3 kg for EGP 400"
+  },
+  {
+    "offerId": "bundle_002",
+    "offerType": "bundle",
+    "variantId": "cow-meat-liver-1kg",
+    "branchId": "putcher-mashad-newdamietta",
+    "conditionAr": "كيلوجرامان من الكبدة بسعر 700 جنيه",
+    "bundleQuantity": 2,
+    "bundlePricePiastres": 70000,
+    "startDate": "2026-10-25",
+    "endDate": "2026-11-08",
+    "homeOfferDisplay": true,
+    "sponsored": false,
+    "conditionEn": "Two kilograms of liver for EGP 700"
+  }
 ]

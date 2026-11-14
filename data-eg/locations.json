@@ -2,14 +2,17 @@
   {
     "governorateId": "gov_damietta",
     "governorateNameAr": "دمياط",
+    "governorateNameEn": "Damietta",
     "cities": [
       {
         "cityId": "city_newdamietta",
-        "cityNameAr": "دمياط الجديدة"
+        "cityNameAr": "دمياط الجديدة",
+        "cityNameEn": "New Damietta"
       },
       {
         "cityId": "city_damietta",
-        "cityNameAr": "دمياط القديمة"
+        "cityNameAr": "دمياط القديمة",
+        "cityNameEn": "Old Damietta"
       }
     ]
   }

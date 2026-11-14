@@ -2,31 +2,43 @@
   {
     "categoryId": "cat_meat",
     "categoryNameAr": "لحوم ومصنعاتها",
-    "departmentId": "dept_fresh"
+    "departmentId": "dept_fresh",
+    "categoryNameEn": "Meat & Processed Meat",
+    "icon": "🥩"
   },
   {
     "categoryId": "cat_poultary",
     "categoryNameAr": "دواجن طازجة",
-    "departmentId": "dept_fresh"
+    "departmentId": "dept_fresh",
+    "categoryNameEn": "Fresh Poultry",
+    "icon": "🍗"
   },
   {
     "categoryId": "cat_fish",
     "categoryNameAr": "أسماك طازجة",
-    "departmentId": "dept_fresh"
+    "departmentId": "dept_fresh",
+    "categoryNameEn": "Fresh Fish",
+    "icon": "🐟"
   },
   {
     "categoryId": "cat_pharmacy",
     "categoryNameAr": "عناية الأم والطفل",
-    "departmentId": "dept_health_beauty"
+    "departmentId": "dept_health_beauty",
+    "categoryNameEn": "Mother & Baby Care",
+    "icon": "🧴"
   },
   {
     "categoryId": "cat_supermarket",
     "categoryNameAr": "سوبر ماركت",
-    "departmentId": "dept_grocery"
+    "departmentId": "dept_grocery",
+    "categoryNameEn": "Supermarket",
+    "icon": "🛒"
   },
   {
     "categoryId": "cat_dairy",
     "categoryNameAr": "منتجات ألبان",
-    "departmentId": "dept_grocery"
+    "departmentId": "dept_grocery",
+    "categoryNameEn": "Dairy Products",
+    "icon": "🥛"
   }
 ]

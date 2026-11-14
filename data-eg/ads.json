@@ -13,7 +13,12 @@
     "placement": "home_hero",
     "priority": 10,
     "sponsored": true,
-    "active": true
+    "active": true,
+    "titleEn": "Wafra... The strongest offers in Egypt",
+    "subtitleEn": "Compare product prices and offers in your city before you buy.",
+    "kickerEn": "This week's offers",
+    "badgeEn": "Ad",
+    "ctaTextEn": "Learn more"
   },
   {
     "adId": "ad_002",
@@ -30,7 +35,12 @@
     "placement": "home_hero",
     "priority": 8,
     "sponsored": true,
-    "active": true
+    "active": true,
+    "titleEn": "Compare prices",
+    "subtitleEn": "Store and branch prices near you, all in one place.",
+    "kickerEn": "In Damietta",
+    "badgeEn": "Ad",
+    "ctaTextEn": "Learn more"
   },
   {
     "adId": "ad_003",
@@ -47,7 +57,12 @@
     "placement": "home_hero",
     "priority": 6,
     "sponsored": true,
-    "active": true
+    "active": true,
+    "titleEn": "Everywhere",
+    "subtitleEn": "Browse the store's products and prices in your city.",
+    "kickerEn": "Local offer",
+    "badgeEn": "Ad",
+    "ctaTextEn": "Browse store"
   },
   {
     "adId": "ad_004",
@@ -62,6 +77,11 @@
     "placement": "offers_top",
     "priority": 10,
     "sponsored": true,
-    "active": true
+    "active": true,
+    "titleEn": "Save more with Wafra offers",
+    "subtitleEn": "Bundles, quantity offers and value deals from stores in your city.",
+    "kickerEn": "Featured offers",
+    "badgeEn": "Ad",
+    "ctaTextEn": "Browse offers"
   }
 ]

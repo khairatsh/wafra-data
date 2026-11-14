@@ -6,7 +6,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_damietta",
     "addressAr": "شارع عبدالعظيم وزير",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "Old Damietta",
+    "addressEn": "Abdel Azim Wazir Street"
   },
   {
     "branchId": "putchar-beefmarket-newdamietta",
@@ -15,7 +17,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "المنطقة المركزية",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Central District"
   },
   {
     "branchId": "putcher-onset-newdamietta",
@@ -24,7 +28,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "لمركزيه خلف حلواني الجمل",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Al Markaziya, behind Al Gamal Sweets"
   },
   {
     "branchId": "putcher-abu-ali-newdamietta",
@@ -33,7 +39,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "المركزية أمام المجمع الإسلامي",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Al Markaziya, opposite the Islamic Complex"
   },
   {
     "branchId": "putcher-megahed-basha-newdamietta",
@@ -42,7 +50,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "منتصف شارع الصحبجية أمام كافيه سيدار",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Middle of Al Sahbagiya Street, opposite Cedar Café"
   },
   {
     "branchId": "poultary-abu-fady-newdamietta",
@@ -51,7 +61,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "المجاورة السادسه الحي التاني",
-    "tasneed": "poultary"
+    "tasneed": "poultary",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Sixth Block, Second District"
   },
   {
     "branchId": "poultary-etewy2-newdamietta",
@@ -60,7 +72,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "الحي الثاني سوق المجاوره الخامسه",
-    "tasneed": "poultary"
+    "tasneed": "poultary",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Second District, Fifth Block Market"
   },
   {
     "branchId": "fish-ala-elbahr-newdamietta",
@@ -69,7 +83,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "آخر شارع المحجوب بجوار فتح الله هايبر ماركت",
-    "tasneed": "fish"
+    "tasneed": "fish",
+    "branchNameEn": "New Damietta",
+    "addressEn": "End of Al Mahjoub Street, next to Fathallah Hypermarket"
   },
   {
     "branchId": "fish-elkhedewy-newdamietta",
@@ -78,7 +94,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": " الحي الرابع _ شارع المرور",
-    "tasneed": "fish"
+    "tasneed": "fish",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Fourth District - Al Mourour Street"
   },
   {
     "branchId": "fish-uncle-samy-newdamietta",
@@ -87,7 +105,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "دمياط الجديدة",
-    "tasneed": "fish"
+    "tasneed": "fish",
+    "branchNameEn": "New Damietta",
+    "addressEn": "New Damietta"
   },
   {
     "branchId": "pharmacy-zahraa-gdeda-newdamietta",
@@ -96,7 +116,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "شارع حسب الله الكفراوي بجوار كنتاكي",
-    "tasneed": "pharmacy"
+    "tasneed": "pharmacy",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Hassaballah El Kafrawy Street, next to KFC"
   },
   {
     "branchId": "pharmacy-hossam-moussa-newdamietta",
@@ -105,7 +127,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "دمياط الجديدة",
-    "tasneed": "pharmacy"
+    "tasneed": "pharmacy",
+    "branchNameEn": "New Damietta",
+    "addressEn": "New Damietta"
   },
   {
     "branchId": "putcher-saadawy-newdamietta",
@@ -114,7 +138,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "خلف مستشفى الأزهر",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Behind Al Azhar Hospital"
   },
   {
     "branchId": "putcher-daharany-newdamietta",
@@ -123,7 +149,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "آخر شارع المحجوب بجوار فتح الله هايبر ماركت",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "New Damietta",
+    "addressEn": "End of Al Mahjoub Street, next to Fathallah Hypermarket"
   },
   {
     "branchId": "putcher-drbetello-damietta",
@@ -132,7 +160,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_damietta",
     "addressAr": "شارع وزير بجوار مصنع خالد",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "Old Damietta",
+    "addressEn": "Wazir Street, next to Khaled Factory"
   },
   {
     "branchId": "putcher-altawfeeq-newdamietta",
@@ -141,7 +171,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "الحي الثالث مجاورة 16",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Third District, Block 16"
   },
   {
     "branchId": "putcher-eweida-newdamietta",
@@ -150,7 +182,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "المركزية بجوار البنك الأهلي القديم",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Al Markaziya, next to the old National Bank"
   },
   {
     "branchId": "putcher-khaled-newdamietta",
@@ -159,7 +193,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "منتصف شارع الصعيدي الجديد",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Middle of New Al Saidi Street"
   },
   {
     "branchId": "putcher-gheitany-newdamietta",
@@ -168,7 +204,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "نهاية شارع المحجوب بجوار مسجد الروضة الشريفة",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "New Damietta",
+    "addressEn": "End of Al Mahjoub Street, next to Al Rawda Al Sharifa Mosque"
   },
   {
     "branchId": "putcher-mashad-newdamietta",
@@ -177,7 +215,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "منتصف شارع الصعيدي القديم",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Middle of Old Al Saidi Street"
   },
   {
     "branchId": "putcher-aleman-newdamietta",
@@ -186,7 +226,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "شارع الصحبجية",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Al Sahbagiya Street"
   },
   {
     "branchId": "putcher-eweida-dekernes",
@@ -195,7 +237,9 @@
     "governorateId": "gov_dkahliya",
     "cityId": "city_dekernes",
     "addressAr": "شارع مجلس المدينة أمام بنزينة توتال",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "Dekernes",
+    "addressEn": "City Council Street, opposite Total Gas Station"
   },
   {
     "branchId": "putcher-hagary-damietta",
@@ -204,7 +248,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_damietta",
     "addressAr": "أول طريق العنانية",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "Old Damietta",
+    "addressEn": "Beginning of Al Ananiya Road"
   },
   {
     "branchId": "putcher-seleem-damietta",
@@ -213,7 +259,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_damietta",
     "addressAr": "شارع وزير امام مبروك للأجهزة الكهربائية",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "Old Damietta",
+    "addressEn": "Wazir Street, opposite Mabrouk Electronics"
   },
   {
     "branchId": "putcher-abumohanad-damietta",
@@ -222,7 +270,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_damietta",
     "addressAr": "شارع غيط النصارى، باب الحرس",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "Old Damietta",
+    "addressEn": "Gheit El Nasara Street, Bab Al Haras"
   },
   {
     "branchId": "putcher-alamallohoom-damietta",
@@ -231,7 +281,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_damietta",
     "addressAr": "كوبري المطري",
-    "tasneed": "meat"
+    "tasneed": "meat",
+    "branchNameEn": "Old Damietta",
+    "addressEn": "Al Matari Bridge"
   },
   {
     "branchId": "poultary-toyorelkheir-newdamietta",
@@ -240,7 +292,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "الحي الخامس مجاورة 25",
-    "tasneed": "poultary"
+    "tasneed": "poultary",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Fifth District, Block 25"
   },
   {
     "branchId": "poultary-farkhahanem-newdamietta",
@@ -249,7 +303,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "الحي الخامس شارع استاكوزا",
-    "tasneed": "poultary"
+    "tasneed": "poultary",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Fifth District, Estakoza Street"
   },
   {
     "branchId": "poultary-kokoshama-newdamietta",
@@ -258,7 +314,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "المركزية بجوار قصر الثقافة",
-    "tasneed": "poultary"
+    "tasneed": "poultary",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Al Markaziya, next to the Culture Palace"
   },
   {
     "branchId": "poultary-kheirzaman-newdamietta",
@@ -267,7 +325,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "منتصف الصعيدي القديم",
-    "tasneed": "poultary"
+    "tasneed": "poultary",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Middle of Old Al Saidi Street"
   },
   {
     "branchId": "poultary-dajajmalaky-newdamietta",
@@ -276,7 +336,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "الحي الثالث مجاورة 15",
-    "tasneed": "poultary"
+    "tasneed": "poultary",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Third District, Block 15"
   },
   {
     "branchId": "poultary-mrdajaja-newdamietta",
@@ -285,7 +347,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "المحجوب بجوار مركز الأذن",
-    "tasneed": "poultary"
+    "tasneed": "poultary",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Al Mahjoub, next to the Ear Center"
   },
   {
     "branchId": "fish-nawartalsahel-newdamietta",
@@ -294,7 +358,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "المركزية بجوار بنزينة موبيل",
-    "tasneed": "fish"
+    "tasneed": "fish",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Al Markaziya, next to Mobil Gas Station"
   },
   {
     "branchId": "fish-seafood-newdamietta",
@@ -303,7 +369,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "بجوار العيادة الشاملة",
-    "tasneed": "fish"
+    "tasneed": "fish",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Next to the Comprehensive Clinic"
   },
   {
     "branchId": "fish-albaheig-newdamietta",
@@ -312,7 +380,9 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "الحي الخامس مجاورة 27",
-    "tasneed": "fish"
+    "tasneed": "fish",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Fifth District, Block 27"
   },
   {
     "branchId": "fish-shorbtbahr-newdamietta",
@@ -321,6 +391,8 @@
     "governorateId": "gov_damietta",
     "cityId": "city_newdamietta",
     "addressAr": "الحي الخامس مجاورة 28",
-    "tasneed": "fish"
+    "tasneed": "fish",
+    "branchNameEn": "New Damietta",
+    "addressEn": "Fifth District, Block 28"
   }
 ]
