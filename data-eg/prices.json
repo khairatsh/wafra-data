@@ -1,33 +1,3 @@
 [
-  {
-    "priceId": "price_bolti_normal",
-    "variantId": "fish-bolti-normal-1kg",
-    "branchId": "fish-ala-elbahr-newdamietta",
-    "pricePiastres": 9000,
-    "priceType": "regular",
-    "observationDate": "2026-10-23",
-    "sourceAr": "سوق السمك - دمياط الجديدة",
-    "sourceEn": "Fish Market - New Damietta"
-  },
-  {
-    "priceId": "price_bolti_green",
-    "variantId": "fish-bolti-green-1kg",
-    "branchId": "fish-ala-elbahr-newdamietta",
-    "pricePiastres": 15000,
-    "priceType": "regular",
-    "observationDate": "2026-10-23",
-    "sourceAr": "سوق السمك - دمياط الجديدة",
-    "sourceEn": "Fish Market - New Damietta"
-  },
-  {
-    "priceId": "price_liver_mashad",
-    "variantId": "cow-meat-liver-1kg",
-    "branchId": "putcher-mashad-newdamietta",
-    "pricePiastres": 39000,
-    "regularPricePiastres": 45000,
-    "priceType": "weekly_offer",
-    "observationDate": "2026-10-28",
-    "sourceAr": "سعر مخفض (عرض أسبوعي) - جزار المشد",
-    "sourceEn": "Discounted price (weekly offer) - Al Mashad Butchery"
-  }
+  
 ]
