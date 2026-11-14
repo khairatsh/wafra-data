@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 2,
-  "dataVersion": "2026.11.12.002",
+  "schemaVersion": 3,
+  "dataVersion": "2026.11.14.001",
   "files": {
     "locations": "locations.json",
     "categories": "categories.json",
