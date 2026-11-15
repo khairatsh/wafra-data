@@ -8,14 +8,6 @@
     "active": true
   },
   {
-    "departmentId": "dept_fresh",
-    "departmentNameAr": "لحوم ودواجن وأسماك",
-    "departmentNameEn": "Meat, Poultry & Fish",
-    "icon": "🥩",
-    "sortOrder": 2,
-    "active": true
-  },
-  {
     "departmentId": "dept_restaurants",
     "departmentNameAr": "مطاعم ومقاهي",
     "departmentNameEn": "Restaurants & Cafés",

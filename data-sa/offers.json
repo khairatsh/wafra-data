@@ -1,3 +1,120 @@
 [
-  
+  {
+    "offerId": "bundle_lulu_g1_sadia",
+    "offerType": "bundle",
+    "variantId": "sadia-broast-1kg",
+    "storeId": "lulu-hypermarket",
+    "conditionAr": "اشتري قطعتين واحصل على الثالثة مجاناً",
+    "conditionEn": "Buy 2, get the 3rd free",
+    "bundleQuantity": 3,
+    "bundlePricePiastres": 3000,
+    "startDate": "2026-10-27",
+    "endDate": "2026-11-22",
+    "homeOfferDisplay": true,
+    "sponsored": true,
+    "branchGroupIds": [
+      "lulu-g1"
+    ]
+  },
+  {
+    "offerId": "bundle_lulu_g2_sadia",
+    "offerType": "bundle",
+    "variantId": "sadia-broast-1kg",
+    "storeId": "lulu-hypermarket",
+    "conditionAr": "قطعتان بسعر 30 ريال",
+    "conditionEn": "Two pieces for SAR 30",
+    "bundleQuantity": 2,
+    "bundlePricePiastres": 3000,
+    "startDate": "2026-10-27",
+    "endDate": "2026-11-22",
+    "homeOfferDisplay": true,
+    "sponsored": false,
+    "branchGroupIds": [
+      "lulu-g2"
+    ]
+  },
+  {
+    "offerId": "bundle_lulu_g3_sadia",
+    "offerType": "bundle",
+    "variantId": "sadia-broast-1kg",
+    "storeId": "lulu-hypermarket",
+    "conditionAr": "قطعتان بسعر 33 ريال",
+    "conditionEn": "Two pieces for SAR 33",
+    "bundleQuantity": 2,
+    "bundlePricePiastres": 3300,
+    "startDate": "2026-10-27",
+    "endDate": "2026-11-22",
+    "homeOfferDisplay": true,
+    "sponsored": false,
+    "branchGroupIds": [
+      "lulu-g3"
+    ]
+  },
+  {
+    "offerId": "bundle_lulu_g1_liver",
+    "offerType": "bundle",
+    "variantId": "cow-meat-liver-1kg",
+    "storeId": "lulu-hypermarket",
+    "conditionAr": "عرض التجميعة: كيلوجرامان من الكبدة بسعر 80 ريال",
+    "conditionEn": "Bundle offer: 2 kg of liver for SAR 80",
+    "bundleQuantity": 2,
+    "bundlePricePiastres": 8000,
+    "startDate": "2026-10-25",
+    "endDate": "2026-11-05",
+    "homeOfferDisplay": true,
+    "sponsored": false,
+    "branchGroupIds": [
+      "lulu-g1"
+    ]
+  },
+  {
+    "offerId": "value_lulu_g1_spices",
+    "offerType": "value",
+    "variantId": "cow-meat-liver-1kg",
+    "storeId": "lulu-hypermarket",
+    "conditionAr": "هدية مجانية: بهارات مشكلة مع كل كيلوجرام كبدة",
+    "conditionEn": "Free gift: mixed spices with every kg of liver",
+    "startDate": "2026-10-27",
+    "endDate": "2026-11-10",
+    "homeOfferDisplay": false,
+    "sponsored": false,
+    "branchGroupIds": [
+      "lulu-g1"
+    ]
+  },
+  {
+    "offerId": "store_lulu_g1_delivery",
+    "offerType": "store_value",
+    "storeId": "lulu-hypermarket",
+    "titleAr": "توصيل مجاني للطلبات فوق 100 ريال",
+    "titleEn": "Free delivery for orders over SAR 100",
+    "conditionAr": "الحد الأدنى 100 ريال داخل نطاق الفرع",
+    "conditionEn": "Minimum SAR 100 within the branch area",
+    "startDate": "2026-10-27",
+    "endDate": "2026-11-30",
+    "homeOfferDisplay": true,
+    "sponsored": false,
+    "branchGroupIds": [
+      "lulu-g1"
+    ]
+  },
+  {
+    "offerId": "store_lulu_dammam_parking",
+    "offerType": "store_value",
+    "storeId": "lulu-hypermarket",
+    "titleAr": "مواقف مجانية لعملاء الفرع",
+    "titleEn": "Free parking for branch customers",
+    "conditionAr": "عند الشراء بأكثر من 50 ريالاً من فرع الدمام",
+    "conditionEn": "When purchasing over SAR 50 from the Dammam branch",
+    "startDate": "2026-10-27",
+    "endDate": "2026-11-30",
+    "homeOfferDisplay": true,
+    "sponsored": false,
+    "branchIds": [
+      "lulu-hypermarket-c"
+    ],
+    "cityIds": [
+      "dammam"
+    ]
+  }
 ]
