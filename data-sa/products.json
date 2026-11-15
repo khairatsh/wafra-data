@@ -649,7 +649,16 @@
     "brandAr": "دو",
     "brandEn": "Doux",
     "categoryId": "chicken-strips",
-    "imageUrl": "https://img.ananinja.com/media/bra-public-files/services-admin/files/c8746419-4e9e-4c8a-a77d-7dc929f96d97?w=3840&q=75"
+    "imageUrl": "https://img.ananinja.com/media/bra-public-files/services-admin/files/c8746419-4e9e-4c8a-a77d-7dc929f96d97?w=3840&q=75",
+    "variants": [
+      {
+        "variantId": "doux-chickenstrips-700g&",
+        "packageSize": 700,
+        "unit": "جم",
+        "unitEn": "g",
+        "categoryId": "chicken-strips"
+      }
+    ]
   },
   {
     "productId": "galaxyjewels-550gm&",
