@@ -474,5 +474,38 @@
     "categoryNameEn": "Pharmacies",
     "departmentId": "department_pharmacy",
     "icon": "💊"
+  },
+  {
+    "categoryId": "fru-pomegrante",
+    "categoryNameAr": "رمان",
+    "categoryNameEn": "Pomegrante",
+    "departmentId": "dept_fruits"
+  },
+  {
+    "categoryId": "veg-garlic",
+    "categoryNameAr": "ثوم",
+    "categoryNameEn": "Garlic",
+    "departmentId": "dept_vegetables",
+    "icon": "🧄"
+  },
+  {
+    "categoryId": "veg-potato",
+    "categoryNameAr": "بطاطا",
+    "categoryNameEn": "Potato",
+    "departmentId": "dept_vegetables",
+    "icon": "🍠"
+  },
+  {
+    "categoryId": "veg-ginger",
+    "categoryNameAr": "زنجبيل",
+    "categoryNameEn": "Ginger",
+    "departmentId": "dept_vegetables"
+  },
+  {
+    "categoryId": "veg-carrot",
+    "categoryNameAr": "جزر",
+    "categoryNameEn": "Carrot",
+    "departmentId": "dept_vegetables",
+    "icon": "🥕"
   }
 ]

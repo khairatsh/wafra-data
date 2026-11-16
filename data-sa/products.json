@@ -1356,8 +1356,8 @@
     "productId": "grapes-black-lebanese&",
     "productNameAr": "عنب",
     "productNameEn": "Grapes",
-    "brandAr": "أسود لبناني",
-    "brandEn": "Black Lebanese",
+    "brandAr": "أسود",
+    "brandEn": "Black",
     "categoryId": "fru-grapes",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoXPOS47Ep4jmYempgVOvCPgoKH8AmI46TC-8AUfmaAQ&s=10",
     "homeSuggested": true,
@@ -3296,6 +3296,200 @@
         "unit": "عبوة",
         "unitEn": "pack",
         "categoryId": "diapers"
+      }
+    ]
+  },
+  {
+    "productId": "orange-navel&",
+    "productNameAr": "برتقال",
+    "productNameEn": "Orange",
+    "brandAr": "نافل أبو صرة",
+    "brandEn": "Navel",
+    "categoryId": "fru-orange",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTmxrKG_trIwvnro9ko2iIU8eEsTO3xFIkFIdPugZbZweIOu2Y3JdMj6pd&s=10",
+    "variants": [
+      {
+        "variantId": "orange-navel&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-orange"
+      }
+    ]
+  },
+  {
+    "productId": "cucamber-perkg&",
+    "productNameAr": "خيار",
+    "productNameEn": "Cucumber",
+    "brandAr": "خضار طازج",
+    "brandEn": "Fresh Vegetables",
+    "categoryId": "veg-cucamber",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzuaJnzLiHdLhaZcA6tF0JfHQeYVmNXa32zx95dJdGP_GV7dAHqbd-r0&s=10",
+    "variants": [
+      {
+        "variantId": "cucamber-perkg&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "veg-cucamber"
+      }
+    ]
+  },
+  {
+    "productId": "lime-ben-zehir-bag&",
+    "productNameAr": "ليمون",
+    "productNameEn": "Lemon ",
+    "brandAr": "بن زهير",
+    "brandEn": "Ben Zahir",
+    "categoryId": "fru-lemon",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrofhnFE_6lMTrIBGUAHmonJ7Y51nya_k1il9eTIf1mNVawQW5TZIuBV0&s=10",
+    "variants": [
+      {
+        "variantId": "lime-ben-zehir-bag&",
+        "packageSize": 1,
+        "unit": "شبك",
+        "unitEn": "Bag",
+        "categoryId": "fru-lemon"
+      }
+    ]
+  },
+  {
+    "productId": "yemen-pomegrante&",
+    "productNameAr": "رمان",
+    "productNameEn": "Pomegrante",
+    "brandAr": "يمني",
+    "brandEn": "Yemen",
+    "categoryId": "fru-pomegrante",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXQpAWcf7le1I2NBhY9dBVL6pi5-WqJ7cqh3ykx_m3CQ&s",
+    "variants": [
+      {
+        "variantId": "yemen-pomegrante&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-pomegrante"
+      }
+    ]
+  },
+  {
+    "productId": "apple-gala-turkey&",
+    "productNameAr": "تفاح أحمر",
+    "productNameEn": "Red Apple",
+    "brandAr": "تركي",
+    "brandEn": "Turkey",
+    "categoryId": "fru-apples",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SZJNi6jLoQGassexDtK6plyQF9yoPNN4I7uPVrckVntWwTWn4t2MqU4&s=10",
+    "variants": [
+      {
+        "variantId": "apple-gala-turkey&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "fru-apples"
+      }
+    ]
+  },
+  {
+    "productId": "garlic-net-pack&",
+    "productNameAr": "ثوم",
+    "productNameEn": "Garlic",
+    "categoryId": "veg-garlic",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVt5VI-jPLqlhpsWK7rWC5Sm3x5EJ7xIKRnmj_EoQvHq_5UdvAd6HQg-FN&s=10",
+    "variants": [
+      {
+        "variantId": "garlic-net-pack&",
+        "packageSize": 1,
+        "unit": "شبك",
+        "unitEn": "Bag",
+        "categoryId": "veg-garlic"
+      }
+    ]
+  },
+  {
+    "productId": "capsicum-green&",
+    "productNameAr": "فلفل أخضر",
+    "productNameEn": "Capsicum",
+    "brandAr": "أخضر",
+    "brandEn": "Green",
+    "categoryId": "veg-capsicum",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQs58ljcnqMJ5iWdx0JVUFbm-ivz6-H2TWJvqXgIcmxw&s",
+    "variants": [
+      {
+        "variantId": "capsicum-green&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "veg-capsicum"
+      }
+    ]
+  },
+  {
+    "productId": "sweet-potato&",
+    "productNameAr": "بطاطا",
+    "productNameEn": "Potato",
+    "brandAr": "حلوة",
+    "brandEn": "Sweet",
+    "categoryId": "veg-potato",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTHJWMn8u-PUlhabm0eCKGK2KzPppa07ULEgil1lomaA&s=10",
+    "variants": [
+      {
+        "variantId": "sweet-potato&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "veg-potato"
+      }
+    ]
+  },
+  {
+    "productId": "ginger&",
+    "productNameAr": "زنجبيل",
+    "productNameEn": "Ginger",
+    "categoryId": "veg-ginger",
+    "imageUrl": "https://img.magnific.com/free-psd/fresh-ginger-root-culinary-medicinal-delight_191095-77678.jpg?semt=ais_hybrid&w=740&q=80",
+    "variants": [
+      {
+        "variantId": "ginger&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "veg-ginger"
+      }
+    ]
+  },
+  {
+    "productId": "carrot-austrailian&",
+    "productNameAr": "جزر",
+    "productNameEn": "Carrot",
+    "brandAr": "استرالي",
+    "brandEn": "Australian",
+    "categoryId": "veg-carrot",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH0dCV-7mE-jNDfYWqiv7nrgeEuDQJ_JjakIEKf-rBrrwmk4pZtN9l-3Q&s=10",
+    "variants": [
+      {
+        "variantId": "carrot-austrailian&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "veg-carrot"
+      }
+    ]
+  },
+  {
+    "productId": "eggplant-saudi-kg&",
+    "productNameAr": "باذنجان",
+    "productNameEn": "Eggplant",
+    "brandAr": "كبير",
+    "brandEn": "Big",
+    "categoryId": "veg-eggplant",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSWVLlGeBAx6Bun-2Ofs5ny_2IO3AdmYEt6BecsLQBXdvjh1NEvO5wbXo&s=10",
+    "variants": [
+      {
+        "variantId": "eggplant-saudi-kg&",
+        "packageSize": 1,
+        "unit": "كجم",
+        "unitEn": "kg",
+        "categoryId": "veg-eggplant"
       }
     ]
   }
