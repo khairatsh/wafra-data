@@ -25,6 +25,7 @@
     "brandEn": "Aquafina",
     "categoryId": "cat_beverages",
     "imageUrl": "https://images.todoorstep.com/product/2305180/Ar_large.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AquafinaWaterShrinkWrap6x1.5Liter",
@@ -708,7 +709,6 @@
     "brandEn": "Alkhair",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/137400435/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlKhairFullCreamMilkPowder2.25kg",
@@ -727,7 +727,6 @@
     "brandEn": "Al Khair",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/3866625/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlKhairMilkPowder1.8kg",
@@ -746,7 +745,6 @@
     "brandEn": "Al Khair",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/3866635/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlKhairMilkPowder2.5kg",
@@ -873,7 +871,6 @@
     "brandEn": "Almarai",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/3675310/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlmaraiFullFatMilk12×1L",
@@ -892,7 +889,6 @@
     "brandEn": "Almarai",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/100134245/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlmaraiFullFatMilkPowder1.8kg",
@@ -911,7 +907,6 @@
     "brandEn": "Almarai",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/130300036/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlmaraiMilkPowderFullCream2.25kg",
@@ -930,7 +925,6 @@
     "brandEn": "Almarai",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/130250112/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlmaraiMilkPowderFullCream2.5kg",
@@ -949,7 +943,6 @@
     "brandEn": "Almarai",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/100248783/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlmaraiMozzarellaCheeseFullFat900g",
@@ -1022,7 +1015,6 @@
     "brandEn": "Almarai",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/3675315/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlmaraiUHTFullFatMilkBottle1Liter",
@@ -1041,7 +1033,6 @@
     "brandEn": "Almarai",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/3675311/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlmaraiUHTMilkFullFatPack4x1Liter",
@@ -1078,7 +1069,6 @@
     "brandEn": "Al Safi",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/100172294/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlSafiAnalogueMozzarellaCheese900g",
@@ -1115,7 +1105,6 @@
     "brandEn": "Al Safi",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/660690/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlSafiFullFatMilkMultiPack12x1l",
@@ -1152,7 +1141,6 @@
     "brandEn": "Al Safi",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/100101513/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlSafiMilkFullFat4x1l",
@@ -1189,7 +1177,6 @@
     "brandEn": "Al Safi",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/660695/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlSafiMilkFullFatBottle1l",
@@ -1208,7 +1195,6 @@
     "brandEn": "Al Taie",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/1115715/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlTaieMilkPowderTin1.8Kg",
@@ -1227,7 +1213,6 @@
     "brandEn": "Al Taie",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/1154225/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlTaieMilkPowderTin2.5Kg",
@@ -1246,7 +1231,6 @@
     "brandEn": "Anchor",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/100248947/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AnchorDailyPlusMilkPowder1.8kg",
@@ -1265,7 +1249,6 @@
     "brandEn": "Anchor",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/2236015/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AnchorMilkPowderPouch2.25kg",
@@ -1284,7 +1267,6 @@
     "brandEn": "Anchor",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/144235/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AnchorMilkPowderTin2.5kg",
@@ -1303,7 +1285,6 @@
     "brandEn": "Dari",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/100096208/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DariMozzarellaAnalogueCheese900g",
@@ -1376,7 +1357,6 @@
     "brandEn": "Luna",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/1532255/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "LunaMilkPowderPouch2.25kg",
@@ -1395,7 +1375,6 @@
     "brandEn": "Luna",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/1168905/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "LunaMilkPowderTin1.8kg",
@@ -1414,7 +1393,6 @@
     "brandEn": "Luna",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/1273805/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "LunaMilkPowderTin2.5kg",
@@ -1487,7 +1465,6 @@
     "brandEn": "Nada",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/786470/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "NadaMilkFullFat12x1l",
@@ -1506,7 +1483,6 @@
     "brandEn": "Nada",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/786475/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "NadaMilkFullFat1L",
@@ -1525,7 +1501,6 @@
     "brandEn": "Nada",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/786471/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "NadaMilkFullFat4x1l",
@@ -1544,7 +1519,6 @@
     "brandEn": "Nadec",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/660805/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "NadecMilkFullFatBottle1l",
@@ -1563,7 +1537,6 @@
     "brandEn": "Nadec",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/660800/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "NadecMilkFullFatMultiPack12x1l",
@@ -1618,7 +1591,6 @@
     "brandEn": "Nadec",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/660801/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "NadecUHTFullFatMilkMultiPack4x1Liter",
@@ -1637,7 +1609,6 @@
     "brandEn": "Nido",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/100133348/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "NidoMilkPowderTin2.5Kg",
@@ -1656,7 +1627,6 @@
     "brandEn": "President",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/2231615/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "PresidentCheeseMozzarellaShredded900g",
@@ -1675,7 +1645,6 @@
     "brandEn": "Puck",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/3817115/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "PuckCheeseMozzaShredded900G",
@@ -1694,7 +1663,6 @@
     "brandEn": "Rainbow",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/144415/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RainbowMilkPowder1.8kg",
@@ -1713,7 +1681,6 @@
     "brandEn": "Rainbow",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/674325/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RainbowMilkPowder2.5kg",
@@ -1732,7 +1699,6 @@
     "brandEn": "Rainbow",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/100085681/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RainbowMilkPowder2kg",
@@ -1751,7 +1717,6 @@
     "brandEn": "Saudia",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/3042615/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SaudiaMilkPowderTin1.8kg",
@@ -1770,7 +1735,6 @@
     "brandEn": "Three Cows",
     "categoryId": "cat_dairies",
     "imageUrl": "https://images.todoorstep.com/product/3816875/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "ThreeCowsCheeseMozzarellaShredded900G",
@@ -1789,7 +1753,6 @@
     "brandEn": "Algharbia",
     "categoryId": "cat_eggs",
     "imageUrl": "https://images.todoorstep.com/product/100124892/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlGarbiahWhiteEggsPlasticPack30pcs",
@@ -1808,7 +1771,6 @@
     "brandEn": "Al Watania",
     "categoryId": "cat_eggs",
     "imageUrl": "https://images.todoorstep.com/product/1168745/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlWataniaEggsinPlasticPlate30pcs",
@@ -1827,7 +1789,6 @@
     "brandEn": "Entaj",
     "categoryId": "cat_eggs",
     "imageUrl": "https://images.todoorstep.com/product/100216062/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "EntajMedium/LargePlasticEggPack30pcs",
@@ -1865,7 +1826,6 @@
     "brandEn": "Fakieh",
     "categoryId": "cat_eggs",
     "imageUrl": "https://images.todoorstep.com/product/429395/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "FakiehLargeEggs30pcs",
@@ -1884,7 +1844,6 @@
     "brandEn": "Safwa",
     "categoryId": "cat_eggs",
     "imageUrl": "https://images.todoorstep.com/product/185550374/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SafwaLargeWhiteEggs30pcs",
@@ -1903,7 +1862,6 @@
     "brandEn": "Saha",
     "categoryId": "cat_eggs",
     "imageUrl": "https://images.todoorstep.com/product/100211181/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SahaMediumEggs30pcs",
@@ -1922,7 +1880,6 @@
     "brandEn": "Shahila",
     "categoryId": "cat_eggs",
     "imageUrl": "https://images.todoorstep.com/product/100217044/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "ShahilaLargeWhiteEggsPlasticTray30Pieces",
@@ -1941,7 +1898,6 @@
     "brandEn": "Al Kabeer",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/331615/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlKabeerFrenchFries2.5kg",
@@ -1960,7 +1916,6 @@
     "brandEn": "Al Kabeer",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/100158728/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlKabeerHashBrowns2.5kg",
@@ -1979,7 +1934,6 @@
     "brandEn": "Americana",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/331525/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AmericanaFrozenFrenchFries2.5kg",
@@ -1998,7 +1952,6 @@
     "brandEn": "Dari",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/145000239/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DariExtraCrispyFries1kg",
@@ -2017,7 +1970,6 @@
     "brandEn": "Dari",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/145050092/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DariExtraCrispyThinFries1kg",
@@ -2036,7 +1988,6 @@
     "brandEn": "Dari",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/201351798/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DariFrenchFries2.5kg",
@@ -2055,7 +2006,6 @@
     "brandEn": "Dari",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/100269307/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DariFrenchFriesRegularCut1kg",
@@ -2074,7 +2024,6 @@
     "brandEn": "Dari",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/100147800/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DariFrenchFriesThin2kg",
@@ -2093,7 +2042,6 @@
     "brandEn": "Dari",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/3865265/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DariFrozenFrenchFries2kg",
@@ -2112,7 +2060,6 @@
     "brandEn": "Dari",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/3859585/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DariFrozenWedgesFries750g",
@@ -2131,7 +2078,6 @@
     "brandEn": "Lambweston",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/183501413/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "LambwestonFrenchFriesExtraCrispyThin2.25kg",
@@ -2150,7 +2096,6 @@
     "brandEn": "Lambweston",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/2607255/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "LambWestonFrozenHashBrowns1kg",
@@ -2169,7 +2114,6 @@
     "brandEn": "Lambweston",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/1895305/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "LambwestonFrozenOriginalFries1kg",
@@ -2188,7 +2132,6 @@
     "brandEn": "Lambweston",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/1447255/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "LambWestonOriginalFrenchFries2.5kg",
@@ -2207,7 +2150,6 @@
     "brandEn": "Mc Cain",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/1945035/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "McCainFrozenFriesSuperWedges1.5kg",
@@ -2226,7 +2168,6 @@
     "brandEn": "Mc Cain",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/2264345/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "McCainStraightCutFrenchFries2.5kg",
@@ -2245,7 +2186,6 @@
     "brandEn": "Mc Cain",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/2264335/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "McCainThinCutFrenchFries2.5kg",
@@ -2264,7 +2204,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/3718685/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaFrenchFries2.5kg",
@@ -2283,7 +2222,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/100236794/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaFrenchFriesExtraCrispy1kg",
@@ -2302,7 +2240,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/100236796/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaFrenchFriesExtraCrispyThinCut1kg",
@@ -2321,7 +2258,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/3718705/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaFrozenFrenchFriesThinCut2.5kg",
@@ -2340,7 +2276,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/201151585/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaFrozenHashBrownsFries2.5kg",
@@ -2359,7 +2294,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/108000184/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaFrozenFrenchFries7mm2.5kg",
@@ -2378,7 +2312,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/108000168/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaFrozenFrenchFries9mm2.5kg",
@@ -2397,7 +2330,6 @@
     "brandEn": "Sunbulah",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/100107425/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SunbulahFrozenFrenchFriesSuperCrisp1.5kg",
@@ -2416,7 +2348,6 @@
     "brandEn": "Sunbulah",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/3655445/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SunbulahFrozenFrenchFriesThin1000g",
@@ -2435,7 +2366,6 @@
     "brandEn": "Sunbulah",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/3655465/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SunbulahFrozenFrenchFriesThin2500g",
@@ -2454,7 +2384,6 @@
     "brandEn": "Sunbulah",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/331195/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SunbulahFrozenRegularFrenchFries2.5kg",
@@ -2473,7 +2402,6 @@
     "brandEn": "Sunbulah",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/2827545/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SunbulahFrozenSpicedPotatoWedges750g",
@@ -2492,7 +2420,6 @@
     "brandEn": "Mc Cain",
     "categoryId": "cat_frenshfries",
     "imageUrl": "https://images.todoorstep.com/product/331285/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "TraditionClassicCutPotatoFrenchFries1.5kg",
@@ -3775,7 +3702,6 @@
     "brandEn": "Al Kabeer",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/347165/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlKabeerChickenBurger1.2kg",
@@ -3794,7 +3720,6 @@
     "brandEn": "Al Kabeer",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100197929/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlKabeerChickenBurgerBreaded1kg",
@@ -3813,7 +3738,6 @@
     "brandEn": "Al Kabeer",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100125519/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlKabeerChickenBurgerJumbo1kg",
@@ -3832,7 +3756,6 @@
     "brandEn": "Al Kabeer",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/2772355/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlKabeerChickenTenderBreast1kg",
@@ -3870,7 +3793,6 @@
     "brandEn": "Al Kabeer",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100125156/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlKabeerZingSpicyChickenStrips750g",
@@ -3889,7 +3811,6 @@
     "brandEn": "Al Watania",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/386900/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlWataniaFreshChicken10×1.1kg",
@@ -3908,7 +3829,6 @@
     "brandEn": "Americana",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/1071545/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AmericanaChickenBurger1.344kg",
@@ -3927,7 +3847,6 @@
     "brandEn": "Americana",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100119634/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AmericanaChickenBurger1kg",
@@ -3946,7 +3865,6 @@
     "brandEn": "Americana",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100197271/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AmericanaChickenMusahab750g",
@@ -3965,7 +3883,6 @@
     "brandEn": "Americana",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/3422565/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AmericanaChickenStrips750g",
@@ -3984,7 +3901,6 @@
     "brandEn": "Americana",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/2279405/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AmericanaJumboChickenBurger1kg",
@@ -4003,7 +3919,6 @@
     "brandEn": "Americana",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/3422575/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AmericanaSpicyChickenStrips750g",
@@ -4022,7 +3937,6 @@
     "brandEn": "Bashayer",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/214751889/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "BashayerFrozenBreadedChickenStrips750g",
@@ -4041,7 +3955,6 @@
     "brandEn": "Bashayer",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/206401803/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "BashayerFrozenWholeChicken(A)10×700g",
@@ -4060,7 +3973,6 @@
     "brandEn": "Bashayer",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/196501308/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "BashayerFrozenWholeChicken10×1000g",
@@ -4079,7 +3991,6 @@
     "brandEn": "Bashayer",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/196501244/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "BashayerFrozenWholeChicken10×900g",
@@ -4098,7 +4009,6 @@
     "brandEn": "Bashayer",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/196501261/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "BashayerWholeChicken10×1200g",
@@ -4117,7 +4027,6 @@
     "brandEn": "Bashayer",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/196501295/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "BashayerWholeChicken10×800g",
@@ -4136,7 +4045,6 @@
     "brandEn": "Bashayer",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/196501279/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "BashayerWholeChicken10x1100g",
@@ -4155,7 +4063,6 @@
     "brandEn": "Dari",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/3858350/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DariFrozenChicken10X1.1KG",
@@ -4174,7 +4081,6 @@
     "brandEn": "Dari",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100197398/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DariFrozenTenderChickenBreast1kg",
@@ -4193,7 +4099,6 @@
     "brandEn": "Dari",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100183647/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DariFrozenTenderChickenBreast2kg",
@@ -4212,7 +4117,6 @@
     "brandEn": "Dari",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/3858280/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DariFrozenWholeChicken10x900g",
@@ -4231,7 +4135,6 @@
     "brandEn": "Doux",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/119100480/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DouxChickenStrips700g",
@@ -4250,7 +4153,6 @@
     "brandEn": "Doux",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/119000534/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DouxChickenStripsHot700g",
@@ -4288,7 +4190,6 @@
     "brandEn": "Doux",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/1051440/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DouxFrozenChicken10X800G",
@@ -4307,7 +4208,6 @@
     "brandEn": "Doux",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/405600/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DouxFrozenChicken900g(Packof10)",
@@ -4326,7 +4226,6 @@
     "brandEn": "Doux",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/405590/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DouxFrozenGrillerChicken1kg(Packof10)",
@@ -4345,7 +4244,6 @@
     "brandEn": "Doux",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100248487/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DouxFrozenTenderChickenBreast2kg",
@@ -4364,7 +4262,6 @@
     "brandEn": "Doux",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100248481/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "DouxTenderChickenBreast1kg",
@@ -4383,7 +4280,6 @@
     "brandEn": "Fakieh",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100101162/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "FakiehFrozenWholeChicken1.1kg(Packof10)",
@@ -4402,7 +4298,6 @@
     "brandEn": "Fakieh",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100101154/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "FakiehFrozenWholeChicken10×700g",
@@ -4421,7 +4316,6 @@
     "brandEn": "Fakieh",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100101155/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "FakiehFrozenWholeChicken10×800G",
@@ -4440,7 +4334,6 @@
     "brandEn": "Fakieh",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100101161/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "FakiehFrozenWholeChicken1kg(Packof10)",
@@ -4459,7 +4352,6 @@
     "brandEn": "Golden",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100215377/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "GoldenChickenFrozenWholeChicken10X1.1KG",
@@ -4478,7 +4370,6 @@
     "brandEn": "Golden",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100215380/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "GoldenChickenFrozenWholeChicken10X1.2KG",
@@ -4497,7 +4388,6 @@
     "brandEn": "Golden",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100215374/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "GoldenChickenFrozenWholeChicken10X1KG",
@@ -4516,7 +4406,6 @@
     "brandEn": "Golden",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100215368/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "GoldenChickenFrozenWholeChicken10x800g",
@@ -4535,7 +4424,6 @@
     "brandEn": "Mayda",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/142300615/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "MaydaTenderChickenBreast1kg",
@@ -4554,7 +4442,6 @@
     "brandEn": "Radwa",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100148239/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RadwaFrozenChickenBurgerBreaded1.44kg",
@@ -4573,7 +4460,6 @@
     "brandEn": "Radwa",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100100808/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RadwaFrozenWholeChicken10x1.2kg",
@@ -4592,7 +4478,6 @@
     "brandEn": "Radwa",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/3798420/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RadwaFrozenWholeChicken10x1kg",
@@ -4611,7 +4496,6 @@
     "brandEn": "Royal",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100141407/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RoyalChickenMosahabPlain750g",
@@ -4630,7 +4514,6 @@
     "brandEn": "Royal",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100141409/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RoyalChickenMosahabSpicy750g",
@@ -4649,7 +4532,6 @@
     "brandEn": "Royal",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100197389/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RoyalChickenStrips750g",
@@ -4668,7 +4550,6 @@
     "brandEn": "Royal",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/3343505/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RoyalFrozenTenderChickenBreast1kg",
@@ -4687,7 +4568,6 @@
     "brandEn": "Royal",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100197391/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RoyalSpicyChickenStrips750g",
@@ -4706,7 +4586,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/164450278/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaBreadedChickenBurgerjumbo10pcs1000g",
@@ -4725,7 +4604,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/102600074/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaBroastedChickenClassicFillets750g",
@@ -4744,7 +4622,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/164000082/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaBroastedChickenJalapeno750g",
@@ -4763,7 +4640,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100257592/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaBroastedChickenStrips750g",
@@ -4782,7 +4658,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/184451315/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaBroastedZingerChickenStripsSpicy750G",
@@ -4801,7 +4676,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/1035755/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaChickenBrgrs1.344Kg",
@@ -4820,7 +4694,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/184451340/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaChickenBroastedZingsSpicy750g",
@@ -4839,7 +4712,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/2470075/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaFrozenChickenBreast2.5kg",
@@ -4858,7 +4730,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/3697775/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaFrozenTenderChickenBreast1kg",
@@ -4877,7 +4748,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/387080/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaFrozenWholeChickenGriller1000GX11",
@@ -4896,7 +4766,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/387090/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaFrozenWholeChickenGriller1100GX11",
@@ -4915,7 +4784,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/387100/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaFrozenWholeChickenGriller1300GX11",
@@ -4934,7 +4802,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/1945450/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaFrozenWholeChickenGriller800gX11",
@@ -4953,7 +4820,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/387110/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaFrozenWholeChickenGriller900gX11",
@@ -4972,7 +4838,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100127242/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaJumboChickenBurger1kg",
@@ -4991,7 +4856,6 @@
     "brandEn": "Sadia",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/3697785/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SadiaTenderChickenBreast2Kg",
@@ -5010,7 +4874,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/120850350/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaBreadedChickenBurgerJumboFrozen1kg",
@@ -5029,7 +4892,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/142300586/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaChickenMusahab750g",
@@ -5048,7 +4910,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/108000109/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaChickenStrips750g",
@@ -5067,7 +4928,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/108000117/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaChickenStripsZingzo750g",
@@ -5086,7 +4946,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/212502248/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaChickenTender1.8kg",
@@ -5105,7 +4964,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/3045210/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaFrozenWholeChicken10×1000g",
@@ -5124,7 +4982,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/3045220/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaFrozenWholeChicken10×1100g",
@@ -5143,7 +5000,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/3045230/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaFrozenWholeChicken10×1200g",
@@ -5162,7 +5018,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/3045140/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaFrozenWholeChicken10×800g",
@@ -5181,7 +5036,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/3045200/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaFrozenWholeChicken10×900g",
@@ -5200,7 +5054,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/120850368/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaJumboUnbreadedChickenBurgerFrozen1kg",
@@ -5219,7 +5072,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/142300607/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaSpicyChickenMusahab750g",
@@ -5238,7 +5090,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/120900281/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaUnbreadedChickenBurgerFrozen1.3kg",
@@ -5257,7 +5108,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/120850376/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaUnbreadedChickenBurgerFrozen1kg",
@@ -5276,7 +5126,6 @@
     "brandEn": "Sunbulah",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100246234/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SunbulahChickenStrips750g",
@@ -5295,7 +5144,6 @@
     "brandEn": "Sunbulah",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/2304115/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SunbulahFrozenBreadedChickenBurgers1344g",
@@ -5314,7 +5162,6 @@
     "brandEn": "Sunbulah",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/100246236/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SunbulahSpicyChickenStrips750g",
@@ -5333,7 +5180,6 @@
     "brandEn": "Tanmiah",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/138950308/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "TanmiahFrozenWholeChicken10×1.1kg",
@@ -5352,7 +5198,6 @@
     "brandEn": "Tanmiah",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/139100145/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "TanmiahFrozenWholeChicken10×1.2kg",
@@ -5371,7 +5216,6 @@
     "brandEn": "Tanmiah",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/139100111/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "TanmiahFrozenWholeChicken10×1kg",
@@ -5390,7 +5234,6 @@
     "brandEn": "Tanmiah",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/138950261/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "TanmiahFrozenWholeChicken10×800g",
@@ -5409,7 +5252,6 @@
     "brandEn": "Tanmiah",
     "categoryId": "cat_frozenchicken",
     "imageUrl": "https://images.todoorstep.com/product/138950287/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "TanmiahFrozenWholeChicken10×900g",
@@ -5428,7 +5270,6 @@
     "brandEn": "Al Kabeer",
     "categoryId": "cat_frozenmeat",
     "imageUrl": "https://images.todoorstep.com/product/2537445/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlKabeerBeefBurger24pcs",
@@ -5447,7 +5288,6 @@
     "brandEn": "Al Kabeer",
     "categoryId": "cat_frozenmeat",
     "imageUrl": "https://images.todoorstep.com/product/100197402/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlKabeerBeefBurgerBBQ1kg",
@@ -5466,7 +5306,6 @@
     "brandEn": "Americana",
     "categoryId": "cat_frozenmeat",
     "imageUrl": "https://images.todoorstep.com/product/432715/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AmericanaBeefBurger1kg",
@@ -5485,7 +5324,6 @@
     "brandEn": "Americana",
     "categoryId": "cat_frozenmeat",
     "imageUrl": "https://images.todoorstep.com/product/432585/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AmericanaBeefBurgerArabicSpices1.344kg",
@@ -5504,7 +5342,6 @@
     "brandEn": "Americana",
     "categoryId": "cat_frozenmeat",
     "imageUrl": "https://images.todoorstep.com/product/2485445/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AmericanaBeefBurgerClassic1kg",
@@ -5523,7 +5360,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenmeat",
     "imageUrl": "https://images.todoorstep.com/product/120850317/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaBeefBurgerArabicSpicesFrozen1.3kg",
@@ -5542,7 +5378,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenmeat",
     "imageUrl": "https://images.todoorstep.com/product/120850333/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaBeefBurgerClassicFrozen1kg",
@@ -5561,7 +5396,6 @@
     "brandEn": "Seara",
     "categoryId": "cat_frozenmeat",
     "imageUrl": "https://images.todoorstep.com/product/120900214/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SearaJumboBeefBurgerFrozen1kg",
@@ -5580,7 +5414,6 @@
     "brandEn": "Sunbulah",
     "categoryId": "cat_frozenmeat",
     "imageUrl": "https://images.todoorstep.com/product/2303995/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SunbulahFrozenBeefBurger1.344kg",
@@ -6148,7 +5981,6 @@
     "brandEn": "Afia",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/3864175/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AfiaExtraVirginOliveOil2L",
@@ -6167,7 +5999,6 @@
     "brandEn": "Afia",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/100160137/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AfiaOrganicExtraVirginOliveOil500ml",
@@ -6186,7 +6017,6 @@
     "brandEn": "Al Jameel",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/183700375/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlJameelExtraVirginOliveOil1L",
@@ -6205,7 +6035,6 @@
     "brandEn": "Al Jameel",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/172150101/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlJameelExtraVirginOliveOil250ml",
@@ -6224,7 +6053,6 @@
     "brandEn": "Al Jameel",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/172150110/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlJameelExtraVirginOliveOil500ml",
@@ -6243,7 +6071,6 @@
     "brandEn": "Al Jouf",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/100188591/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlJoufOliveOil1L",
@@ -6262,7 +6089,6 @@
     "brandEn": "Al Jouf",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/100188489/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlJoufOliveOil250ML",
@@ -6281,7 +6107,6 @@
     "brandEn": "Al Jouf",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/100188491/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlJoufOliveOil500ML",
@@ -6300,7 +6125,6 @@
     "brandEn": "Al Jouf",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/194800865/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlJouforganicextravirginoliveoil4l",
@@ -6319,7 +6143,6 @@
     "brandEn": "Al Jouf",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/200651588/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlJouforganicextravirginoliveoil750ml",
@@ -6338,7 +6161,6 @@
     "brandEn": "Al Jouf",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/160450094/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AljoufOrganicOliveOil2L",
@@ -6357,7 +6179,6 @@
     "brandEn": "Almarai",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/100241690/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlmaraiExtraVirginOliveOil250Ml",
@@ -6376,7 +6197,6 @@
     "brandEn": "Almarai",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/100161881/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlmaraiExtraVirginOliveOil500Ml",
@@ -6395,7 +6215,6 @@
     "brandEn": "Al Watania",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/182450618/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlWataniaOrganicExtraVirginOliveOil1L",
@@ -6414,7 +6233,6 @@
     "brandEn": "Al Watania",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/182450600/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlWataniaOrganicExtraVirginOliveOil250mL",
@@ -6433,7 +6251,6 @@
     "brandEn": "Al Watania",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/182450626/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlWataniaOrganicExtraVirginOliveOil2L",
@@ -6452,7 +6269,6 @@
     "brandEn": "Al Watania",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/182450634/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlWataniaOrganicExtraVirginOliveOil500ml",
@@ -6509,7 +6325,6 @@
     "brandEn": "Nadec",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/174851024/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "NadecOrganicOliveOilExtraVirginFirstExtraction4l",
@@ -6528,7 +6343,6 @@
     "brandEn": "Nadec",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/100179768/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "NadecOrganicOliveOilTin1L",
@@ -6547,7 +6361,6 @@
     "brandEn": "Rahma",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/179800390/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RahmaExtraVirginOliveOil1L",
@@ -6566,7 +6379,6 @@
     "brandEn": "Rahma",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/2155875/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RahmaExtraVirginOliveOil250ml",
@@ -6585,7 +6397,6 @@
     "brandEn": "Rahma",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/3695185/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RahmaExtraVirginOliveOil2L",
@@ -6604,7 +6415,6 @@
     "brandEn": "Rahma",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/100265603/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "RahmaExtraVirginOrganicOliveOil500ml",
@@ -6623,7 +6433,6 @@
     "brandEn": "Sasso",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/104855/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SassoOliveOil175ml",
@@ -6642,7 +6451,6 @@
     "brandEn": "Sasso",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/104945/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SassoOliveoil800Ml",
@@ -6661,7 +6469,6 @@
     "brandEn": "Sasso",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/104865/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SassoOliveOilTins400Ml",
@@ -6680,7 +6487,6 @@
     "brandEn": "Sasso",
     "categoryId": "cat_oliveoil",
     "imageUrl": "https://images.todoorstep.com/product/100224821/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SassoOrganicExtraVirginOliveOil500ml",
@@ -6699,7 +6505,6 @@
     "brandEn": "Abu Bint",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/133335/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AbubentAmericanRice5kg",
@@ -6718,7 +6523,6 @@
     "brandEn": "Abu Bint",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/3864095/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AbuBintCalroseRice5Kg",
@@ -6832,7 +6636,6 @@
     "brandEn": "Abu Siouf",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/133505/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AbuSioufAmiricanL/gRice10Kg",
@@ -6851,7 +6654,6 @@
     "brandEn": "Abusumbula",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/2045315/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AbusumbulaBsmtiRice5Kg",
@@ -6870,7 +6672,6 @@
     "brandEn": "Abusumbula",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/1076165/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AbuSunblatenBasmatiRice10kg",
@@ -6889,7 +6690,6 @@
     "brandEn": "Al Aila",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/114550300/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlAilaFortifiedRice4.5kg",
@@ -6908,7 +6708,6 @@
     "brandEn": "Al Aila",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/2395895/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlAilaWhiteBasmatiLongGrainRice5kg",
@@ -6927,7 +6726,6 @@
     "brandEn": "Al Aila",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/100130993/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlAilaWhiteBasmatiRice5kg",
@@ -6946,7 +6744,6 @@
     "brandEn": "Al Aila",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/2395845/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlAilaWhtBs/LnggrnRice10Kg",
@@ -6965,7 +6762,6 @@
     "brandEn": "Victoria",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/100260791/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlBashaIndianBiryaniRice5kg",
@@ -6984,7 +6780,6 @@
     "brandEn": "Al Maha",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/2873985/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlMahaPunjabiBasmatiRice10kg",
@@ -7003,7 +6798,6 @@
     "brandEn": "Al Maha",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/2911835/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlMahaPunjabiBasmatiRice5KG",
@@ -7022,7 +6816,6 @@
     "brandEn": "Al Mudyaf",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/177150389/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlMudyafIndianWhiteBasmatiRice10kg",
@@ -7041,7 +6834,6 @@
     "brandEn": "Al Mudyaf",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/210451803/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlMudyafIndianWhiteBasmatiRice5kg",
@@ -7060,7 +6852,6 @@
     "brandEn": "Al Muhaideb",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/133625/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlMuhaidebPnjbiBs/Rice10Kg",
@@ -7079,7 +6870,6 @@
     "brandEn": "Al Muhaideb",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/133415/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlMuhaidebPnjbiBs/Rice5Kg",
@@ -7098,7 +6888,6 @@
     "brandEn": "Aloha",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/100198954/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlohaPremiumJasmineRice5kg",
@@ -7117,7 +6906,6 @@
     "brandEn": "Aloha",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/199851493/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlohaWhiteKernelBasmatiRice5kg",
@@ -7136,7 +6924,6 @@
     "brandEn": "Al Rajhi",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/100252082/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlRajhiMazzaBasmatiRice10kg",
@@ -7155,7 +6942,6 @@
     "brandEn": "Al Safeer",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/1797835/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlSafeerIndianMazzaBasmatiRice10kg",
@@ -7174,7 +6960,6 @@
     "brandEn": "Al Safeer",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/2898005/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlSafeerSellaBasmatiRice5kg",
@@ -7193,7 +6978,6 @@
     "brandEn": "Al Taie",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/100134263/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlTaiePunjabiLongGrainWhiteBasmatiRice10kg",
@@ -7212,7 +6996,6 @@
     "brandEn": "Al Taie",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/100134264/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlTaiePunjabiLongGrainWhiteBasmatiRice5kg",
@@ -7231,7 +7014,6 @@
     "brandEn": "Al Taie",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/1062105/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AltaieSellaBasmatiRice10kg",
@@ -7250,7 +7032,6 @@
     "brandEn": "Alwalimah",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/132665/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlWalimahSellaBasmatiRice10kg",
@@ -7269,7 +7050,6 @@
     "brandEn": "Alwalimah",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/132675/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlWalimahSellaBasmatiRice5kg",
@@ -7288,7 +7068,6 @@
     "brandEn": "Alwalimah",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/3874045/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlWalimahStyleBasmatiRiceBag5KG",
@@ -7307,7 +7086,6 @@
     "brandEn": "Alwalimah",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/3670035/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AlWalimahStyleJuteBag10kg",
@@ -7326,7 +7104,6 @@
     "brandEn": "Assem",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/212702354/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "AsemPremiumQualityEgyptianWhiteRice5kg",
@@ -7345,7 +7122,6 @@
     "brandEn": "BADRANI",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/180351309/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "BadraniLongGrainIndianSellaBasmatiRice10kg",
@@ -7364,7 +7140,6 @@
     "brandEn": "Bundi",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/177150371/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "BundiMazzaRice5kg",
@@ -7383,7 +7158,6 @@
     "brandEn": "Green Farms",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/3026105/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "GreenFarmEgyptianCamolinoRice5kg",
@@ -7402,7 +7176,6 @@
     "brandEn": "Hafel",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/100216336/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "HafelEgyptianRice5Kg",
@@ -7421,7 +7194,6 @@
     "brandEn": "Himalaya",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/185150400/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "HimalayaIndianMazzaBasmatiRice10kg",
@@ -7440,7 +7212,6 @@
     "brandEn": "Himalaya",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/210451791/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "HimalayaIndianMazzaBasmatiRice5kg",
@@ -7459,7 +7230,6 @@
     "brandEn": "Lazeez",
     "categoryId": "cat_rice",
     "imageUrl": "https://m.media-amazon.com/images/I/61RGRYJspKL._AC_UF1000,1000_QL80_.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "lazeezBasmatiRice10kg",
@@ -7478,7 +7248,6 @@
     "brandEn": "Meera",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/119100252/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "MeeraParboiledRice5kg",
@@ -7497,7 +7266,6 @@
     "brandEn": "Orlando",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/192900871/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "OrlandaEgyptianCalroseRice5kg",
@@ -7516,7 +7284,6 @@
     "brandEn": "Shaalan",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/852255/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "ShaalanBs/PunjabiRice10Kg",
@@ -7535,7 +7302,6 @@
     "brandEn": "Shaalan",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/1293025/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "ShaalanPunjabiBasmatiRice5kg",
@@ -7554,7 +7320,6 @@
     "brandEn": "Shaalan",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/473105/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "ShaalanSellaBasmatiRice5kg",
@@ -7573,7 +7338,6 @@
     "brandEn": "Shaalan",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/473115/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "ShaalanSellaBs/Rice10Kg",
@@ -7592,7 +7356,6 @@
     "brandEn": "Sunwhite",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/133160/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SunwhiteCalroseRice10kg",
@@ -7611,7 +7374,6 @@
     "brandEn": "Sunwhite",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/133325/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "SunwhiteCaroseRice5Kg",
@@ -7630,7 +7392,6 @@
     "brandEn": "Taj Alhind",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/100160887/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "TajAlhind10Kg",
@@ -7649,7 +7410,6 @@
     "brandEn": "Taj Mahal",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/100221356/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "TajMahalPanjabiRice10Kg",
@@ -7668,7 +7428,6 @@
     "brandEn": "Taj Mahal",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/100263693/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "TajMahalPunjabiRice5kg",
@@ -7687,7 +7446,6 @@
     "brandEn": "Taj Mahal",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/100221358/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "TajMahalSellaBsRice10Kg",
@@ -7706,7 +7464,6 @@
     "brandEn": "Tilda",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/132615/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "TildaPureBasmatiRice5kg",
@@ -7725,7 +7482,6 @@
     "brandEn": "White Swan",
     "categoryId": "cat_rice",
     "imageUrl": "https://images.todoorstep.com/product/132545/Ar_large.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "WhiteSwanGrainWhiteRice4.5kg",
