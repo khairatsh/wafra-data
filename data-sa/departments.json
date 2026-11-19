@@ -1,17 +1,25 @@
 [
   {
     "departmentId": "dept_grocery",
-    "departmentNameAr": "بقالة",
-    "departmentNameEn": "Grocery",
+    "departmentNameAr": "البقالة والتموينات",
+    "departmentNameEn": "Groceries & Essentials",
     "icon": "🛒",
     "sortOrder": 1,
     "active": true
   },
   {
-    "departmentId": "dept_restaurants",
-    "departmentNameAr": "مطاعم ومقاهي",
-    "departmentNameEn": "Restaurants & Cafés",
-    "icon": "🍽️",
+    "departmentId": "dept_fresh",
+    "departmentNameAr": "الأغذية الطازجة",
+    "departmentNameEn": "Fresh Food",
+    "icon": "🥬",
+    "sortOrder": 2,
+    "active": true
+  },
+  {
+    "departmentId": "dept_frozen",
+    "departmentNameAr": "الأغذية المجمدة",
+    "departmentNameEn": "Frozen Food",
+    "icon": "❄️",
     "sortOrder": 3,
     "active": true
   },
@@ -25,7 +33,7 @@
   },
   {
     "departmentId": "dept_home_appliances",
-    "departmentNameAr": "أجهزة منزلية",
+    "departmentNameAr": "الأجهزة المنزلية",
     "departmentNameEn": "Home Appliances",
     "icon": "🔌",
     "sortOrder": 5,
@@ -33,116 +41,38 @@
   },
   {
     "departmentId": "dept_furniture",
-    "departmentNameAr": "أثاث ومفروشات",
-    "departmentNameEn": "Furniture & Furnishings",
+    "departmentNameAr": "الأثاث والمنزل",
+    "departmentNameEn": "Furniture & Home Decor",
     "icon": "🛋️",
     "sortOrder": 6,
     "active": true
   },
   {
-    "departmentId": "dept_health_beauty",
-    "departmentNameAr": "صحة وجمال",
-    "departmentNameEn": "Health & Beauty",
-    "icon": "💊",
+    "departmentId": "dept_personalcare",
+    "departmentNameAr": "العناية الشخصية",
+    "departmentNameEn": "Personal Care",
+    "icon": "🫧",
     "sortOrder": 7,
     "active": true
   },
   {
-    "departmentId": "dept_home_supplies",
-    "departmentNameAr": "منزل ومستلزمات",
-    "departmentNameEn": "Home & Household Supplies",
-    "icon": "🧹",
+    "departmentId": "dept_fastfood",
+    "departmentNameAr": "الوجبات السريعة",
+    "departmentNameEn": "Fast Food",
+    "icon": "🍔",
     "sortOrder": 8,
-    "active": true
-  },
-  {
-    "departmentId": "dept_chicken",
-    "departmentNameAr": "دجاج",
-    "departmentNameEn": "Chicken",
-    "icon": "🍗",
-    "sortOrder": 9,
-    "active": true
-  },
-  {
-    "departmentId": "dept_fruits",
-    "departmentNameAr": "فواكه",
-    "departmentNameEn": "Fruits",
-    "icon": "🍎",
-    "sortOrder": 10,
-    "active": true
-  },
-  {
-    "departmentId": "dept_vegetables",
-    "departmentNameAr": "خضروات",
-    "departmentNameEn": "Vegetables",
-    "icon": "🥬",
-    "sortOrder": 11,
-    "active": true
-  },
-  {
-    "departmentId": "dept_rice",
-    "departmentNameAr": "أرز",
-    "departmentNameEn": "Rice",
-    "icon": "🍚",
-    "sortOrder": 12,
-    "active": true
-  },
-  {
-    "departmentId": "dept_drinks",
-    "departmentNameAr": "مشروبات",
-    "departmentNameEn": "Drinks",
-    "icon": "🥤",
-    "sortOrder": 13,
-    "active": true
-  },
-  {
-    "departmentId": "dept_chocolates",
-    "departmentNameAr": "شوكولاتة",
-    "departmentNameEn": "Chocolates",
-    "icon": "🍫",
-    "sortOrder": 14,
-    "active": true
-  },
-  {
-    "departmentId": "dept_detergents",
-    "departmentNameAr": "منظفات",
-    "departmentNameEn": "Detergents",
-    "icon": "🧼",
-    "sortOrder": 15,
-    "active": true
-  },
-  {
-    "departmentId": "dept_beauty",
-    "departmentNameAr": "عناية بالجمال",
-    "departmentNameEn": "Beauty Care",
-    "icon": "💄",
-    "sortOrder": 16,
-    "active": true
-  },
-  {
-    "departmentId": "dept_babycare",
-    "departmentNameAr": "عناية الأطفال",
-    "departmentNameEn": "Baby Care",
-    "icon": "👶",
-    "sortOrder": 17,
-    "active": true
-  },
-  {
-    "departmentId": "dept_womancare",
-    "departmentNameAr": "العناية النسائية",
-    "departmentNameEn": "Women's Care",
-    "icon": "🌸",
-    "sortOrder": 18,
     "active": true
   },
   {
     "departmentId": "department_supermarket",
     "departmentNameAr": "سوبر ماركت",
+    "departmentNameEn": "Supermarkets",
     "icon": "🛒"
   },
   {
     "departmentId": "department_pharmacy",
     "departmentNameAr": "صيدليات",
+    "departmentNameEn": "Pharmacies",
     "icon": "💊"
   }
 ]

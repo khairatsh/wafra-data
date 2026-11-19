@@ -8,19 +8,12 @@
     "categoryId": "cat_supermarket",
     "departmentIds": [
       "dept_grocery",
-      "dept_detergents",
-      "dept_beauty",
+      "dept_fresh",
+      "dept_frozen",
       "dept_electronics",
-      "dept_chicken",
-      "dept_fruits",
-      "dept_vegetables",
-      "dept_rice",
-      "dept_drinks",
-      "dept_chocolates",
-      "dept_detergents",
-      "dept_beauty",
-      "dept_babycare",
-      "dept_womancare"
+      "dept_electronics",
+      "dept_home_appliances",
+      "dept_personalcare"
     ],
     "featuredInCat": true,
     "branchGroups": [
@@ -50,19 +43,12 @@
     "categoryId": "cat_supermarket",
     "departmentIds": [
       "dept_grocery",
-      "dept_detergents",
-      "dept_beauty",
+      "dept_fresh",
+      "dept_frozen",
       "dept_electronics",
-      "dept_chicken",
-      "dept_fruits",
-      "dept_vegetables",
-      "dept_rice",
-      "dept_drinks",
-      "dept_chocolates",
-      "dept_detergents",
-      "dept_beauty",
-      "dept_babycare",
-      "dept_womancare"
+      "dept_electronics",
+      "dept_home_appliances",
+      "dept_personalcare"
     ],
     "featuredInCat": true
   },
@@ -75,19 +61,12 @@
     "categoryId": "cat_supermarket",
     "departmentIds": [
       "dept_grocery",
-      "dept_detergents",
-      "dept_beauty",
+      "dept_fresh",
+      "dept_frozen",
       "dept_electronics",
-      "dept_chicken",
-      "dept_fruits",
-      "dept_vegetables",
-      "dept_rice",
-      "dept_drinks",
-      "dept_chocolates",
-      "dept_detergents",
-      "dept_beauty",
-      "dept_babycare",
-      "dept_womancare"
+      "dept_electronics",
+      "dept_home_appliances",
+      "dept_personalcare"
     ],
     "featuredInCat": true
   },
@@ -99,10 +78,7 @@
     "homeScreenDisplay": true,
     "categoryId": "cat_pharmacy",
     "departmentIds": [
-      "dept_health_beauty",
-      "dept_womancare",
-      "dept_babycare",
-      "dept_beauty"
+      "dept_personalcare"
     ],
     "featuredInCat": true
   },
@@ -114,10 +90,7 @@
     "homeScreenDisplay": true,
     "categoryId": "cat_pharmacy",
     "departmentIds": [
-      "dept_health_beauty",
-      "dept_womancare",
-      "dept_babycare",
-      "dept_beauty"
+      "dept_personalcare"
     ],
     "featuredInCat": true
   },
@@ -129,10 +102,7 @@
     "homeScreenDisplay": true,
     "categoryId": "cat_pharmacy",
     "departmentIds": [
-      "dept_health_beauty",
-      "dept_womancare",
-      "dept_babycare",
-      "dept_beauty"
+      "dept_personalcare"
     ],
     "featuredInCat": true
   },
@@ -145,19 +115,12 @@
     "categoryId": "cat_supermarket",
     "departmentIds": [
       "dept_grocery",
-      "dept_detergents",
-      "dept_beauty",
+      "dept_fresh",
+      "dept_frozen",
       "dept_electronics",
-      "dept_chicken",
-      "dept_fruits",
-      "dept_vegetables",
-      "dept_rice",
-      "dept_drinks",
-      "dept_chocolates",
-      "dept_detergents",
-      "dept_beauty",
-      "dept_babycare",
-      "dept_womancare"
+      "dept_electronics",
+      "dept_home_appliances",
+      "dept_personalcare"
     ],
     "featuredInCat": true
   }

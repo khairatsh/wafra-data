@@ -2258,5 +2258,148 @@
     "addressAr": "غير متاح",
     "addressEn": "Not available",
     "category": "pharmacy"
+  },
+  {
+    "branchId": "tamimi-markets-all",
+    "storeId": "tamimi-markets",
+    "branchNameAr": "أسواق التميمي",
+    "branchNameEn": "Al Tamimi Markets",
+    "governorateId": "sa-qassim",
+    "cityId": "rass",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "supermarket"
+  },
+  {
+    "branchId": "tamimi-markets-all",
+    "storeId": "tamimi-markets",
+    "branchNameAr": "أسواق التميمي",
+    "branchNameEn": "Al Tamimi Markets",
+    "governorateId": "sa-riyad",
+    "cityId": "riyad",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "supermarket"
+  },
+  {
+    "branchId": "tamimi-markets-all",
+    "storeId": "tamimi-markets",
+    "branchNameAr": "أسواق التميمي",
+    "branchNameEn": "Al Tamimi Markets",
+    "governorateId": "sa-qassim",
+    "cityId": "buraidah",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "supermarket"
+  },
+  {
+    "branchId": "tamimi-markets-all",
+    "storeId": "tamimi-markets",
+    "branchNameAr": "أسواق التميمي",
+    "branchNameEn": "Al Tamimi Markets",
+    "governorateId": "sa-qassim",
+    "cityId": "unaizah",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "supermarket"
+  },
+  {
+    "branchId": "tamimi-markets-all",
+    "storeId": "tamimi-markets",
+    "branchNameAr": "أسواق التميمي",
+    "branchNameEn": "Al Tamimi Markets",
+    "governorateId": "sa-sharkia",
+    "cityId": "ihsaa",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "supermarket"
+  },
+  {
+    "branchId": "tamimi-markets-all",
+    "storeId": "tamimi-markets",
+    "branchNameAr": "أسواق التميمي",
+    "branchNameEn": "Al Tamimi Markets",
+    "governorateId": "sa-sharkia",
+    "cityId": "gubail",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "supermarket"
+  },
+  {
+    "branchId": "tamimi-markets-all",
+    "storeId": "tamimi-markets",
+    "branchNameAr": "أسواق التميمي",
+    "branchNameEn": "Al Tamimi Markets",
+    "governorateId": "sa-sharkia",
+    "cityId": "khobar",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "supermarket"
+  },
+  {
+    "branchId": "tamimi-markets-all",
+    "storeId": "tamimi-markets",
+    "branchNameAr": "أسواق التميمي",
+    "branchNameEn": "Al Tamimi Markets",
+    "governorateId": "sa-sharkia",
+    "cityId": "dammam",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "supermarket"
+  },
+  {
+    "branchId": "tamimi-markets-all",
+    "storeId": "tamimi-markets",
+    "branchNameAr": "أسواق التميمي",
+    "branchNameEn": "Al Tamimi Markets",
+    "governorateId": "sa-sharkia",
+    "cityId": "zahran",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "supermarket"
+  },
+  {
+    "branchId": "tamimi-markets-all",
+    "storeId": "tamimi-markets",
+    "branchNameAr": "أسواق التميمي",
+    "branchNameEn": "Al Tamimi Markets",
+    "governorateId": "sa-madina",
+    "cityId": "madina",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "supermarket"
+  },
+  {
+    "branchId": "tamimi-markets-all",
+    "storeId": "tamimi-markets",
+    "branchNameAr": "أسواق التميمي",
+    "branchNameEn": "Al Tamimi Markets",
+    "governorateId": "sa-mecca",
+    "cityId": "gedda",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "supermarket"
+  },
+  {
+    "branchId": "tamimi-markets-all",
+    "storeId": "tamimi-markets",
+    "branchNameAr": "أسواق التميمي",
+    "branchNameEn": "Al Tamimi Markets",
+    "governorateId": "sa-tabuk",
+    "cityId": "tabuk",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "supermarket"
+  },
+  {
+    "branchId": "tamimi-markets-all",
+    "storeId": "tamimi-markets",
+    "branchNameAr": "أسواق التميمي",
+    "branchNameEn": "Al Tamimi Markets",
+    "governorateId": "sa-tabuk",
+    "cityId": "umlug",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "supermarket"
   }
 ]

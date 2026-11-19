@@ -91,7 +91,7 @@
       {
         "cityId": "madina",
         "cityNameAr": "المدينة المنورة",
-        "cityNameEn": "Madinah"
+        "cityNameEn": "Al Madinah Al Munawarah"
       },
       {
         "cityId": "yanbu",
@@ -176,6 +176,11 @@
         "cityId": "qateif",
         "cityNameAr": "القطيف",
         "cityNameEn": "Qatif"
+      },
+      {
+        "cityId": "zahran",
+        "cityNameAr": "الظهران",
+        "cityNameEn": "Al Zahran"
       }
     ]
   },
@@ -215,6 +220,11 @@
         "cityId": "tabuk",
         "cityNameAr": "تبوك",
         "cityNameEn": "Tabuk"
+      },
+      {
+        "cityId": "umlug",
+        "cityNameAr": "أملج",
+        "cityNameEn": "Umlug"
       }
     ]
   },
