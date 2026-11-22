@@ -1,0 +1,19 @@
+[
+  {
+    "productId": "testproduct",
+    "productNameAr": "اختبار",
+    "productNameEn": "اختبار",
+    "brandAr": "اختبار",
+    "brandEn": "اختبار",
+    "categoryId": "cat_rice",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "testproduct",
+        "packageSize": 5,
+        "unit": "مل ",
+        "unitEn": "ml"
+      }
+    ]
+  }
+]

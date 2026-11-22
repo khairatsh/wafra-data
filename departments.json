@@ -1,0 +1,78 @@
+[
+  {
+    "departmentId": "dept_grocery",
+    "departmentNameAr": "البقالة والتموينات",
+    "departmentNameEn": "Groceries & Essentials",
+    "icon": "🛒",
+    "sortOrder": 1,
+    "active": true
+  },
+  {
+    "departmentId": "dept_fresh",
+    "departmentNameAr": "الأغذية الطازجة",
+    "departmentNameEn": "Fresh Food",
+    "icon": "🥬",
+    "sortOrder": 2,
+    "active": true
+  },
+  {
+    "departmentId": "dept_frozen",
+    "departmentNameAr": "الأغذية المجمدة",
+    "departmentNameEn": "Frozen Food",
+    "icon": "❄️",
+    "sortOrder": 3,
+    "active": true
+  },
+  {
+    "departmentId": "dept_electronics",
+    "departmentNameAr": "إلكترونيات",
+    "departmentNameEn": "Electronics",
+    "icon": "📱",
+    "sortOrder": 4,
+    "active": true
+  },
+  {
+    "departmentId": "dept_home_appliances",
+    "departmentNameAr": "الأجهزة المنزلية",
+    "departmentNameEn": "Home Appliances",
+    "icon": "🔌",
+    "sortOrder": 5,
+    "active": true
+  },
+  {
+    "departmentId": "dept_furniture",
+    "departmentNameAr": "الأثاث والمنزل",
+    "departmentNameEn": "Furniture & Home Decor",
+    "icon": "🛋️",
+    "sortOrder": 6,
+    "active": true
+  },
+  {
+    "departmentId": "dept_personalcare",
+    "departmentNameAr": "العناية الشخصية",
+    "departmentNameEn": "Personal Care",
+    "icon": "🫧",
+    "sortOrder": 7,
+    "active": true
+  },
+  {
+    "departmentId": "dept_fastfood",
+    "departmentNameAr": "الوجبات السريعة",
+    "departmentNameEn": "Fast Food",
+    "icon": "🍔",
+    "sortOrder": 8,
+    "active": true
+  },
+  {
+    "departmentId": "department_supermarket",
+    "departmentNameAr": "سوبر ماركت",
+    "departmentNameEn": "Supermarkets",
+    "icon": "🛒"
+  },
+  {
+    "departmentId": "department_pharmacy",
+    "departmentNameAr": "صيدليات",
+    "departmentNameEn": "Pharmacies",
+    "icon": "💊"
+  }
+]

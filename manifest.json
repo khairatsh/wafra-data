@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 3,
+  "dataVersion": "2026.11.22.001",
+  "files": {
+    "locations": "locations.json",
+    "categories": "categories.json",
+    "departments": "departments.json",
+    "products": "products.json",
+    "stores": "stores.json",
+    "branches": "branches.json",
+    "prices": "prices.json",
+    "offers": "offers.json",
+    "ads": "ads.json"
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "storeId": "carrefouregypt",
+    "storeNameAr": "كارفور",
+    "storeNameEn": "Carrefour",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqq2aghZsYlGjjUIVZc-jLn8-UgNJ3u6biJoclIcrxSdVjMLgUEgRr-QGl&s=10",
+    "homeScreenDisplay": true,
+    "categoryId": "cat_supermarket",
+    "departmentIds": [
+      "dept_grocery",
+      "dept_fresh",
+      "dept_frozen",
+      "dept_electronics",
+      "dept_electronics",
+      "dept_home_appliances",
+      "dept_personalcare"
+    ],
+    "featuredInCat": true
+  },
+  {
+    "storeId": "fathallahmarket",
+    "storeNameAr": "فتح الله",
+    "storeNameEn": "Fathalla",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRslwezc8kCirbpCBuyXiVBkqER95OzTL-9KcQwyooAAJQn-hyq463b-pk&s=10",
+    "homeScreenDisplay": true,
+    "categoryId": "cat_supermarket",
+    "departmentIds": [
+      "dept_grocery",
+      "dept_fresh",
+      "dept_frozen",
+      "dept_electronics",
+      "dept_electronics",
+      "dept_home_appliances",
+      "dept_personalcare"
+    ],
+    "featuredInCat": true
+  },
+  {
+    "storeId": "gomlamarket",
+    "storeNameAr": "جملة ماركت",
+    "storeNameEn": "Gomla Market",
+    "imageUrl": "https://gomlamarket.com/public/images2/front/logo.png",
+    "homeScreenDisplay": true,
+    "categoryId": "cat_supermarket",
+    "departmentIds": [
+      "dept_grocery",
+      "dept_fresh",
+      "dept_frozen",
+      "dept_electronics",
+      "dept_electronics",
+      "dept_home_appliances",
+      "dept_personalcare"
+    ],
+    "featuredInCat": true
+  },
+  {
+    "storeId": "metromarket",
+    "storeNameAr": "مترو",
+    "storeNameEn": "Metro",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0q3VxFpTdsGaptk5YR9gPCvUxcP1gMb8CaAmpOW3TRnfUIH9b9Zj19nbf&s=10",
+    "homeScreenDisplay": true,
+    "categoryId": "cat_supermarket",
+    "departmentIds": [
+      "dept_grocery",
+      "dept_fresh",
+      "dept_frozen",
+      "dept_electronics",
+      "dept_electronics",
+      "dept_home_appliances",
+      "dept_personalcare"
+    ],
+    "featuredInCat": true
+  }
+]

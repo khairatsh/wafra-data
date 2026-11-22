@@ -1,0 +1,372 @@
+[
+  {
+    "governorateId": "eg_damietta",
+    "governorateNameAr": "دمياط",
+    "governorateNameEn": "Damietta",
+    "cities": [
+      {
+        "cityId": "damietta",
+        "cityNameAr": "دمياط القديمة",
+        "cityNameEn": "Old Damietta"
+      },
+      {
+        "cityId": "newdamietta",
+        "cityNameAr": "دمياط الجديدة",
+        "cityNameEn": "New Damietta"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_aswan",
+    "governorateNameAr": "أسوان",
+    "governorateNameEn": "Aswan",
+    "cities": [
+      {
+        "cityId": "aswan",
+        "cityNameAr": "أسوان",
+        "cityNameEn": "Aswan"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_assuit",
+    "governorateNameAr": "أسيوط",
+    "governorateNameEn": "Assuit",
+    "cities": [
+      {
+        "cityId": "assuit",
+        "cityNameAr": "أسيوط",
+        "cityNameEn": "Assuit"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_alexandria",
+    "governorateNameAr": "الإسكندرية",
+    "governorateNameEn": "Alexandria",
+    "cities": [
+      {
+        "cityId": "alexcenter",
+        "cityNameAr": "وسط الأسكندرية",
+        "cityNameEn": "Alex Center"
+      },
+      {
+        "cityId": "alexeast",
+        "cityNameAr": "شرق الأسكندرية",
+        "cityNameEn": "Alex East"
+      },
+      {
+        "cityId": "alexwest",
+        "cityNameAr": "غرب الأسكندرية",
+        "cityNameEn": "Alex West"
+      },
+      {
+        "cityId": "borgalarab",
+        "cityNameAr": "برج العرب",
+        "cityNameEn": "Borg Al Arab"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_ismailia",
+    "governorateNameAr": "الإسماعيلية",
+    "governorateNameEn": "Ismailia",
+    "cities": [
+      {
+        "cityId": "ismailia",
+        "cityNameAr": "الإسماعيلية",
+        "cityNameEn": "Ismailia"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_luxor",
+    "governorateNameAr": "الأقصر",
+    "governorateNameEn": "Luxor",
+    "cities": [
+      {
+        "cityId": "luxor",
+        "cityNameAr": "الأقصر",
+        "cityNameEn": "Luxor"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_red-sea",
+    "governorateNameAr": "البحر الأحمر",
+    "governorateNameEn": "Red Sea",
+    "cities": [
+      {
+        "cityId": "ghurgada",
+        "cityNameAr": "الغردقة",
+        "cityNameEn": "Ghurgada"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_beheira",
+    "governorateNameAr": "البحيرة",
+    "governorateNameEn": "Beheira",
+    "cities": [
+      {
+        "cityId": "damanhour",
+        "cityNameAr": "دمنهور",
+        "cityNameEn": "Damanhour"
+      },
+      {
+        "cityId": "kafrdawar",
+        "cityNameAr": "كفر الدوار",
+        "cityNameEn": "Kafr Al Dawar"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_bani-sweif",
+    "governorateNameAr": "بني سويف",
+    "governorateNameEn": "Bani Sweif",
+    "cities": [
+      {
+        "cityId": "bani-sweif",
+        "cityNameAr": "بني سويف",
+        "cityNameEn": "Bani-Sweif"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_portsaid",
+    "governorateNameAr": "بورسعيد",
+    "governorateNameEn": "Portsaid",
+    "cities": [
+      {
+        "cityId": "portsaid",
+        "cityNameAr": "بورسعيد",
+        "cityNameEn": "Portsaid"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_south-of-sinai",
+    "governorateNameAr": "جنوب سيناء",
+    "governorateNameEn": "South of Sinai",
+    "cities": [
+      {
+        "cityId": "sharm",
+        "cityNameAr": "شرم الشيخ",
+        "cityNameEn": "Sharm Al Sheikh"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_dakahlia",
+    "governorateNameAr": "الدقهلية",
+    "governorateNameEn": "Dakahlia",
+    "cities": [
+      {
+        "cityId": "mamsoura",
+        "cityNameAr": "المنصورة",
+        "cityNameEn": "Mansoura"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_souhag",
+    "governorateNameAr": "سوهاج",
+    "governorateNameEn": "Souhag",
+    "cities": [
+      {
+        "cityId": "souhag",
+        "cityNameAr": "سوهاج",
+        "cityNameEn": "Souhag"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_suiz",
+    "governorateNameAr": "السويس",
+    "governorateNameEn": "Suiz",
+    "cities": [
+      {
+        "cityId": "suiz",
+        "cityNameAr": "السويس",
+        "cityNameEn": "Suiz"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_sharkia",
+    "governorateNameAr": "الشرقية",
+    "governorateNameEn": "Sharkia",
+    "cities": [
+      {
+        "cityId": "zagazig",
+        "cityNameAr": "الزقازيق",
+        "cityNameEn": "Zagazig"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_gharbia",
+    "governorateNameAr": "الغربية",
+    "governorateNameEn": "Gharbia",
+    "cities": [
+      {
+        "cityId": "mahala",
+        "cityNameAr": "المحلة الكبرى",
+        "cityNameEn": "Al Mahalla Al Kobra"
+      },
+      {
+        "cityId": "tanta",
+        "cityNameAr": "طنطا",
+        "cityNameEn": "Tanta"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_fayioum",
+    "governorateNameAr": "الفيوم",
+    "governorateNameEn": "Fayioum",
+    "cities": [
+      {
+        "cityId": "fayioum",
+        "cityNameAr": "الفيوم",
+        "cityNameEn": "Fayioum"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_qaluobia",
+    "governorateNameAr": "القليوبية",
+    "governorateNameEn": "Qaluobia",
+    "cities": [
+      {
+        "cityId": "benha",
+        "cityNameAr": "بنها",
+        "cityNameEn": "Benha"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_qena",
+    "governorateNameAr": "قنا",
+    "governorateNameEn": "Qena",
+    "cities": [
+      {
+        "cityId": "qena",
+        "cityNameAr": "قنا",
+        "cityNameEn": "Qena"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_kafr-al-sheikh",
+    "governorateNameAr": "كفر الشيخ",
+    "governorateNameEn": "Kafr Al Sheikh",
+    "cities": [
+      {
+        "cityId": "kafr-al-sheikh",
+        "cityNameAr": "كفر الشيخ",
+        "cityNameEn": "Kafr Al Sheikh"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_matrouh",
+    "governorateNameAr": "مطروح",
+    "governorateNameEn": "Matrouh",
+    "cities": [
+      {
+        "cityId": "matrouh",
+        "cityNameAr": "مرسى مطروح",
+        "cityNameEn": "Marsa Matrouh"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_menoufia",
+    "governorateNameAr": "المنوفية",
+    "governorateNameEn": "Menoufia",
+    "cities": [
+      {
+        "cityId": "shebinalkoum",
+        "cityNameAr": "شبين الكوم",
+        "cityNameEn": "Shebin Al Koum"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_menia",
+    "governorateNameAr": "المنيا",
+    "governorateNameEn": "Menia",
+    "cities": [
+      {
+        "cityId": "menia",
+        "cityNameAr": "المنيا",
+        "cityNameEn": "Al Menia"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_cairo",
+    "governorateNameAr": "القاهرة",
+    "governorateNameEn": "Cairo",
+    "cities": [
+      {
+        "cityId": "cairocenter",
+        "cityNameAr": "وسط القاهرة",
+        "cityNameEn": "Cairo Center"
+      },
+      {
+        "cityId": "cairoeast",
+        "cityNameAr": "شرق القاهرة",
+        "cityNameEn": "East Cairo"
+      },
+      {
+        "cityId": "caironorth",
+        "cityNameAr": "شمال القاهرة",
+        "cityNameEn": "Cairo North"
+      },
+      {
+        "cityId": "cairosouth",
+        "cityNameAr": "جنوب القاهرة",
+        "cityNameEn": "Cairo South"
+      },
+      {
+        "cityId": "cairowest",
+        "cityNameAr": "غرب القاهرة",
+        "cityNameEn": "West Cairo"
+      },
+      {
+        "cityId": "newcairo",
+        "cityNameAr": "القاهرة الجديدة",
+        "cityNameEn": "New Cairo"
+      }
+    ]
+  },
+  {
+    "governorateId": "eg_giza",
+    "governorateNameAr": "الجيزة",
+    "governorateNameEn": "Giza",
+    "cities": [
+      {
+        "cityId": "gizacenter",
+        "cityNameAr": "وسط الجيزة",
+        "cityNameEn": "Giza Center"
+      },
+      {
+        "cityId": "gizanorth",
+        "cityNameAr": "شمال الجيزة",
+        "cityNameEn": "Giza North"
+      },
+      {
+        "cityId": "gizasouth",
+        "cityNameAr": "جنوب الجيزة",
+        "cityNameEn": "Giza South"
+      },
+      {
+        "cityId": "gizawest",
+        "cityNameAr": "غرب الجيزة",
+        "cityNameEn": "West Giza"
+      }
+    ]
+  }
+]
