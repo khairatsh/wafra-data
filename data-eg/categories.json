@@ -1,44 +1,254 @@
 [
   {
-    "categoryId": "cat_meat",
-    "categoryNameAr": "لحوم ومصنعاتها",
-    "departmentId": "dept_fresh",
-    "categoryNameEn": "Meat & Processed Meat",
-    "icon": "🥩"
+    "categoryId": "cat_rice",
+    "categoryNameAr": "أرز",
+    "categoryNameEn": "Rice",
+    "departmentId": "dept_grocery",
+    "icon": "🍚"
   },
   {
-    "categoryId": "cat_poultary",
-    "categoryNameAr": "دواجن طازجة",
-    "departmentId": "dept_fresh",
-    "categoryNameEn": "Fresh Poultry",
-    "icon": "🍗"
+    "categoryId": "cat_vegoil",
+    "categoryNameAr": "زيوت نباتية",
+    "categoryNameEn": "Vegetable Oils",
+    "departmentId": "dept_grocery",
+    "icon": "🌻"
   },
   {
-    "categoryId": "cat_fish",
-    "categoryNameAr": "أسماك طازجة",
+    "categoryId": "cat_oliveoil",
+    "categoryNameAr": "زيوت زيتون",
+    "categoryNameEn": "Olive Oils",
+    "departmentId": "dept_grocery",
+    "icon": "🫒"
+  },
+  {
+    "categoryId": "cat_kitchenstaples",
+    "categoryNameAr": "أساسيات الطبخ",
+    "categoryNameEn": "Kitchen Staples",
+    "departmentId": "dept_grocery",
+    "icon": "🍲"
+  },
+  {
+    "categoryId": "cat_dairies",
+    "categoryNameAr": "منتجات الألبان",
+    "categoryNameEn": "Dairies",
+    "departmentId": "dept_grocery",
+    "icon": "🍶"
+  },
+  {
+    "categoryId": "cat_eggs",
+    "categoryNameAr": "البيض",
+    "categoryNameEn": "Eggs",
+    "departmentId": "dept_grocery",
+    "icon": "🥚"
+  },
+  {
+    "categoryId": "cat_cleaning",
+    "categoryNameAr": "المنظفات والمنتجات المنزلية",
+    "categoryNameEn": "Household & Cleaning",
+    "departmentId": "dept_grocery",
+    "icon": "🧴"
+  },
+  {
+    "categoryId": "cat_beverages",
+    "categoryNameAr": "المشروبات",
+    "categoryNameEn": "Beverages",
+    "departmentId": "dept_grocery",
+    "icon": "🧋"
+  },
+  {
+    "categoryId": "cat_sweets",
+    "categoryNameAr": "الوجبات الخفيفة",
+    "categoryNameEn": "Snacks & Sweets",
+    "departmentId": "dept_grocery",
+    "icon": "🍿"
+  },
+  {
+    "categoryId": "cat_freshvegetables",
+    "categoryNameAr": "الخضروات الطازجة",
+    "categoryNameEn": "Fresh Vegetables",
     "departmentId": "dept_fresh",
-    "categoryNameEn": "Fresh Fish",
+    "icon": "🥬"
+  },
+  {
+    "categoryId": "cat_freshfruits",
+    "categoryNameAr": "الفواكه الطازجة",
+    "categoryNameEn": "Fresh Fruits",
+    "departmentId": "dept_fresh",
+    "icon": "🍎"
+  },
+  {
+    "categoryId": "cat_freshpoultary",
+    "categoryNameAr": "الدواجن الطازجة",
+    "categoryNameEn": "Fresh Poultary",
+    "departmentId": "dept_fresh",
+    "icon": "🐔"
+  },
+  {
+    "categoryId": "cat_freshmeat",
+    "categoryNameAr": "اللحوم الطازجة",
+    "categoryNameEn": "Fresh Meat",
+    "departmentId": "dept_fresh",
+    "icon": "🍖"
+  },
+  {
+    "categoryId": "cat_freshfish",
+    "categoryNameAr": "الأسماك الطازجة",
+    "categoryNameEn": " Fresh Fish",
+    "departmentId": "dept_fresh",
     "icon": "🐟"
   },
   {
-    "categoryId": "cat_pharmacy",
-    "categoryNameAr": "عناية الأم والطفل",
-    "departmentId": "dept_health_beauty",
-    "categoryNameEn": "Mother & Baby Care",
+    "categoryId": "cat_frozenchicken",
+    "categoryNameAr": "الدواجن المجمدة",
+    "categoryNameEn": "Frozen Chicken",
+    "departmentId": "dept_frozen",
+    "icon": "🍗"
+  },
+  {
+    "categoryId": "cat_frozenmeat",
+    "categoryNameAr": "اللحوم المجمدة",
+    "categoryNameEn": "Frozen Meat",
+    "departmentId": "dept_frozen",
+    "icon": "🥩"
+  },
+  {
+    "categoryId": "cat_frozenvegetables",
+    "categoryNameAr": "الخضروات المجمدة",
+    "categoryNameEn": "Frozen Vegetables",
+    "departmentId": "dept_frozen",
+    "icon": "🫛"
+  },
+  {
+    "categoryId": "cat_frozenfish",
+    "categoryNameAr": "الأسماك المجمدة",
+    "categoryNameEn": "Frozen Fish",
+    "departmentId": "dept_frozen",
+    "icon": "🦐"
+  },
+  {
+    "categoryId": "cat_frenshfries",
+    "categoryNameAr": "البطاطس المجمدة",
+    "categoryNameEn": "Frensh Fries",
+    "departmentId": "dept_frozen",
+    "icon": "🦐"
+  },
+  {
+    "categoryId": "cat_haircare",
+    "categoryNameAr": "العناية بالشعر",
+    "categoryNameEn": "Hair Care",
+    "departmentId": "dept_personalcare",
     "icon": "🧴"
+  },
+  {
+    "categoryId": "cat_body&bath",
+    "categoryNameAr": "العناية بالجسم والاستحمام",
+    "categoryNameEn": "Body & Bath",
+    "departmentId": "dept_personalcare",
+    "icon": "🛁"
+  },
+  {
+    "categoryId": "cat_oralcare",
+    "categoryNameAr": "العناية بالفم والأسنان",
+    "categoryNameEn": "Oral Care",
+    "departmentId": "dept_personalcare",
+    "icon": "🪥"
+  },
+  {
+    "categoryId": "cat_feminine&babycare",
+    "categoryNameAr": "العناية النسائية والطفل",
+    "categoryNameEn": "Feminine & Baby Care",
+    "departmentId": "dept_personalcare",
+    "icon": "🌸"
+  },
+  {
+    "categoryId": "cat_shaving&grooming",
+    "categoryNameAr": "الحلاقة وأجهزة العناية",
+    "categoryNameEn": "Shaving & Grooming",
+    "departmentId": "dept_personalcare",
+    "icon": "🪒"
+  },
+  {
+    "categoryId": "cat_phones",
+    "categoryNameAr": "الهواتف والأجهزة اللوحية",
+    "categoryNameEn": "Smartphones & Tablets",
+    "departmentId": "dept_electronics",
+    "icon": "📱"
+  },
+  {
+    "categoryId": "cat_computers",
+    "categoryNameAr": "الكمبيوتر واللابتوب",
+    "categoryNameEn": "Laptops & Computers",
+    "departmentId": "dept_electronics",
+    "icon": "💻"
+  },
+  {
+    "categoryId": "cat_tv&audio",
+    "categoryNameAr": "التلفزيونات والصوتيات",
+    "categoryNameEn": "TVs & Audio",
+    "departmentId": "dept_electronics",
+    "icon": "📺"
+  },
+  {
+    "categoryId": "cat_majorappliances",
+    "categoryNameAr": "الأجهزة الكبيرة",
+    "categoryNameEn": "Major Appliances",
+    "departmentId": "dept_home_appliances",
+    "icon": "🔌"
+  },
+  {
+    "categoryId": "cat_airconditiones",
+    "categoryNameAr": "أجهزة التكييف",
+    "categoryNameEn": "Air Conditioners",
+    "departmentId": "dept_home_appliances",
+    "icon": "🥶"
+  },
+  {
+    "categoryId": "cat_smallappliances",
+    "categoryNameAr": "الأجهزة الصغيرة",
+    "categoryNameEn": "Small Appliances",
+    "departmentId": "dept_home_appliances",
+    "icon": "🔦"
+  },
+  {
+    "categoryId": "cat_livingroom",
+    "categoryNameAr": "غرف المعيشة",
+    "categoryNameEn": "Living Room",
+    "departmentId": "dept_furniture",
+    "icon": "🛋️"
+  },
+  {
+    "categoryId": "cat_bedroom",
+    "categoryNameAr": "غرف النوم",
+    "categoryNameEn": "Bedroom",
+    "departmentId": "dept_furniture",
+    "icon": "🛏️"
+  },
+  {
+    "categoryId": "cat_mattresses",
+    "categoryNameAr": "المراتب والمفروشات",
+    "categoryNameEn": "Mattresses & Bedding",
+    "departmentId": "dept_furniture",
+    "icon": "🛏️"
+  },
+  {
+    "categoryId": "cat_office&table",
+    "categoryNameAr": "طاولات الطعام والمكاتب",
+    "categoryNameEn": "Dining & Office",
+    "departmentId": "dept_furniture",
+    "icon": "🪑"
   },
   {
     "categoryId": "cat_supermarket",
     "categoryNameAr": "سوبر ماركت",
-    "departmentId": "dept_grocery",
-    "categoryNameEn": "Supermarket",
+    "categoryNameEn": "Supermarkets",
+    "departmentId": "department_supermarket",
     "icon": "🛒"
   },
   {
-    "categoryId": "cat_dairy",
-    "categoryNameAr": "منتجات ألبان",
-    "departmentId": "dept_grocery",
-    "categoryNameEn": "Dairy Products",
-    "icon": "🥛"
+    "categoryId": "cat_pharmacy",
+    "categoryNameAr": "صيدليات",
+    "categoryNameEn": "Pharmacies",
+    "departmentId": "department_pharmacy",
+    "icon": "💊"
   }
 ]
