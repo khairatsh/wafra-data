@@ -218,17 +218,6 @@
     "storeId": "panda-hypermarket",
     "branchNameAr": "هايبر بندة",
     "branchNameEn": "Panda Hypermarket",
-    "governorateId": "sa-sharkia",
-    "cityId": "ihsaa",
-    "addressAr": "غير متاح",
-    "addressEn": "Not available",
-    "category": "supermarket"
-  },
-  {
-    "branchId": "panda-hypermarket-all",
-    "storeId": "panda-hypermarket",
-    "branchNameAr": "هايبر بندة",
-    "branchNameEn": "Panda Hypermarket",
     "governorateId": "sa-qassim",
     "cityId": "badaie",
     "addressAr": "غير متاح",
