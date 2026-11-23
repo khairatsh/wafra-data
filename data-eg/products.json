@@ -1,18 +1,2066 @@
 [
   {
-    "productId": "testproduct",
-    "productNameAr": "اختبار",
-    "productNameEn": "اختبار",
-    "brandAr": "اختبار",
-    "brandEn": "اختبار",
-    "categoryId": "cat_rice",
+    "productId": "Avocado-wafra-32588",
+    "productNameAr": "افوكادو",
+    "productNameEn": "Avocado",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h85/h70/35139575316510/32588_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Avocado-wafra-32588",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Avocado-Ready-to-Eat-wafra-558638",
+    "productNameAr": "أفوكادو جاهز للأكل",
+    "productNameEn": "Avocado Ready to Eat",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h92/h8c/17380583866398/558638_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Avocado-Ready-to-Eat-wafra-558638",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Golden-Pineapples-wafra-330761",
+    "productNameAr": "أناناس ذهبي",
+    "productNameEn": "Golden Pineapples",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h0e/he7/61655066443806/330761_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Golden-Pineapples-wafra-330761",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Green-papaya-wafra-32561",
+    "productNameAr": "بابايا خضراء",
+    "productNameEn": "Green papaya",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h7d/h7e/35139575742494/32561_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Green-papaya-wafra-32561",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Passion-Fruit-wafra-350994",
+    "productNameAr": "باشون فروت",
+    "productNameEn": "Passion Fruit",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hf3/hb6/28115628883998/350994_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Passion-Fruit-wafra-350994",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Navel-Orange-wafra-32487",
+    "productNameAr": "برتقال بسرة",
+    "productNameEn": "Navel Orange",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hee/h06/35139574333470/32487_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Navel-Orange-wafra-32487",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Mafa-Navel-Orange-wafra-578907",
+    "productNameAr": "برتقال بسرة مافا",
+    "productNameEn": "Mafa Navel Orange",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/ha2/h4f/27806603706398/578907_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Mafa-Navel-Orange-wafra-578907",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Red-Plum-wafra-32507",
+    "productNameAr": "برقوق أحمر",
+    "productNameEn": "Red Plum",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hc8/h17/10065713987614/32507_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Red-Plum-wafra-32507",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Imported-Plum-wafra-32501",
+    "productNameAr": "برقوق مستورد",
+    "productNameEn": "Imported Plum",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hbf/h0d/35139574530078/32501_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Imported-Plum-wafra-32501",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Golden-Apple---Medium-wafra-398517",
+    "productNameAr": "تفاح اصفر - وسط",
+    "productNameEn": "Golden Apple - Medium",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h56/h44/13215861112862/398517_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Golden-Apple---Medium-wafra-398517",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Red-Apples-wafra-369185",
+    "productNameAr": "تفاح أحمر",
+    "productNameEn": "Red Apples",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h59/hc5/35139577085982/369185_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Red-Apples-wafra-369185",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Imported-Green-Apples-wafra-283461",
+    "productNameAr": "تفاح أخضر مستورد",
+    "productNameEn": "Imported Green Apples",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h05/h0b/35139574497310/283461_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Imported-Green-Apples-wafra-283461",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Royal-Gala-Small-Apples-wafra-387719",
+    "productNameAr": "تفاح رويال جالا صغير",
+    "productNameEn": "Royal Gala Small Apples",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hcd/h0f/26615195893790/387719_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Royal-Gala-Small-Apples-wafra-387719",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Royal-Gala-Apples-wafra-398651",
+    "productNameAr": "تفاح من رويال جالا",
+    "productNameEn": "Royal Gala Apples",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h95/haa/35139577839646/398651_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Royal-Gala-Apples-wafra-398651",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Egyptian-Maknoz-Date-wafra-509155",
+    "productNameAr": "تمر مكنوز مصري",
+    "productNameEn": "Egyptian Maknoz Date",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h38/h22/26736946937886/509155_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Egyptian-Maknoz-Date-wafra-509155",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Raspberry-Premium-wafra-401661---125-gram",
+    "productNameAr": "توت راسبيري بريميوم",
+    "productNameEn": "Raspberry Premium",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h2b/h5d/27582115610654/401661_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Raspberry-Premium-wafra-401661---125-gram",
+        "packageSize": 125,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "Barshoumy-Fig-wafra-308079",
+    "productNameAr": "تين برشومي",
+    "productNameEn": "Barshoumy Fig",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hbe/hf3/10066485346334/308079_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Barshoumy-Fig-wafra-308079",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "White-Grapefruit-wafra-32493",
+    "productNameAr": "جريب فروت أبيض",
+    "productNameEn": "White Grapefruit",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hdc/h70/35139575349278/32493_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "White-Grapefruit-wafra-32493",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Pink-Grapefruit-wafra-32494",
+    "productNameAr": "جريب فروت وردي",
+    "productNameEn": "Pink Grapefruit",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/haf/h74/35139575480350/32494_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Pink-Grapefruit-wafra-32494",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Guava-wafra-32558",
+    "productNameAr": "جوافة",
+    "productNameEn": "Guava",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hb8/hd0/35139576070174/32558_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Guava-wafra-32558",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Coconut-wafra-43023",
+    "productNameAr": "جوز هند",
+    "productNameEn": "Coconut",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/ha6/he2/10187578703902/43023_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Coconut-wafra-43023",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Fresh-Coconut-wafra-673691---1-Pieces",
+    "productNameAr": "جوز هند فريش",
+    "productNameEn": "Fresh Coconut",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/673691/1778667000/673691_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Fresh-Coconut-wafra-673691---1-Pieces",
+        "packageSize": 1,
+        "unit": "فطعة",
+        "unitEn": "Piece"
+      }
+    ]
+  },
+  {
+    "productId": "Dragon-Fruit-wafra-460134",
+    "productNameAr": "دراجون فروت",
+    "productNameEn": "Dragon Fruit",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hdb/h21/35139579609118/460134_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Dragon-Fruit-wafra-460134",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Pomegranate-wafra-397729",
+    "productNameAr": "رمان",
+    "productNameEn": "Pomegranate",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h2b/haa/35139577872414/397729_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Pomegranate-wafra-397729",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Sweet-Melon-wafra-32550",
+    "productNameAr": "شمام",
+    "productNameEn": "Sweet Melon",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h62/hcb/14569482453022/32550_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Sweet-Melon-wafra-32550",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Strawberry-wafra-447663",
+    "productNameAr": "فراولة",
+    "productNameEn": "Strawberry",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h5c/h11/10067352649758/447663_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Strawberry-wafra-447663",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Persimmon-wafra-32569",
+    "productNameAr": "كاكا",
+    "productNameEn": "Persimmon",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hd5/he8/35139576791070/32569_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Persimmon-wafra-32569",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Cantaloupe-wafra-32551",
+    "productNameAr": "كانتلوب",
+    "productNameEn": "Cantaloupe",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h47/h71/35139575382046/32551_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Cantaloupe-wafra-32551",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Cherry-wafra-32533",
+    "productNameAr": "كريز",
+    "productNameEn": "Cherry",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hcf/hbb/10065711988766/32533_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Cherry-wafra-32533",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Clementine-wafra-32495",
+    "productNameAr": "كليمنتين",
+    "productNameEn": "Clementine",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h6d/hfd/10065697407006/32495_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Clementine-wafra-32495",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "South-African-Pear-wafra-292807",
+    "productNameAr": "كمثري جنوب أفريقيا",
+    "productNameEn": "South African Pear",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h87/h6d/35139575250974/292807_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "South-African-Pear-wafra-292807",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Chinese-Pears-wafra-43857",
+    "productNameAr": "كمثري صيني",
+    "productNameEn": "Chinese Pears",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h3b/h0b/11007949439006/43857_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Chinese-Pears-wafra-43857",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Kiwi-wafra-287170",
+    "productNameAr": "كيوي",
+    "productNameEn": "Kiwi",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h2f/h03/35139574202398/287170_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Kiwi-wafra-287170",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Mango-Keitt-wafra-32523",
+    "productNameAr": "مانجو كيت",
+    "productNameEn": "Mango Keitt",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h4c/h1b/35139574923294/32523_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Mango-Keitt-wafra-32523",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Mandarin-wafra-32496",
+    "productNameAr": "مندرين",
+    "productNameEn": "Mandarin",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hde/h6d/35139575283742/32496_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Mandarin-wafra-32496",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Balady-Bananas-wafra-458546",
+    "productNameAr": "موز بلدي",
+    "productNameEn": "Balady Bananas",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h54/hae/35139577708574/458546_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Balady-Bananas-wafra-458546",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Imported-Banana-wafra-32567",
+    "productNameAr": "موز مستورد",
+    "productNameEn": "Imported Banana",
+    "categoryId": "cat_freshfruits",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hed/h73/35139575414814/32567_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Imported-Banana-wafra-32567",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Olivetta-Lemon-Safflower-wafra-376758",
+    "productNameAr": "أوليفيتا ليمون معصفر",
+    "productNameEn": "Olivetta Lemon Safflower",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h85/hb1/50311266369566/376758_main.jpg?im=Resize=(300,300)",
     "homeSuggested": true,
     "variants": [
       {
-        "variantId": "testproduct",
+        "variantId": "Olivetta-Lemon-Safflower-wafra-376758",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "White-Eggplants-wafra-32607",
+    "productNameAr": "باذنجان أبيض",
+    "productNameEn": "White Eggplants",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h86/h58/10197370109982/32607_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "White-Eggplants-wafra-32607",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Black-Eggplants-wafra-32608",
+    "productNameAr": "باذنجان أسود",
+    "productNameEn": "Black Eggplants",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h57/hf2/9291269472286/32608_main.jpeg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Black-Eggplants-wafra-32608",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Belco-Black-Eggplant-wafra-641464",
+    "productNameAr": "باذنجان أسود بيلكو",
+    "productNameEn": "Belco Black Eggplant",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641464/1730106603/641464_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Belco-Black-Eggplant-wafra-641464",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Eggplant-wafra-33091",
+    "productNameAr": "باذنجان رومي",
+    "productNameEn": "Eggplant",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h21/h13/51925520318494/33091_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Eggplant-wafra-33091",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Big-Eggplants-wafra-32606",
+    "productNameAr": "باذنجان كبير",
+    "productNameEn": "Big Eggplants",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h1c/h83/62465476722718/32606_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Big-Eggplants-wafra-32606",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Brocolli-wafra-32820",
+    "productNameAr": "بروكلي",
+    "productNameEn": "Brocolli",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h05/he2/35139576594462/32820_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Brocolli-wafra-32820",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Spring-Onion---Jumbo-wafra-500831",
+    "productNameAr": "بصل اخضر - جامبو",
+    "productNameEn": "Spring Onion - Jumbo",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h03/h26/35139579772958/500831_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Spring-Onion---Jumbo-wafra-500831",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "White-Onion-wafra-32763",
+    "productNameAr": "بصل أبيض",
+    "productNameEn": "White Onion",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h08/h5d/14257452646430/32763_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "White-Onion-wafra-32763",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Red-Onions-wafra-32762",
+    "productNameAr": "بصل أحمر",
+    "productNameEn": "Red Onions",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h7c/heb/35139576823838/32762_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Red-Onions-wafra-32762",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Sweet-Potatoes-wafra-32882",
+    "productNameAr": "بطاطا",
+    "productNameEn": "Sweet Potatoes",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h7a/hb8/35139577413662/32882_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Sweet-Potatoes-wafra-32882",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Sweet-Potato-wafra-377128",
+    "productNameAr": "بطاطا حلوة",
+    "productNameEn": "Sweet Potato",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h69/h07/11007949570078/377128_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Sweet-Potato-wafra-377128",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Baby-Potato-wafra-662685",
+    "productNameAr": "بطاطس صغيرة",
+    "productNameEn": "Baby Potato",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/662685/1763473630/662685_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Baby-Potato-wafra-662685",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Potato-for-Cooking-wafra-32750",
+    "productNameAr": "بطاطس للطبخ",
+    "productNameEn": "Potato for Cooking",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h07/hc6/35139577020446/32750_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Potato-for-Cooking-wafra-32750",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Potato-for-Frying-wafra-157967",
+    "productNameAr": "بطاطس للقلي",
+    "productNameEn": "Potato for Frying",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hb2/h51/35139573841950/157967_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Potato-for-Frying-wafra-157967",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Beet-wafra-377134",
+    "productNameAr": "بنجر",
+    "productNameEn": "Beet",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h51/hec/9342418649118/377134_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Beet-wafra-377134",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Red-Beets-wafra-32591",
+    "productNameAr": "بنجر أحمر",
+    "productNameEn": "Red Beets",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hf7/hcf/35139576004638/32591_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Red-Beets-wafra-32591",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Chinese-Garlic-wafra-32760",
+    "productNameAr": "ثوم صيني",
+    "productNameEn": "Chinese Garlic",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/he4/hee/35139576922142/32760_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Chinese-Garlic-wafra-32760",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Carrot-wafra-32634",
+    "productNameAr": "جزر",
+    "productNameEn": "Carrot",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h14/he5/61634588475422/32634_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Carrot-wafra-32634",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Lettuce-wafra-32576",
+    "productNameAr": "خَسّ",
+    "productNameEn": "Lettuce",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h99/h17/10065718476830/32576_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Lettuce-wafra-32576",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Top-Crops-Red-Leaf-Lettuce-wafra-655185---200-gm",
+    "productNameAr": "خس أحمر توب كروبس",
+    "productNameEn": "Top Crops Red Leaf Lettuce",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/655185/1749729603/655185_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Top-Crops-Red-Leaf-Lettuce-wafra-655185---200-gm",
+        "packageSize": 200,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "Top-Crops-Red-Oakleaf-Lettuce-wafra-655188",
+    "productNameAr": "خس أوكليف أحمر توب كروبس",
+    "productNameEn": "Top-Crops Red Oakleaf Lettuce",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/655188/1748860204/655188_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Top-Crops-Red-Oakleaf-Lettuce-wafra-655188",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Top-Crops-Batavia-Lettuce-wafra-655182",
+    "productNameAr": "خس باتافيا توب كروبس",
+    "productNameEn": "Top-Crops Batavia Lettuce",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/655182/1748860204/655182_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Top-Crops-Batavia-Lettuce-wafra-655182",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Green-Latoga-wafra-443767",
+    "productNameAr": "خس لاتوجا أخضر",
+    "productNameEn": "Green Latoga",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h29/h40/9342416650270/443767_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Green-Latoga-wafra-443767",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Lollo-Rosso-Green-Lettuce-wafra-289478",
+    "productNameAr": "خس لولو روسو أخضر",
+    "productNameEn": "Lollo Rosso Green Lettuce",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hff/h18/10066483118110/289478_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Lollo-Rosso-Green-Lettuce-wafra-289478",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Top-Crops-Mixed-Lettuce-wafra-655183---200-gm",
+    "productNameAr": "خس مشكل توب كروبس",
+    "productNameEn": "Top Crops Mixed Lettuce",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/655183/1749729603/655183_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Top-Crops-Mixed-Lettuce-wafra-655183---200-gm",
+        "packageSize": 200,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "Cucumber-wafra-32594",
+    "productNameAr": "خيار",
+    "productNameEn": "Cucumber",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/he3/h84/35139575906334/32594_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Cucumber-wafra-32594",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "English-Cucumber-wafra-447582",
+    "productNameAr": "خيار انجليزي",
+    "productNameEn": "English Cucumber",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/447582/1736782203/447582_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "English-Cucumber-wafra-447582",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Sweet-Corn-wafra-574119",
+    "productNameAr": "ذرة حلوة",
+    "productNameEn": "Sweet Corn",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h59/hd1/17501625057310/574119_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Sweet-Corn-wafra-574119",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Rosemary-Balady-wafra-365349---100-g",
+    "productNameAr": "روز ماري بلدي",
+    "productNameEn": "Rosemary Balady",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h2f/h55/10066811977758/365349_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Rosemary-Balady-wafra-365349---100-g",
+        "packageSize": 100,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "Italian-Basil-wafra-272347---100gm",
+    "productNameAr": "ريحان إيطالي",
+    "productNameEn": "Italian Basil",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h46/h07/35139574366238/272347_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Italian-Basil-wafra-272347---100gm",
+        "packageSize": 100,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "Ginger-wafra-32761",
+    "productNameAr": "زنجبيل",
+    "productNameEn": "Ginger",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hb2/hc2/35139577118750/32761_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Ginger-wafra-32761",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Baby-Spinach-wafra-33201---100-gram",
+    "productNameAr": "سبانخ صغيرة",
+    "productNameEn": "Baby Spinach",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h18/hc6/9342284529694/33201_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Baby-Spinach-wafra-33201---100-gram",
+        "packageSize": 100,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "Premium-Spinach-wafra-287354---500-gram",
+    "productNameAr": "سبانخ ممتازة",
+    "productNameEn": "Premium Spinach",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hf9/h09/12838274498590/287354_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Premium-Spinach-wafra-287354---500-gram",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Shamya-Egyptian-Grape-Leaf-wafra-590278---900gm",
+    "productNameAr": "شامية مصرية ورق عنب",
+    "productNameEn": "Shamya Egyptian Grape Leaf",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h9f/h41/49736804892702/590278_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "Shamya-Egyptian-Grape-Leaf-wafra-590278---900gm",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Balady-Tomatoes-wafra-32631",
+    "productNameAr": "طماطم بلدي",
+    "productNameEn": "Balady Tomatoes",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/32631/1765112454/32631_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Balady-Tomatoes-wafra-32631",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Grade-A-Tomato-wafra-479987",
+    "productNameAr": "طماطم درجة أولي",
+    "productNameEn": "Grade A Tomato",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h78/h9c/9342679187486/479987_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Grade-A-Tomato-wafra-479987",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Cherry-Tomatoes-wafra-287361---250-gram",
+    "productNameAr": "طماطم شيري",
+    "productNameEn": "Cherry Tomatoes",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h56/h0a/35139574431774/287361_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Cherry-Tomatoes-wafra-287361---250-gram",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Lemon-Grass-wafra-401239---100-gram",
+    "productNameAr": "عشبة الليمون",
+    "productNameEn": "Lemon Grass",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hef/ha8/9342441979934/401239_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Lemon-Grass-wafra-401239---100-gram",
+        "packageSize": 100,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "White-Radish-wafra-32597",
+    "productNameAr": "فجل أبيض",
+    "productNameEn": "White Radish",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h56/h77/35139575513118/32597_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "White-Radish-wafra-32597",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Red-Radish-wafra-32598",
+    "productNameAr": "فجل أحمر",
+    "productNameEn": "Red Radish",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hc6/h44/10065717854238/32598_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Red-Radish-wafra-32598",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Grade-A-Mixed-Capsicum-wafra-287358",
+    "productNameAr": "فلفل الوان",
+    "productNameEn": "Grade A Mixed Capsicum",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hdc/h6d/11510974447646/287358_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Grade-A-Mixed-Capsicum-wafra-287358",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Red-Capsicum-wafra-109429",
+    "productNameAr": "فلفل أحمر",
+    "productNameEn": "Red Capsicum",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h97/h06/35139574300702/109429_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Red-Capsicum-wafra-109429",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Hungarian-Red-Sweet-Capsicum-wafra-609479",
+    "productNameAr": "فلفل أحمر حلو مجري",
+    "productNameEn": "Hungarian Red Sweet Capsicum",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h68/hb2/63492357390366/609479_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Hungarian-Red-Sweet-Capsicum-wafra-609479",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Green-Capsicum-wafra-444979",
+    "productNameAr": "فلفل أخضر",
+    "productNameEn": "Green Capsicum",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hf9/hd9/12832637550622/444979_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Green-Capsicum-wafra-444979",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Chili-Green-Tall-wafra-396924",
+    "productNameAr": "فلفل أخضر طويل",
+    "productNameEn": "Chili Green Tall",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hd2/ha8/9342687608862/396924_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Chili-Green-Tall-wafra-396924",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Yellow-Capsicum-wafra-109427",
+    "productNameAr": "فلفل أصفر",
+    "productNameEn": "Yellow Capsicum",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/ha7/h62/35139573350430/109427_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Yellow-Capsicum-wafra-109427",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Balady-Bell-Peppers-wafra-32652",
+    "productNameAr": "فلفل رومي بلدي",
+    "productNameEn": "Balady Bell Peppers",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h6d/he5/35139576692766/32652_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Balady-Bell-Peppers-wafra-32652",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Cucumis-wafra-32646",
+    "productNameAr": "قتة",
+    "productNameEn": "Cucumis",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h18/he0/33396701757470/32646_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Cucumis-wafra-32646",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Cauliflower-wafra-32604",
+    "productNameAr": "قرنبيط",
+    "productNameEn": "Cauliflower",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h08/hd2/10187578245150/32604_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Cauliflower-wafra-32604",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Taro-wafra-32640",
+    "productNameAr": "قلقاس",
+    "productNameEn": "Taro",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hb6/hd3/35139576135710/32640_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Taro-wafra-32640",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Iceberg-wafra-218900",
+    "productNameAr": "كابوتشا",
+    "productNameEn": "Iceberg",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hb9/h7b/14622865555486/218900_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Iceberg-wafra-218900",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Cabbage-wafra-32603",
+    "productNameAr": "كرنب",
+    "productNameEn": "Cabbage",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hd7/h23/9342436540446/32603_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Cabbage-wafra-32603",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "White-Cabbage-wafra-32601",
+    "productNameAr": "كرنب أبيض",
+    "productNameEn": "White Cabbage",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h25/h8c/14623068979230/32601_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "White-Cabbage-wafra-32601",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Red-Cabbage-wafra-32602",
+    "productNameAr": "كرنب أحمر",
+    "productNameEn": "Red Cabbage",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h31/hd7/10065707270174/32602_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Red-Cabbage-wafra-32602",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Zucchini-wafra-32609",
+    "productNameAr": "كوسة",
+    "productNameEn": "Zucchini",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/had/he1/35139576561694/32609_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Zucchini-wafra-32609",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Adalia-Lemon-wafra-32485",
+    "productNameAr": "ليمون أضاليا",
+    "productNameEn": "Adalia Lemon",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hae/h0a/35139574464542/32485_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Adalia-Lemon-wafra-32485",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Balady-Lemon-wafra-32483",
+    "productNameAr": "ليمون بلدي",
+    "productNameEn": "Balady Lemon",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hfa/h1b/35139574988830/32483_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "Balady-Lemon-wafra-32483",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Olivetta-Lemon-Mix-wafra-376757",
+    "productNameAr": "ليمون ميكس أوليفتا",
+    "productNameEn": "Olivetta Lemon Mix",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h1f/hef/17045051539486/376757_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
+    "variants": [
+      {
+        "variantId": "Olivetta-Lemon-Mix-wafra-376757",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Mushroom-wafra-447669---200-gm",
+    "productNameAr": "مشروم",
+    "productNameEn": "Mushroom",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hf6/h54/44726335963166/447669_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Mushroom-wafra-447669---200-gm",
+        "packageSize": 250,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "Brown-Mushroom-wafra-289419----250-gm",
+    "productNameAr": "مشروم بني",
+    "productNameEn": "Brown Mushroom",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hac/h77/35139575545886/289419_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Brown-Mushroom-wafra-289419----250-gm",
+        "packageSize": 250,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "Red-Oak-Leaf-wafra-324019",
+    "productNameAr": "ورق بلوط أحمر",
+    "productNameEn": "Red Oak Leaf",
+    "categoryId": "cat_freshvegetables",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/had/hf7/49083048787998/324019_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Red-Oak-Leaf-wafra-324019",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-466793-Ganna Mixed Butter - 1Kg",
+    "productNameAr": "زبدة خليط",
+    "productNameEn": "Mixed Butter",
+    "brandAr": "جنة",
+    "brandEn": "Ganna",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/466793/1750163403/466793_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-466793-Ganna Mixed Butter - 1Kg",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-494256-Sunny Blended Butter - 1 kg",
+    "productNameAr": "زبدة خليط",
+    "productNameEn": "Mixed Butter",
+    "brandAr": "صني",
+    "brandEn": "Sunny",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/494256/1789584000/494256_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-494256-Sunny Blended Butter - 1 kg",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-195679-Fern Mixed Butter - 1 kg",
+    "productNameAr": "زبدة خليط",
+    "productNameEn": "Mixed Butter",
+    "brandAr": "فيرن",
+    "brandEn": "Fern",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/195679/1783932000/195679_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-195679-Fern Mixed Butter - 1 kg",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-469285-Crystal Blended Butter - 1 Kg",
+    "productNameAr": "زبدة خليط",
+    "productNameEn": "Mixed Butter",
+    "brandAr": "كريستال",
+    "brandEn": "Crystal",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/ha2/hab/11095055368222/469285_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-469285-Crystal Blended Butter - 1 Kg",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-587785-Almarai Natural Unsalted Butter - 100 gram",
+    "productNameAr": "زبدة طبيعية غير مملحة",
+    "productNameEn": "Natural Unsalted Butter",
+    "brandAr": "المراعي",
+    "brandEn": "Almarai",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/587785/1789480800/587785_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-587785-Almarai Natural Unsalted Butter - 100 gram",
+        "packageSize": 100,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-558588-Almarai Natural Unsalted Butter - 200 gram",
+    "productNameAr": "زبدة طبيعية غير مملحة",
+    "productNameEn": "Natural Unsalted Butter",
+    "brandAr": "المراعي",
+    "brandEn": "Almarai",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hea/h1a/30871560749086/558588_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-558588-Almarai Natural Unsalted Butter - 200 gram",
+        "packageSize": 200,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-558589-Almarai Natural Unsalted Butter - 400 gram",
+    "productNameAr": "زبدة طبيعية غير مملحة",
+    "productNameEn": "Natural Unsalted Butter",
+    "brandAr": "المراعي",
+    "brandEn": "Almarai",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h8c/hdd/30871562256414/558589_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-558589-Almarai Natural Unsalted Butter - 400 gram",
+        "packageSize": 400,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-682542-Anchor Unsalted Butter - 100 gm",
+    "productNameAr": "زبدة طبيعية غير مملحة",
+    "productNameEn": "Natural Unsalted Butter",
+    "brandAr": "أنكور",
+    "brandEn": "Anchor",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/682542/1783323600/682542_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-682542-Anchor Unsalted Butter - 100 gm",
+        "packageSize": 100,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-682543-Anchor Unsalted Butter - 180 gm",
+    "productNameAr": "زبدة طبيعية غير مملحة",
+    "productNameEn": "Natural Unsalted Butter",
+    "brandAr": "أنكور",
+    "brandEn": "Anchor",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/682543/1783323600/682543_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-682543-Anchor Unsalted Butter - 180 gm",
+        "packageSize": 180,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-682544-Anchor Unsalted Butter - 380 gm",
+    "productNameAr": "زبدة طبيعية غير مملحة",
+    "productNameEn": "Natural Unsalted Butter",
+    "brandAr": "أنكور",
+    "brandEn": "Anchor",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/682544/1783323600/682544_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-682544-Anchor Unsalted Butter - 380 gm",
+        "packageSize": 380,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-373278-Rotana Natural Butter - 400 gram",
+    "productNameAr": "زبدة طبيعية غير مملحة",
+    "productNameEn": "Natural Unsalted Butter",
+    "brandAr": "روتانا",
+    "brandEn": "Rotana",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h88/heb/33877116616734/373278_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-373278-Rotana Natural Butter - 400 gram",
+        "packageSize": 400,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-373280-Rotana Natural Unsalted Butter - 100 gram",
+    "productNameAr": "زبدة طبيعية غير مملحة",
+    "productNameEn": "Natural Unsalted Butter",
+    "brandAr": "روتانا",
+    "brandEn": "Rotana",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h24/h1b/33586727190558/373280_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-373280-Rotana Natural Unsalted Butter - 100 gram",
+        "packageSize": 100,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-258082-New Zealand butter",
+    "productNameAr": "زبدة نيوزيلندية",
+    "productNameEn": "New Zealand butter",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h1a/hbf/28100312924190/258082_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-258082-New Zealand butter",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-99124-Alexandria Pure Cow Ghee - 700 gram",
+    "productNameAr": "سمن طبيعي",
+    "productNameEn": "Pure Ghee",
+    "brandAr": "الأسكندرية",
+    "brandEn": "Alexandria",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/99124/1789584000/99124_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-99124-Alexandria Pure Cow Ghee - 700 gram",
+        "packageSize": 700,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-618578-Alaskandaria Pure Cow Ghee - 450 gm",
+    "productNameAr": "سمن طبيعي",
+    "productNameEn": "Pure Ghee",
+    "brandAr": "الأسكندرية",
+    "brandEn": "Alexandria",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/618578/1789584000/618578_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-618578-Alaskandaria Pure Cow Ghee - 450 gm",
+        "packageSize": 450,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-18921-Fern Pure Butter Ghee - 1.8 kg",
+    "productNameAr": "سمن طبيعي",
+    "productNameEn": "Pure Ghee",
+    "brandAr": "فيرن",
+    "brandEn": "Fern",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/he6/h63/15070390681630/18921_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-18921-Fern Pure Butter Ghee - 1.8 kg",
+        "packageSize": 1.8,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-142156-Fern Natural Ghee - 700 gram",
+    "productNameAr": "سمن طبيعي",
+    "productNameEn": "Pure Ghee",
+    "brandAr": "فيرن",
+    "brandEn": "Fern",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h6d/h0c/15070388224030/142156_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-142156-Fern Natural Ghee - 700 gram",
+        "packageSize": 700,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-222424-Fern Pure Butter - 1.4 kg",
+    "productNameAr": "سمن طبيعي",
+    "productNameEn": "Pure Ghee",
+    "brandAr": "فيرن",
+    "brandEn": "Fern",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h87/h6b/15070392516638/222424_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-222424-Fern Pure Butter - 1.4 kg",
+        "packageSize": 1.4,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-508955-Katilo Natural Ghee - 450 gram",
+    "productNameAr": "سمن طبيعي",
+    "productNameEn": "Pure Ghee",
+    "brandAr": "قتيلو",
+    "brandEn": "Katilo",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hc7/hbc/62006299852830/508955_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-508955-Katilo Natural Ghee - 450 gram",
+        "packageSize": 450,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-488922-Katilo Natural Ghee - 900 gram",
+    "productNameAr": "سمن طبيعي",
+    "productNameEn": "Pure Ghee",
+    "brandAr": "قتيلو",
+    "brandEn": "Katilo",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hee/hd7/62006300606494/488922_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-488922-Katilo Natural Ghee - 900 gram",
+        "packageSize": 900,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-20678-Rawaby Vegetable Ghee - 1.5kg",
+    "productNameAr": "سمن نباتي",
+    "productNameEn": "Vegetable Ghee",
+    "brandAr": "الروابي",
+    "brandEn": "Al Rawabi",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/20678/1750163403/20678_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-20678-Rawaby Vegetable Ghee - 1.5kg",
+        "packageSize": 1.5,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-305567-Crystal Vegetable White Ghee - 1.5kg",
+    "productNameAr": "سمن نباتي",
+    "productNameEn": "Vegetable Ghee",
+    "brandAr": "كريستال",
+    "brandEn": "Crystal",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/305567/1738681205/305567_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-305567-Crystal Vegetable White Ghee - 1.5kg",
+        "packageSize": 1.5,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-393103-Crystal Vegetable Gold Ghee - 2.5kg",
+    "productNameAr": "سمن نباتي",
+    "productNameEn": "Vegetable Ghee",
+    "brandAr": "كريستال",
+    "brandEn": "Crystal",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/393103/1738681205/393103_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-393103-Crystal Vegetable Gold Ghee - 2.5kg",
+        "packageSize": 2.5,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-504713-Crystal White Vegetable Ghee - 700 gram",
+    "productNameAr": "سمن نباتي",
+    "productNameEn": "Vegetable Ghee",
+    "brandAr": "كريستال",
+    "brandEn": "Crystal",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/504713/1738681205/504713_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-504713-Crystal White Vegetable Ghee - 700 gram",
+        "packageSize": 700,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-305569-Crystal Vegetable Ghee - 1.5kg",
+    "productNameAr": "سمن نباتي",
+    "productNameEn": "Vegetable Ghee",
+    "brandAr": "كريستال",
+    "brandEn": "Crystal",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/305569/1738681205/305569_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-305569-Crystal Vegetable Ghee - 1.5kg",
+        "packageSize": 1.5,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-622011-Ganna New Zealand Ghee - 1.5 Kg",
+    "productNameAr": "سمن نيوزيلندي",
+    "productNameEn": "New Zealand Ghee",
+    "brandAr": "جنة",
+    "brandEn": "Ganna",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/622011/1750163403/622011_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-622011-Ganna New Zealand Ghee - 1.5 Kg",
+        "packageSize": 1.5,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-622012-Ganna New Zealand Ghee - 700 gram",
+    "productNameAr": "سمن نيوزيلندي",
+    "productNameEn": "New Zealand Ghee",
+    "brandAr": "جنة",
+    "brandEn": "Ganna",
+    "categoryId": "cat_kitchenstaples",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h1a/h57/52498313674782/622012_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "wafra-622012-Ganna New Zealand Ghee - 700 gram",
+        "packageSize": 700,
+        "unit": "جرام",
+        "unitEn": "G"
+      }
+    ]
+  },
+  {
+    "productId": "Ariel Automatic Powder Detergent with Touch of Downy - 4.5 Kg-carrefour-595238",
+    "productNameAr": "مسحوق غسيل اوتوماتيك",
+    "productNameEn": "Automatic Powder Detergent",
+    "brandAr": "اريال",
+    "brandEn": "Ariel",
+    "categoryId": "cat_cleaning",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/595238/1723980603/595238_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Ariel Automatic Powder Detergent with Touch of Downy - 4.5 Kg-carrefour-595238",
+        "packageSize": 4.5,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Ariel Automatic Laundry Powder Detergent with Touch of Downy - 8 Kg-carrefour-627338",
+    "productNameAr": "مسحوق غسيل اوتوماتيك",
+    "productNameEn": "Automatic Powder Detergent",
+    "brandAr": "اريال",
+    "brandEn": "Ariel",
+    "categoryId": "cat_cleaning",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h86/hc7/62167824007198/627338_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Ariel Automatic Laundry Powder Detergent with Touch of Downy - 8 Kg-carrefour-627338",
+        "packageSize": 8,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Ariel Automatic Laundry Powder Detergent with Lavendar Scent - 6 Kg-carrefour-647240",
+    "productNameAr": "مسحوق غسيل اوتوماتيك",
+    "productNameEn": "Automatic Powder Detergent",
+    "brandAr": "اريال",
+    "brandEn": "Ariel",
+    "categoryId": "cat_cleaning",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647240/1736848804/647240_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Ariel Automatic Laundry Powder Detergent with Lavendar Scent - 6 Kg-carrefour-647240",
+        "packageSize": 6,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Persil Automatic Powder Detergent - 5 Kg-carrefour-585171",
+    "productNameAr": "مسحوق غسيل اوتوماتيك",
+    "productNameEn": "Automatic Powder Detergent",
+    "brandAr": "بيرسيل",
+    "brandEn": "Persil",
+    "categoryId": "cat_cleaning",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/585171/1789987200/585171_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Persil Automatic Powder Detergent - 5 Kg-carrefour-585171",
         "packageSize": 5,
-        "unit": "مل ",
-        "unitEn": "ml"
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Persil Deep Clean Automatic Powder Detergent - 8 kg-carrefour-650315",
+    "productNameAr": "مسحوق غسيل اوتوماتيك",
+    "productNameEn": "Automatic Powder Detergent",
+    "brandAr": "بيرسيل",
+    "brandEn": "Persil",
+    "categoryId": "cat_cleaning",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/650315/1789981800/650315_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Persil Deep Clean Automatic Powder Detergent - 8 kg-carrefour-650315",
+        "packageSize": 8,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Oxi Automatic Powder Detergent - Spring Breeze Scent - 2.5 Kg-carrefour-335054",
+    "productNameAr": "مسحوق غسيل اوتوماتيك",
+    "productNameEn": "Automatic Powder Detergent",
+    "brandAr": "أوكسي",
+    "brandEn": "Oxi",
+    "categoryId": "cat_cleaning",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h73/hb8/32185163022366/335054_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Oxi Automatic Powder Detergent - Spring Breeze Scent - 2.5 Kg-carrefour-335054",
+        "packageSize": 2.5,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Oxi Automatic Lavender Powder Detergent - 4Kg+2Kg-carrefour-499373",
+    "productNameAr": "مسحوق غسيل اوتوماتيك",
+    "productNameEn": "Automatic Powder Detergent",
+    "brandAr": "أوكسي",
+    "brandEn": "Oxi",
+    "categoryId": "cat_cleaning",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h65/h3a/10069310341150/499373_main.jpg?im=Resize=(300,300)",
+    "variants": [
+      {
+        "variantId": "Oxi Automatic Lavender Powder Detergent - 4Kg+2Kg-carrefour-499373",
+        "packageSize": 6,
+        "unit": "كيلو",
+        "unitEn": "Kg"
       }
     ]
   }
