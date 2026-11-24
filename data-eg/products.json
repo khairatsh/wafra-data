@@ -560,7 +560,6 @@
     "productNameEn": "Olivetta Lemon Safflower",
     "categoryId": "cat_freshvegetables",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h85/hb1/50311266369566/376758_main.jpg?im=Resize=(300,300)",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Olivetta-Lemon-Safflower-wafra-376758",
@@ -1071,7 +1070,6 @@
     "productNameEn": "Shamya Egyptian Grape Leaf",
     "categoryId": "cat_freshvegetables",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h9f/h41/49736804892702/590278_main.jpg?im=Resize=(300,300)",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Shamya-Egyptian-Grape-Leaf-wafra-590278---900gm",
@@ -1417,7 +1415,6 @@
     "productNameEn": "Balady Lemon",
     "categoryId": "cat_freshvegetables",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hfa/h1b/35139574988830/32483_main.jpg?im=Resize=(300,300)",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Balady-Lemon-wafra-32483",
@@ -1433,7 +1430,6 @@
     "productNameEn": "Olivetta Lemon Mix",
     "categoryId": "cat_freshvegetables",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h1f/hef/17045051539486/376757_main.jpg?im=Resize=(300,300)",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Olivetta-Lemon-Mix-wafra-376757",
@@ -1830,8 +1826,8 @@
     "productId": "wafra-20678-Rawaby Vegetable Ghee - 1.5kg",
     "productNameAr": "سمن نباتي",
     "productNameEn": "Vegetable Ghee",
-    "brandAr": "الروابي",
-    "brandEn": "Al Rawabi",
+    "brandAr": "روابي",
+    "brandEn": "Rawabi",
     "categoryId": "cat_kitchenstaples",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/20678/1750163403/20678_main.jpg?im=Resize=(300,300)",
     "variants": [
@@ -2061,6 +2057,2084 @@
         "packageSize": 6,
         "unit": "كيلو",
         "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "wafra-basmati-rice-perkilo",
+    "productNameAr": "أرز بسمتي",
+    "productNameEn": "Basmati Rice",
+    "categoryId": "cat_rice",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQewuukmNtmRWSBR6DrBhwUe8UsnqfupL-I872LKsuY9g&s=10",
+    "variants": [
+      {
+        "variantId": "wafra-basmati-rice-perkilo",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "balady-beef-cubes",
+    "productNameAr": "مكعبات لحم بقري",
+    "productNameEn": "Balady Beef Cubes",
+    "categoryId": "cat_freshmeat",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfX86rTTI32PwV1lZb9jG1oEbKi-cCHhRl6b9iy6LR_7vLDeCDHR1aqHC&s=10",
+    "variants": [
+      {
+        "variantId": "balady-beef-cubes",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "mackrel-premium",
+    "productNameAr": "سمك ماكريل",
+    "productNameEn": "Mackrel Premium Fish",
+    "categoryId": "cat_freshfish",
+    "imageUrl": "https://img.magnific.com/premium-photo/fresh-whole-king-mackerel-fish-isolated-white-background_720013-37306.jpg?semt=ais_hybrid&w=740&q=80",
+    "variants": [
+      {
+        "variantId": "mackrel-premium",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Large-whole-shrimp",
+    "productNameAr": "جمبري قشر كبير",
+    "productNameEn": "Large Whole Shrimp",
+    "categoryId": "cat_freshfish",
+    "imageUrl": "https://img.magnific.com/free-photo/fresh-shrimp-prawn_1339-2185.jpg?semt=ais_hybrid&w=740&q=80",
+    "variants": [
+      {
+        "variantId": "Large-whole-shrimp",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "superLarge-whole-shrimp",
+    "productNameAr": "جمبري قشر جامبو",
+    "productNameEn": "Super Large Whole Shrimp",
+    "categoryId": "cat_freshfish",
+    "imageUrl": "https://img.magnific.com/free-photo/fresh-shrimp-prawn_1339-2185.jpg?semt=ais_hybrid&w=740&q=80",
+    "variants": [
+      {
+        "variantId": "superLarge-whole-shrimp",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Clean-large-shrimp",
+    "productNameAr": "جمبري مقشر كبير",
+    "productNameEn": "Clean Large Shrimp",
+    "categoryId": "cat_freshfish",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h69/hff/49716743176222/613519_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "Clean-large-shrimp",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "medium-tilipia",
+    "productNameAr": "سمك بلطي وسط",
+    "productNameEn": "Medium Tilipia",
+    "categoryId": "cat_freshfish",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lIkO0Fe8Zgs_qfMwFQxRLy3ft7h0TQB2XOBol3jD_VQXqE6WTgh0Rz8&s=10",
+    "variants": [
+      {
+        "variantId": "medium-tilipia",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "balady-beef-mafroom",
+    "productNameAr": "لحم بقري مفروم",
+    "productNameEn": "Balady Beef Mince",
+    "categoryId": "cat_freshmeat",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h4b/hf4/26516762066974/553261_main.jpg",
+    "variants": [
+      {
+        "variantId": "balady-beef-mafroom",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "balady-beef-liver",
+    "productNameAr": "كبدة بقري",
+    "productNameEn": "Beef Liver",
+    "categoryId": "cat_freshmeat",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hdf/h15/51509454438430/5254_main.jpg",
+    "variants": [
+      {
+        "variantId": "balady-beef-liver",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "white-fresh-chicken",
+    "productNameAr": "فراخ بيضاء",
+    "productNameEn": "White Chicken",
+    "categoryId": "cat_freshpoultary",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/UAE/media/product/1593949/1740504888/1593949_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "white-fresh-chicken",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "red-fresh-chicken",
+    "productNameAr": "فراخ حمراء",
+    "productNameEn": "Red Chicken",
+    "categoryId": "cat_freshpoultary",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/UAE/media/product/1593949/1740504888/1593949_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "red-fresh-chicken",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "chickenbreasts-withbones",
+    "productNameAr": "صدور دجاج بالعظم",
+    "productNameEn": "Chicken Breasts With Bones",
+    "categoryId": "cat_freshpoultary",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZI05Lq9LrUFfVFmSQWhLP4WPY670M6S61vzNEP_iK3BcxJHzFUn3M0bzn&s=10",
+    "variants": [
+      {
+        "variantId": "chickenbreasts-withbones",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "chickenlegs-withbones",
+    "productNameAr": "أوراك دجاج بالعظم",
+    "productNameEn": "Chicken Legs Withbon Bones",
+    "categoryId": "cat_freshpoultary",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQrVLC9D4QbAHDD1YDY5rKEnFPyj7A5qTP1SAXXExcfX5E7sjnV9zF2hkd&s=10",
+    "variants": [
+      {
+        "variantId": "chickenlegs-withbones",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "chickenliver/kidnies",
+    "productNameAr": "كبد وقوانص دجاج",
+    "productNameEn": "Chicken Liver/Kidnies",
+    "categoryId": "cat_freshpoultary",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX49BknFDGJMMrRRaLizXr9WASwt3DLlEAVfbOST5CVy2bqut0-bu8u0I&s=10",
+    "variants": [
+      {
+        "variantId": "chickenliver/kidnies",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "chickenpins-withbones",
+    "productNameAr": "دبابيس دجاج",
+    "productNameEn": "Chicken Pins With Bones",
+    "categoryId": "cat_freshpoultary",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hf2/hc2/13802377117726/477965_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "chickenpins-withbones",
+        "packageSize": 1,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "Qled-tv-50-q5s-hisense",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "هايسينس",
+    "brandEn": "Hisense",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://hisense.co.za/wp-content/uploads/2026/05/50Q5S-1.jpg",
+    "variants": [
+      {
+        "variantId": "Qled-tv-50-q5s-hisense",
+        "packageSize": 50,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "mini led tv 65 m70H samsung",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "سامسونج",
+    "brandEn": "Samsung",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPh91eRKkN902T6-CwqDvxRryIP7hqs-8wlnY6pYPpn4xSDUhyA8HXB4&s=10",
+    "variants": [
+      {
+        "variantId": "mini led tv 65 m70H samsung",
+        "packageSize": 65,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "microwave fresh 20 L 700w",
+    "productNameAr": "ميكروويف",
+    "productNameEn": "Microwave",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKPA-01GF3s-VjPZw6GICyP3DW9T1lRSGcDBZ8oQwPuw&s",
+    "variants": [
+      {
+        "variantId": "microwave fresh 20 L 700w",
+        "packageSize": 20,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "dishwasher beko 13 person 5 program",
+    "productNameAr": "غسالة أطباق",
+    "productNameEn": "Dishwasher",
+    "brandAr": "بيكو",
+    "brandEn": "Beko",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.almorshedy.store/file/mor-catalog/products/1113053400003/1113053400003-1-final-20260725_original.jpg",
+    "variants": [
+      {
+        "variantId": "dishwasher beko 13 person 5 program",
+        "packageSize": 5,
+        "unit": "برنامج",
+        "unitEn": "Program"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 32 armadillo raf310f-n",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "أرماديلو",
+    "brandEn": "Armadillo",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://armadillo-eg.com/images/thumbs/0001538_armadillo-32-hd-frameless-led-tv-2hdmi-2usb.webp",
+    "variants": [
+      {
+        "variantId": "led tv 32 armadillo raf310f-n",
+        "packageSize": 32,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 32 a4Q hisense",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "هايسينس",
+    "brandEn": "Hisense",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://hisense.co.za/wp-content/uploads/2025/04/32A4Q-2.jpg",
+    "variants": [
+      {
+        "variantId": "led tv 32 a4Q hisense",
+        "packageSize": 32,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 32 v35rp toshiba",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Me4JgjP4L._AC_UF1000,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "led tv 32 v35rp toshiba",
+        "packageSize": 32,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 43 je6121f jac",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "جاك",
+    "brandEn": "Jac",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUWnJjKHt-Y_rS3BJuDHmD3AEA9bEybNeGHsTc9hjw8J4ILnbLjVz93Jk&s=10",
+    "variants": [
+      {
+        "variantId": "led tv 43 je6121f jac",
+        "packageSize": 43,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 43 je3120fm jac",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "جاك",
+    "brandEn": "Jac",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/691372/1792593002/691372_main.jpg",
+    "variants": [
+      {
+        "variantId": "led tv 43 je3120fm jac",
+        "packageSize": 43,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 43 a4Q hisense",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "هايسينس",
+    "brandEn": "Hisense",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt4updslpoEx1JOnUJ2MFxW57PWv5rsf-LL7Znj_O_bWempkV8ruet66o&s=10",
+    "variants": [
+      {
+        "variantId": "led tv 43 a4Q hisense",
+        "packageSize": 43,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 43 v35rp toshiba",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://moreelectronicss.com/wp-content/uploads/2025/12/S500940617_1.webp",
+    "variants": [
+      {
+        "variantId": "led tv 43 v35rp toshiba",
+        "packageSize": 43,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 43 mf435g fresh",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/669007/1766502000/669007_main.jpg",
+    "variants": [
+      {
+        "variantId": "led tv 43 mf435g fresh",
+        "packageSize": 43,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "qled tv 43 s5k tcl",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "تي سي إل",
+    "brandEn": "TCL",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOYptcujm7lzKOJJzQpEF0bswvlAzyi6ES5BXNda8hg&s=10",
+    "variants": [
+      {
+        "variantId": "qled tv 43 s5k tcl",
+        "packageSize": 43,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 50 u8000h samsung",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "سامسونج",
+    "brandEn": "Samsung",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Olsd-7tg3d7KH62ot80ICGx748oSjr2yV5s2u9pslw&s=10",
+    "variants": [
+      {
+        "variantId": "led tv 50 u8000h samsung",
+        "packageSize": 50,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 50 l50hynda650 hyundai",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "هيونداي",
+    "brandEn": "Hyundai",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://hyundai-appliances-eg.com/wp-content/uploads/2024/05/Hyundai_TV_50_inch.jpg",
+    "variants": [
+      {
+        "variantId": "led tv 50 l50hynda650 hyundai",
+        "packageSize": 50,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 50 je8136F jac",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "جاك",
+    "brandEn": "Jac",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0CHthgosTQcOSuwW0zpnf1GwQqfpHiSElEQRJsjt27AyNtd44mz8KtaE&s=10",
+    "variants": [
+      {
+        "variantId": "led tv 50 je8136F jac",
+        "packageSize": 50,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "qled tv 50 mfq435g fresh",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGj9Urtl5dOmmIXPB04JA0CDe5ykZvrUvbO_Qj4flldYz-JROunkQAONs&s=10",
+    "variants": [
+      {
+        "variantId": "qled tv 50 mfq435g fresh",
+        "packageSize": 50,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 50 arm50ka4s armadillo",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "أرماديلو",
+    "brandEn": "Armadillo",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/5881531/1.jpg?1432",
+    "variants": [
+      {
+        "variantId": "led tv 50 arm50ka4s armadillo",
+        "packageSize": 50,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 50 c350rp toshiba",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://m.media-amazon.com/images/I/81wEk12V5+L.jpg",
+    "variants": [
+      {
+        "variantId": "led tv 50 c350rp toshiba",
+        "packageSize": 50,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "mini led tv 55 m70h samsung",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "سامسونج",
+    "brandEn": "Samsung",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYN4jC4ETzt0sDDpmod_v-rp-hBME3t-Ze7N1qQ-q0jA&s=10",
+    "variants": [
+      {
+        "variantId": "mini led tv 55 m70h samsung",
+        "packageSize": 55,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 55 l55hynda650 hyundai",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "هيونداي",
+    "brandEn": "Hyundai",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjAJIu2l3zBRSUcdE2HRgDGUcjGBhwvL7C723saiYcnHKsAzENbKbRfw&s=10",
+    "variants": [
+      {
+        "variantId": "led tv 55 l55hynda650 hyundai",
+        "packageSize": 55,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 55 u8000H samsung",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "سامسونج",
+    "brandEn": "Samsung",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFx7KlZqzGdu9PF5NHUtYzkaYB0_sjORVKKeU4HCloyA&s=10",
+    "variants": [
+      {
+        "variantId": "led tv 55 u8000H samsung",
+        "packageSize": 55,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 58 je8136f jac",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "جاك",
+    "brandEn": "Jac",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOc5fWs4Lwoo-IwmPqyfQsvOkp2jnBcQJQnckcMoptxg&s",
+    "variants": [
+      {
+        "variantId": "led tv 58 je8136f jac",
+        "packageSize": 58,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "qled tv 58 m450rp toshiba",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://moreelectronicss.com/wp-content/uploads/2026/03/0201115-%D8%AA%D9%88%D8%B4%D9%8A%D8%A8%D8%A7-%D8%B4%D8%A7%D8%B4%D8%A9-%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%8C-%D9%85%D9%82%D8%A7%D8%B3-58-%D8%A8%D9%88%D8%B5%D8%A9-%D8%8C-QLED-%D8%8C-%D8%AF%D9%82%D8%A9-4K-UHD-%D8%8C-%D8%A8%D8%B1%D9%8A%D8%B3%D9%8A%D9%81%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-58M450RP-.jpg",
+    "variants": [
+      {
+        "variantId": "qled tv 58 m450rp toshiba",
+        "packageSize": 58,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "qled tv 65 z570sp toshiba",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRzu33K0QQeGB2gkLEVwBd3ETA4nb0Jmf6abQu3OVZ0X7pffvaHNZNup3Z&s=10",
+    "variants": [
+      {
+        "variantId": "qled tv 65 z570sp toshiba",
+        "packageSize": 65,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 65 je8135f jac",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "جاك",
+    "brandEn": "Jac",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/691374/1792593002/691374_main.jpg?im=Resize=400",
+    "variants": [
+      {
+        "variantId": "led tv 65 je8135f jac",
+        "packageSize": 65,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 65 c350rp toshiba",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD59kuIe7HM1ihGhCZxNXlkDaqv4osLZC0B6ofdMfTSNufJf0WBTHNr2g&s=10",
+    "variants": [
+      {
+        "variantId": "led tv 65 c350rp toshiba",
+        "packageSize": 65,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "qned tv 65 qn70H samsung",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "سامسونج",
+    "brandEn": "Samsung",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfh_Ep-XwdwNDjeTv3618H4Uhf7x9lxGuT13_HrT-bPA&s=10",
+    "variants": [
+      {
+        "variantId": "qned tv 65 qn70H samsung",
+        "packageSize": 65,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 65 a4Q hisense",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "هايسينس",
+    "brandEn": "Hisense",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVAhyQBL5pzEAApeWSgEYF3wrKB7qVfenoVNBHlWnNQ4XK2GJU--nki0&s=10",
+    "variants": [
+      {
+        "variantId": "led tv 65 a4Q hisense",
+        "packageSize": 65,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 65 u8000h samsung",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "سامسونج",
+    "brandEn": "Samsung",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNa6bgBO_kP60vDGO7G_LNDCpFIlzAIPSZti0CpZfs_Q&s=10",
+    "variants": [
+      {
+        "variantId": "led tv 65 u8000h samsung",
+        "packageSize": 65,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 75 u8000h samsung",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "سامسونج",
+    "brandEn": "Samsung",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNa6bgBO_kP60vDGO7G_LNDCpFIlzAIPSZti0CpZfs_Q&s=10",
+    "variants": [
+      {
+        "variantId": "led tv 75 u8000h samsung",
+        "packageSize": 75,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "qled tv 75 m450rp toshiba",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://rukminim3.flixcart.com/image/480/480/xif0q/television/j/d/f/-original-imahen4jpy58crym.jpeg?q=90",
+    "variants": [
+      {
+        "variantId": "qled tv 75 m450rp toshiba",
+        "packageSize": 75,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "mini led tv 75 m70h samsung",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "سامسونج",
+    "brandEn": "Samsung",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/sa_en/ua75m70hauxsa/gallery/sa-en-mini-led-m70h-ua75m70hauxsa-551589803?$1164_776_PNG$",
+    "variants": [
+      {
+        "variantId": "mini led tv 75 m70h samsung",
+        "packageSize": 75,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "qned tv 75 qn70h samsung",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "سامسونج",
+    "brandEn": "Samsung",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfh_Ep-XwdwNDjeTv3618H4Uhf7x9lxGuT13_HrT-bPA&s=10",
+    "variants": [
+      {
+        "variantId": "qned tv 75 qn70h samsung",
+        "packageSize": 75,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "qled tv 75 z570 sp toshiba",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://hnsgsfp.imgix.net/9/images/detailed/177/Toshiba_Z570SP_75-inch_4K_VIDAA_QLED_2026_Smart_TV_-_Black_(75Z570SP)_01.JPG?fit=fill&bg=0FFF&w=1536&h=901&auto=format,compress",
+    "variants": [
+      {
+        "variantId": "qled tv 75 z570 sp toshiba",
+        "packageSize": 75,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "mini qled tv 65 z670sp toshiba",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqiwfzqnjZZNjPwe3XSwma7npwY_tO5XxVry8ub3UbxgFitVoSKxsbgDR&s=10",
+    "variants": [
+      {
+        "variantId": "mini qled tv 65 z670sp toshiba",
+        "packageSize": 65,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "led tv 85 u8000h samsung",
+    "productNameAr": "تليفزيون",
+    "productNameEn": "TV",
+    "brandAr": "سامسونج",
+    "brandEn": "Samsung",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/levant/ua85u8000huxtw/gallery/levant-uhd-u8000h-ua85u8000huxtw-552296928?$1164_776_PNG$",
+    "variants": [
+      {
+        "variantId": "led tv 85 u8000h samsung",
+        "packageSize": 85,
+        "unit": "بوصة",
+        "unitEn": "Inch"
+      }
+    ]
+  },
+  {
+    "productId": "samsung s26 ultra",
+    "productNameAr": "سامسونج اس 26 ألترا",
+    "productNameEn": "Samsung s26 Ultra",
+    "brandAr": "سامسونج",
+    "brandEn": "Samsung",
+    "categoryId": "cat_phones",
+    "imageUrl": "https://cdn.salla.sa/BrOvVR/v5TgWI1ZoKejGA4S1yWbRsvBcTQEbtLPPCZAH4HH.jpg",
+    "variants": [
+      {
+        "variantId": "samsung s26 ultra",
+        "packageSize": 256,
+        "unit": "GB",
+        "unitEn": "GB"
+      }
+    ]
+  },
+  {
+    "productId": "barker oven 40 L",
+    "productNameAr": "فرن كهربائي",
+    "productNameEn": "Electric Oven",
+    "brandAr": "باركر",
+    "brandEn": "Barker",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658070/1754893411/658070_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "barker oven 40 L",
+        "packageSize": 40,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "Fresh oven 48 L",
+    "productNameAr": "فرن كهربائي",
+    "productNameEn": "Electric Oven",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvfHV90kV0lYggpoo2-OAXiRTIOwbdAI1SoJ9vBdVZRXWEkvtPuwVNdQcJ&s=10",
+    "variants": [
+      {
+        "variantId": "Fresh oven 48 L",
+        "packageSize": 48,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "touch oven 50 L",
+    "productNameAr": "فرن كهربائي",
+    "productNameEn": "Electric Oven",
+    "brandAr": "تاتش",
+    "brandEn": "Touch",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0lrLNeJ2Of5WDLResnneIv7cD6ToAFDlMdDH8dZcmoO__jI03FcjzsKM&s=10",
+    "variants": [
+      {
+        "variantId": "touch oven 50 L",
+        "packageSize": 50,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "microwave midea 20 L",
+    "productNameAr": "ميكروويف",
+    "productNameEn": "Microwave",
+    "brandAr": "ميديا",
+    "brandEn": "Midea",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://web-res.midea.com/content/dam/midea-aem/in/india-assets-new/small-appliances/microwave/mmo20cxa-%D0%BC%D0%BC%D1%80%D0%B5%D0%B2%D0%BA/id/MMO20CXA-%D0%9C%D0%9C%D0%A0%D0%95%D0%92%D0%9A-id2.png/jcr:content/renditions/MMO20CXA-%D0%9C%D0%9C%D0%A0%D0%95%D0%92%D0%9A-id2.webp",
+    "variants": [
+      {
+        "variantId": "microwave midea 20 L",
+        "packageSize": 20,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "microwave panasonic 20 L",
+    "productNameAr": "ميكروويف",
+    "productNameEn": "Microwave",
+    "brandAr": "باناسونيك",
+    "brandEn": "Panasonic",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/681060/1781000469/681060_main.jpg",
+    "variants": [
+      {
+        "variantId": "microwave panasonic 20 L",
+        "packageSize": 20,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "microwave toshiba 25 L",
+    "productNameAr": "ميكروويف",
+    "productNameEn": "Microwave",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://web-res.midea.com/content/dam/toshiba-aem/eg/eg-new-assets/small-appliances/microwave/mw3-em25pei(bk)/product-images/A-MW3-EM25PEI-BK-front-v1.png/jcr:content/renditions/A-MW3-EM25PEI-BK-front-v1.webp",
+    "variants": [
+      {
+        "variantId": "microwave toshiba 25 L",
+        "packageSize": 25,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "microwave tornado 25 L",
+    "productNameAr": "ميكروويف",
+    "productNameEn": "Microwave",
+    "brandAr": "تورنادو",
+    "brandEn": "Tornado",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://m.media-amazon.com/images/I/41AXDC1i5wL._AC_UF894,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "microwave tornado 25 L",
+        "packageSize": 25,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "microwave mienta 30 L",
+    "productNameAr": "ميكروويف",
+    "productNameEn": "Microwave",
+    "brandAr": "ميينتا",
+    "brandEn": "Mienta",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwLrhTr4lGr4ct71JluW_oBz7Qpz9-Y3XezCDqVX0ZA5MJLvOCz6k-U0O&s=10",
+    "variants": [
+      {
+        "variantId": "microwave mienta 30 L",
+        "packageSize": 30,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "microwave fresh 36 L",
+    "productNameAr": "ميكروويف",
+    "productNameEn": "Microwave",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://m.media-amazon.com/images/I/41IMIOVJq-L._AC_UF894,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "microwave fresh 36 L",
+        "packageSize": 36,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "air fryer barker 7 L",
+    "productNameAr": "إير فراير",
+    "productNameEn": "Air Fryer",
+    "brandAr": "باركر",
+    "brandEn": "Barker",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVqTGrJ_RY3kAwRTVkHMik03mCvenKFjzq4MPLsKE-co17LyMz3uhH2FZ&s=10",
+    "variants": [
+      {
+        "variantId": "air fryer barker 7 L",
+        "packageSize": 7,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "air fryer fresh 5 L",
+    "productNameAr": "إير فراير",
+    "productNameEn": "Air Fryer",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCj41thHuNUPFEwDHwRbqtMq64UqapcdHlBzQyexqSiplewiK7gY6x-plN&s=10",
+    "variants": [
+      {
+        "variantId": "air fryer fresh 5 L",
+        "packageSize": 5,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "air fryer tornado 4 L",
+    "productNameAr": "إير فراير",
+    "productNameEn": "Air Fryer",
+    "brandAr": "تورنادو",
+    "brandEn": "Tornado",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h17/hfd/52611737583646/625255_main.jpg",
+    "variants": [
+      {
+        "variantId": "air fryer tornado 4 L",
+        "packageSize": 4,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "air fryer fresh 7 L",
+    "productNameAr": "إير فراير",
+    "productNameEn": "Air Fryer",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637068/1731932964/637068_main.jpg",
+    "variants": [
+      {
+        "variantId": "air fryer fresh 7 L",
+        "packageSize": 7,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "air fryer tornado 8 L - 2door",
+    "productNameAr": "إير فراير",
+    "productNameEn": "Air Fryer",
+    "brandAr": "تورنادو",
+    "brandEn": "Tornado",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://m.media-amazon.com/images/I/41lU3euHtDL._AC_UF894,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "air fryer tornado 8 L - 2door",
+        "packageSize": 8,
+        "unit": "لتر - 2 باب",
+        "unitEn": "Litre - 2 doors"
+      }
+    ]
+  },
+  {
+    "productId": "air fryer black&decker 6 L",
+    "productNameAr": "إير فراير",
+    "productNameEn": "Air Fryer",
+    "brandAr": "بلاك أند ديكر",
+    "brandEn": "Black&Decker",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/677938/1778668800/677938_main.jpg",
+    "variants": [
+      {
+        "variantId": "air fryer black&decker 6 L",
+        "packageSize": 6,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "air fryer philips 6.2 L",
+    "productNameAr": "إير فراير",
+    "productNameEn": "Air Fryer",
+    "brandAr": "فيليبس",
+    "brandEn": "Philips",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://m.media-amazon.com/images/I/616ivBAxZtL._AC_UF894,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "air fryer philips 6.2 L",
+        "packageSize": 6.2,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "air fryer kenwood 7 L",
+    "productNameAr": "إير فراير",
+    "productNameEn": "Air Fryer",
+    "brandAr": "كينوود",
+    "brandEn": "Kenwood",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://m.media-amazon.com/images/I/71kJ9GFMxsL._AC_UF894,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "air fryer kenwood 7 L",
+        "packageSize": 7,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "air fryer mienta 8 L",
+    "productNameAr": "إير فراير",
+    "productNameEn": "Air Fryer",
+    "brandAr": "ميينتا",
+    "brandEn": "Mienta",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvw4qt3tPwoD1x8hydBwLZOvPDL16XUBSZQofarajcrgl-nYBVS0QWIUD&s=10",
+    "variants": [
+      {
+        "variantId": "air fryer mienta 8 L",
+        "packageSize": 8,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "mixer bowl mienta 5.5 L",
+    "productNameAr": "عجانة كهربائية",
+    "productNameEn": "Mixer Bowl",
+    "brandAr": "ميينتا",
+    "brandEn": "Mienta",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHrhIqZb8SgBU64bkDTVIrTdkTeNwtCXj_SENovkFZrBixayO4dT7E6BM&s=10",
+    "variants": [
+      {
+        "variantId": "mixer bowl mienta 5.5 L",
+        "packageSize": 5.5,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "mixer bowl one-life 10 L",
+    "productNameAr": "عجانة كهربائية",
+    "productNameEn": "Mixer Bowl",
+    "brandAr": "وان لايف",
+    "brandEn": "One Life",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/688929/1790084400/688929_main.jpg",
+    "variants": [
+      {
+        "variantId": "mixer bowl one-life 10 L",
+        "packageSize": 10,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "mixer bowl smart 11 L",
+    "productNameAr": "عجانة كهربائية",
+    "productNameEn": "Mixer Bowl",
+    "brandAr": "سمارت",
+    "brandEn": "Smart",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/679707/1786632000/679707_main.jpg",
+    "variants": [
+      {
+        "variantId": "mixer bowl smart 11 L",
+        "packageSize": 11,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "mixer bowl mienta 10 L",
+    "productNameAr": "عجانة كهربائية",
+    "productNameEn": "Mixer Bowl",
+    "brandAr": "ميينتا",
+    "brandEn": "Mienta",
+    "categoryId": "cat_smallappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659630/1755788404/659630_main.jpg",
+    "variants": [
+      {
+        "variantId": "mixer bowl mienta 10 L",
+        "packageSize": 10,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "chest freezer fresh - 255 L",
+    "productNameAr": "فريزر أفقي",
+    "productNameEn": "Chest Freezer",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/654165/1761123607/654165_main.jpg",
+    "variants": [
+      {
+        "variantId": "chest freezer fresh - 255 L",
+        "packageSize": 255,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "upright freezer unionaire - 230 L",
+    "productNameAr": "فريزر رأسي",
+    "productNameEn": "Upright Freezer",
+    "brandAr": "يونيون اير",
+    "brandEn": "Unionaire",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659563/1766917800/659563_main.jpg",
+    "variants": [
+      {
+        "variantId": "upright freezer unionaire - 230 L",
+        "packageSize": 230,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "upright freezer fresh - 250 L",
+    "productNameAr": "فريزر رأسي",
+    "productNameEn": "Upright Freezer",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641269/1766647802/641269_main.jpg",
+    "variants": [
+      {
+        "variantId": "upright freezer fresh - 250 L",
+        "packageSize": 250,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "upright freezer white point - 181 L",
+    "productNameAr": "فريزر رأسي",
+    "productNameEn": "Upright Freezer",
+    "brandAr": "وايت بوينت",
+    "brandEn": "White Point",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/650065/1741593603/650065_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "upright freezer white point - 181 L",
+        "packageSize": 181,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "upright freezer beko - 168 L",
+    "productNameAr": "فريزر رأسي",
+    "productNameEn": "Upright Freezer",
+    "brandAr": "بيكو",
+    "brandEn": "Beko",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/676194/1776680400/676194_main.jpg",
+    "variants": [
+      {
+        "variantId": "upright freezer beko - 168 L",
+        "packageSize": 168,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "upright freezer midea - 392 L",
+    "productNameAr": "فريزر رأسي",
+    "productNameEn": "Upright Freezer",
+    "brandAr": "ميديا",
+    "brandEn": "Midea",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/683816/1785157800/683816_main.jpg",
+    "variants": [
+      {
+        "variantId": "upright freezer midea - 392 L",
+        "packageSize": 392,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "upright freezer fresh - 255 L",
+    "productNameAr": "فريزر رأسي",
+    "productNameEn": "Upright Freezer",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/500012312/1791782640/500012312_main.jpeg",
+    "variants": [
+      {
+        "variantId": "upright freezer fresh - 255 L",
+        "packageSize": 255,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "upright freezer kiriazi - 230 L",
+    "productNameAr": "فريزر رأسي",
+    "productNameEn": "Upright Freezer",
+    "brandAr": "كيريازي",
+    "brandEn": "Kiriazi",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfcBiVjqVyUtCPNiNPWjbvnb2i71XEqvQqp6698QWpcBorR1SGFx5vy9m&s=10",
+    "variants": [
+      {
+        "variantId": "upright freezer kiriazi - 230 L",
+        "packageSize": 230,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge one door zanussi 320 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "زانوسي",
+    "brandEn": "Zanussi",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h1d/he7/14583688626206/524686_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "fridge one door zanussi 320 L",
+        "packageSize": 320,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door unionaire 420 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "يونيون اير",
+    "brandEn": "Unionaire",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/665317/1762171204/665317_main.jpg",
+    "variants": [
+      {
+        "variantId": "fridge two door unionaire 420 L",
+        "packageSize": 420,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door fresh 329 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszTcdOszaKgK1NX402HjRW3fBPsAJmN8hboDOOpn7Fw&s",
+    "variants": [
+      {
+        "variantId": "fridge two door fresh 329 L",
+        "packageSize": 329,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door midea 379 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "ميديا",
+    "brandEn": "Midea",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/685773/1789473000/685773_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "fridge two door midea 379 L",
+        "packageSize": 379,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door toshiba 338 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/679020/1780386000/679020_main.jpg",
+    "variants": [
+      {
+        "variantId": "fridge two door toshiba 338 L",
+        "packageSize": 338,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door kiriazi 370 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "كيريازي",
+    "brandEn": "Kiriazi",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h87/he0/49217304002590/554639_main.jpg",
+    "variants": [
+      {
+        "variantId": "fridge two door kiriazi 370 L",
+        "packageSize": 370,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door fresh 397 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjjH8Aatu-co5KD0y8B37ZJiulG_oGMMxHrknD9bbku5PUc4uHuACGptbs&s=10",
+    "variants": [
+      {
+        "variantId": "fridge two door fresh 397 L",
+        "packageSize": 397,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door fresh 426 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/668311/1766586602/668311_main.jpg",
+    "variants": [
+      {
+        "variantId": "fridge two door fresh 426 L",
+        "packageSize": 426,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door toshiba 411 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/654436/1747207803/654436_main.jpg",
+    "variants": [
+      {
+        "variantId": "fridge two door toshiba 411 L",
+        "packageSize": 411,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door fresh 471 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/689991/1792996800/689991_main.jpg",
+    "variants": [
+      {
+        "variantId": "fridge two door fresh 471 L",
+        "packageSize": 471,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door beko 455 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "بيكو",
+    "brandEn": "Beko",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/676189/1778068857/676189_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "fridge two door beko 455 L",
+        "packageSize": 455,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door midea 505 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "ميديا",
+    "brandEn": "Midea",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/685775/1787753400/685775_main.jpg",
+    "variants": [
+      {
+        "variantId": "fridge two door midea 505 L",
+        "packageSize": 505,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door white point 403 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "وايت بوينت",
+    "brandEn": "White Point",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHB2I2yp3hMJXNKSuQ7981fXxJx72SHr8viK7o1URChWlPe5pne7f5TXGM&s=10",
+    "variants": [
+      {
+        "variantId": "fridge two door white point 403 L",
+        "packageSize": 403,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door sharp 396 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "شارب",
+    "brandEn": "Sharp",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hd2/h7d/9699885678622/492362_main.jpg",
+    "variants": [
+      {
+        "variantId": "fridge two door sharp 396 L",
+        "packageSize": 396,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door fresh 570 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/686287/1788168600/686287_main.jpg",
+    "variants": [
+      {
+        "variantId": "fridge two door fresh 570 L",
+        "packageSize": 570,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "fridge two door ariston 590 L",
+    "productNameAr": "ثلاجة",
+    "productNameEn": "Fridge",
+    "brandAr": "أريستون",
+    "brandEn": "Ariston",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/SAU/media/product/8050147700808/1751959800/8050147700808_main.jpeg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "fridge two door ariston 590 L",
+        "packageSize": 590,
+        "unit": "لتر",
+        "unitEn": "Litre"
+      }
+    ]
+  },
+  {
+    "productId": "dishwasher whitepoint 10 person",
+    "productNameAr": "غسالة أطباق",
+    "productNameEn": "Dishwasher",
+    "brandAr": "وايت بوينت",
+    "brandEn": "White Point",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://m.media-amazon.com/images/I/512L-rb8wsL._AC_UF894,1000_QL80_.jpg",
+    "variants": [
+      {
+        "variantId": "dishwasher whitepoint 10 person",
+        "packageSize": 10,
+        "unit": "مكان",
+        "unitEn": "Person"
+      }
+    ]
+  },
+  {
+    "productId": "dishwasher midea 14 person",
+    "productNameAr": "غسالة أطباق",
+    "productNameEn": "Dishwasher",
+    "brandAr": "ميديا",
+    "brandEn": "Midea ",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ1QIWPrS7D2YXkwoYX8fJWnULktWD5_Qa9nNMpBAHMn6JVonQevdxg6JJ&s=10",
+    "variants": [
+      {
+        "variantId": "dishwasher midea 14 person",
+        "packageSize": 14,
+        "unit": "مكان",
+        "unitEn": "Person"
+      }
+    ]
+  },
+  {
+    "productId": "dishwasher whitepoint 14 person",
+    "productNameAr": "غسالة أطباق",
+    "productNameEn": "Dishwasher",
+    "brandAr": "وايت بوينت",
+    "brandEn": "Whitepoint",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/he0/h33/61726546821150/625435_main.jpg",
+    "variants": [
+      {
+        "variantId": "dishwasher whitepoint 14 person",
+        "packageSize": 14,
+        "unit": "مكان",
+        "unitEn": "Person"
+      }
+    ]
+  },
+  {
+    "productId": "dishwasher bosch 14 person",
+    "productNameAr": "غسالة أطباق",
+    "productNameEn": "Dishwasher",
+    "brandAr": "بوش",
+    "brandEn": "Bosch",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/1698542001309/1793105130/1698542001309_main.jpeg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "dishwasher bosch 14 person",
+        "packageSize": 14,
+        "unit": "مكان",
+        "unitEn": "Person"
+      }
+    ]
+  },
+  {
+    "productId": "dishwasher ariston 15 person",
+    "productNameAr": "غسالة أطباق",
+    "productNameEn": "Dishwasher",
+    "brandAr": "أريستون",
+    "brandEn": "Ariston",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/661978/1761214207/661978_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "dishwasher ariston 15 person",
+        "packageSize": 15,
+        "unit": "مكان",
+        "unitEn": "Person"
+      }
+    ]
+  },
+  {
+    "productId": "dishwasher beko 15 person",
+    "productNameAr": "غسالة أطباق",
+    "productNameEn": "Dishwasher",
+    "brandAr": "بيكو",
+    "brandEn": "Beko",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h34/h3f/46511320137758/601974_main.jpg",
+    "variants": [
+      {
+        "variantId": "dishwasher beko 15 person",
+        "packageSize": 15,
+        "unit": "مكان",
+        "unitEn": "Person"
+      }
+    ]
+  },
+  {
+    "productId": "top washing machine fresh 6 kg",
+    "productNameAr": "غسالة ملابس أوتوماتيك فوقية",
+    "productNameEn": "Automatic Washing Machine",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/679861/1780572600/679861_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "top washing machine fresh 6 kg",
+        "packageSize": 6,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "top washing machine whitepoint 9 kg",
+    "productNameAr": "غسالة ملابس أوتوماتيك فوقية",
+    "productNameEn": "Automatic Washing Machine",
+    "brandAr": "وايت بوينت",
+    "brandEn": "Whitepoint",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/648136/1738830731/648136_main.jpg",
+    "variants": [
+      {
+        "variantId": "top washing machine whitepoint 9 kg",
+        "packageSize": 9,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "top washing machine haier 10 kg",
+    "productNameAr": "غسالة ملابس أوتوماتيك فوقية",
+    "productNameEn": "Automatic Washing Machine",
+    "brandAr": "هاير",
+    "brandEn": "Haier",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/638702/1726744208/638702_main.jpg",
+    "variants": [
+      {
+        "variantId": "top washing machine haier 10 kg",
+        "packageSize": 10,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "washing machine whitepoint 7 kg",
+    "productNameAr": "غسالة ملابس أوتوماتيك",
+    "productNameEn": "Automatic Washing Machine",
+    "brandAr": "وايت بوينت",
+    "brandEn": "Whitepoint",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfq8CcoOhtjFFECytbWN9YbEFrEZWU-IuMxhQwkIR9Q&s",
+    "variants": [
+      {
+        "variantId": "washing machine whitepoint 7 kg",
+        "packageSize": 7,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "washing machine tornado 7 kg",
+    "productNameAr": "غسالة ملابس أوتوماتيك",
+    "productNameEn": "Automatic Washing Machine",
+    "brandAr": "تورنادو",
+    "brandEn": "Tornado",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h89/hac/30912789151774/588740_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "washing machine tornado 7 kg",
+        "packageSize": 7,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "washing machine haier 8 kg",
+    "productNameAr": "غسالة ملابس أوتوماتيك",
+    "productNameEn": "Automatic Washing Machine",
+    "brandAr": "هاير",
+    "brandEn": "Haier",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVEhOHXoBh-hkR_gTvfV4w6dEQEnoj7YFP5XXysiH6sTUt71ZgTs7VKJ_z&s=10",
+    "variants": [
+      {
+        "variantId": "washing machine haier 8 kg",
+        "packageSize": 8,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "washing machine fresh 8 kg",
+    "productNameAr": "غسالة ملابس أوتوماتيك",
+    "productNameEn": "Automatic Washing Machine",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/676187/1777547400/676187_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "washing machine fresh 8 kg",
+        "packageSize": 8,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "washing machine zanussi 8 kg",
+    "productNameAr": "غسالة ملابس أوتوماتيك",
+    "productNameEn": "Automatic Washing Machine",
+    "brandAr": "زانوسي",
+    "brandEn": "Zanussi",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/656969/1760942302/656969_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "washing machine zanussi 8 kg",
+        "packageSize": 8,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "washing machine whitepoint 9 kg",
+    "productNameAr": "غسالة ملابس أوتوماتيك",
+    "productNameEn": "Automatic Washing Machine",
+    "brandAr": "وايت بوينت",
+    "brandEn": "Whitepoint",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660347/1755680404/660347_main.jpg",
+    "variants": [
+      {
+        "variantId": "washing machine whitepoint 9 kg",
+        "packageSize": 9,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "washing machine haier 10 kg xs series",
+    "productNameAr": "غسالة ملابس أوتوماتيك",
+    "productNameEn": "Automatic Washing Machine",
+    "brandAr": "هاير",
+    "brandEn": "Haier",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://media.extra.com/i/aurora/100530082_100_05?fmt=auto&w=721&sm=c",
+    "variants": [
+      {
+        "variantId": "washing machine haier 10 kg xs series",
+        "packageSize": 10,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "washing machine tornado 10 kg",
+    "productNameAr": "غسالة ملابس أوتوماتيك",
+    "productNameEn": "Automatic Washing Machine",
+    "brandAr": "تورنادو",
+    "brandEn": "Tornado",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://www.elarabygroup.com/media/catalog/product/cache/3495d522e9ac8b580d54c7d730441906/t/o/tornado-washing-machine-fully-automatic-7-kg-inverter-silver-twv-fv710slob.jpg",
+    "variants": [
+      {
+        "variantId": "washing machine tornado 10 kg",
+        "packageSize": 10,
+        "unit": "كيلو",
+        "unitEn": "Kg"
+      }
+    ]
+  },
+  {
+    "productId": "gas cooker zanussi 4 burners",
+    "productNameAr": "بوتاجاز",
+    "productNameEn": "Gas Cooker",
+    "brandAr": "زانوسي",
+    "brandEn": "Zanussi",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/654450/1747031404/654450_main.jpg",
+    "variants": [
+      {
+        "variantId": "gas cooker zanussi 4 burners",
+        "packageSize": 4,
+        "unit": "شعلة",
+        "unitEn": "Burner"
+      }
+    ]
+  },
+  {
+    "productId": "gas cooker toshiba 4 burners",
+    "productNameAr": "بوتاجاز",
+    "productNameEn": "Gas Cooker",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/690081/1791366000/690081_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "gas cooker toshiba 4 burners",
+        "packageSize": 4,
+        "unit": "شعلة",
+        "unitEn": "Burner"
+      }
+    ]
+  },
+  {
+    "productId": "gas cooker kiriazi 5 burners",
+    "productNameAr": "بوتاجاز",
+    "productNameEn": "Gas Cooker",
+    "brandAr": "كيريازي",
+    "brandEn": "Kiriazi",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h54/h6e/10227140591646/43646_main.jpg",
+    "variants": [
+      {
+        "variantId": "gas cooker kiriazi 5 burners",
+        "packageSize": 5,
+        "unit": "شعلة",
+        "unitEn": "Burner"
+      }
+    ]
+  },
+  {
+    "productId": "gas cooker zanussi 5 burners",
+    "productNameAr": "بوتاجاز",
+    "productNameEn": "Gas Cooker",
+    "brandAr": "زانوسي",
+    "brandEn": "Zanussi",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h41/hc7/14610137219102/486167_main.jpg",
+    "variants": [
+      {
+        "variantId": "gas cooker zanussi 5 burners",
+        "packageSize": 5,
+        "unit": "شعلة",
+        "unitEn": "Burner"
+      }
+    ]
+  },
+  {
+    "productId": "gas cooker fresh 5 burners - oven fan light",
+    "productNameAr": "بوتاجاز",
+    "productNameEn": "Gas Cooker",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/691500/1793007000/691500_main.jpg",
+    "variants": [
+      {
+        "variantId": "gas cooker fresh 5 burners - oven fan light",
+        "packageSize": 5,
+        "unit": "شعلة",
+        "unitEn": "Burner"
+      }
+    ]
+  },
+  {
+    "productId": "gas cooker whitepoint 5 burners",
+    "productNameAr": "بوتاجاز",
+    "productNameEn": "Gas Cooker",
+    "brandAr": "وايت بوينت",
+    "brandEn": "Whitepoint",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/648259/1742729032/648259_main.jpg",
+    "variants": [
+      {
+        "variantId": "gas cooker whitepoint 5 burners",
+        "packageSize": 5,
+        "unit": "شعلة",
+        "unitEn": "Burner"
+      }
+    ]
+  },
+  {
+    "productId": "gas cooker fresh 5 burners - cooling fan",
+    "productNameAr": "بوتاجاز",
+    "productNameEn": "Gas Cooker",
+    "brandAr": "فريش",
+    "brandEn": "Fresh",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/691500/1793007000/691500_main.jpg",
+    "variants": [
+      {
+        "variantId": "gas cooker fresh 5 burners - cooling fan",
+        "packageSize": 5,
+        "unit": "شعلة",
+        "unitEn": "Burner"
+      }
+    ]
+  },
+  {
+    "productId": "gas cooker toshiba 5 burners",
+    "productNameAr": "بوتاجاز",
+    "productNameEn": "Gas Cooker",
+    "brandAr": "توشيبا",
+    "brandEn": "Toshiba",
+    "categoryId": "cat_majorappliances",
+    "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/688896/1790084400/688896_main.jpg?im=Resize=376",
+    "variants": [
+      {
+        "variantId": "gas cooker toshiba 5 burners",
+        "packageSize": 5,
+        "unit": "شعلة",
+        "unitEn": "Burner"
       }
     ]
   }

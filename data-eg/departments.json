@@ -74,5 +74,11 @@
     "departmentNameAr": "صيدليات",
     "departmentNameEn": "Pharmacies",
     "icon": "💊"
+  },
+  {
+    "departmentId": "department_appliancestore",
+    "departmentNameAr": "أجهزة كهربائية",
+    "departmentNameEn": "Appliances",
+    "icon": "🔌"
   }
 ]

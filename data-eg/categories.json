@@ -250,5 +250,12 @@
     "categoryNameEn": "Pharmacies",
     "departmentId": "department_pharmacy",
     "icon": "💊"
+  },
+  {
+    "categoryId": "cat_appliancestore",
+    "categoryNameAr": "أجهزة كهربائية",
+    "categoryNameEn": "Appliances",
+    "departmentId": "department_appliancestore",
+    "icon": "🔌"
   }
 ]

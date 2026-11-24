@@ -8,7 +8,7 @@
     "cityId": "alexeast",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -19,7 +19,7 @@
     "cityId": "alexcenter",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -30,7 +30,7 @@
     "cityId": "alexwest",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -41,7 +41,7 @@
     "cityId": "borgalarab",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -52,7 +52,7 @@
     "cityId": "benha",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -63,7 +63,7 @@
     "cityId": "zagazig",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -74,7 +74,7 @@
     "cityId": "aswan",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -85,7 +85,7 @@
     "cityId": "cairoeast",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -96,7 +96,7 @@
     "cityId": "cairowest",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -107,7 +107,7 @@
     "cityId": "cairocenter",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -118,7 +118,7 @@
     "cityId": "cairosouth",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -129,7 +129,7 @@
     "cityId": "caironorth",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -140,7 +140,7 @@
     "cityId": "newcairo",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -151,7 +151,7 @@
     "cityId": "gizawest",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -162,7 +162,7 @@
     "cityId": "mamsoura",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -173,7 +173,7 @@
     "cityId": "damanhour",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -184,7 +184,7 @@
     "cityId": "tanta",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -195,7 +195,7 @@
     "cityId": "ismailia",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -206,7 +206,7 @@
     "cityId": "matrouh",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -217,7 +217,7 @@
     "cityId": "shebinalkoum",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -228,7 +228,7 @@
     "cityId": "menia",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -239,7 +239,7 @@
     "cityId": "portsaid",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -250,7 +250,7 @@
     "cityId": "ghurgada",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -261,7 +261,7 @@
     "cityId": "sharm",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-carrefouregypt",
@@ -272,7 +272,7 @@
     "cityId": "suiz",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-fathallahmarket",
@@ -283,7 +283,7 @@
     "cityId": "alexeast",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-fathallahmarket",
@@ -294,7 +294,7 @@
     "cityId": "alexcenter",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-fathallahmarket",
@@ -305,7 +305,7 @@
     "cityId": "alexwest",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-fathallahmarket",
@@ -316,7 +316,7 @@
     "cityId": "matrouh",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-fathallahmarket",
@@ -327,7 +327,7 @@
     "cityId": "damanhour",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-fathallahmarket",
@@ -338,7 +338,7 @@
     "cityId": "kafrdawar",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-fathallahmarket",
@@ -349,7 +349,7 @@
     "cityId": "mahala",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-fathallahmarket",
@@ -360,7 +360,7 @@
     "cityId": "tanta",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-fathallahmarket",
@@ -371,7 +371,7 @@
     "cityId": "cairoeast",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-fathallahmarket",
@@ -382,7 +382,7 @@
     "cityId": "newcairo",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-fathallahmarket",
@@ -393,7 +393,7 @@
     "cityId": "newdamietta",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-gomlamarket",
@@ -404,7 +404,7 @@
     "cityId": "alexeast",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-gomlamarket",
@@ -415,7 +415,7 @@
     "cityId": "alexcenter",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-gomlamarket",
@@ -426,7 +426,7 @@
     "cityId": "alexwest",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-gomlamarket",
@@ -437,7 +437,7 @@
     "cityId": "borgalarab",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-gomlamarket",
@@ -448,7 +448,7 @@
     "cityId": "gizawest",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-gomlamarket",
@@ -459,7 +459,7 @@
     "cityId": "cairoeast",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-gomlamarket",
@@ -470,7 +470,7 @@
     "cityId": "cairocenter",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-gomlamarket",
@@ -481,7 +481,7 @@
     "cityId": "mamsoura",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-gomlamarket",
@@ -492,7 +492,7 @@
     "cityId": "zagazig",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-gomlamarket",
@@ -503,7 +503,7 @@
     "cityId": "ghurgada",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-gomlamarket",
@@ -514,7 +514,7 @@
     "cityId": "matrouh",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-metromarket",
@@ -525,7 +525,7 @@
     "cityId": "cairoeast",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-metromarket",
@@ -536,7 +536,7 @@
     "cityId": "cairocenter",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-metromarket",
@@ -547,7 +547,7 @@
     "cityId": "cairosouth",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-metromarket",
@@ -558,7 +558,7 @@
     "cityId": "caironorth",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-metromarket",
@@ -569,7 +569,7 @@
     "cityId": "newcairo",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-metromarket",
@@ -580,7 +580,7 @@
     "cityId": "gizasouth",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-metromarket",
@@ -591,7 +591,7 @@
     "cityId": "gizawest",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-metromarket",
@@ -602,7 +602,7 @@
     "cityId": "alexeast",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-metromarket",
@@ -613,7 +613,7 @@
     "cityId": "mamsoura",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-metromarket",
@@ -624,7 +624,7 @@
     "cityId": "portsaid",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-metromarket",
@@ -635,7 +635,7 @@
     "cityId": "ghurgada",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-metromarket",
@@ -646,7 +646,7 @@
     "cityId": "sharm",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
   },
   {
     "branchId": "all-metromarket",
@@ -657,6 +657,666 @@
     "cityId": "ismailia",
     "addressAr": "غير متاح",
     "addressEn": "Not available",
-    "category": "supermarket"
+    "category": "cat_supermarket"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_cairo",
+    "cityId": "cairocenter",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_cairo",
+    "cityId": "cairoeast",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_cairo",
+    "cityId": "caironorth",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_cairo",
+    "cityId": "cairosouth",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_cairo",
+    "cityId": "cairowest",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_cairo",
+    "cityId": "newcairo",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_giza",
+    "cityId": "gizacenter",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_giza",
+    "cityId": "gizanorth",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_giza",
+    "cityId": "gizasouth",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_giza",
+    "cityId": "gizawest",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_alexandria",
+    "cityId": "alexcenter",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_alexandria",
+    "cityId": "alexeast",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_alexandria",
+    "cityId": "alexwest",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_dakahlia",
+    "cityId": "mamsoura",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_damietta",
+    "cityId": "damietta",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_damietta",
+    "cityId": "newdamietta",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_gharbia",
+    "cityId": "mahala",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_gharbia",
+    "cityId": "tanta",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_ismailia",
+    "cityId": "ismailia",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_kafr-al-sheikh",
+    "cityId": "kafr-al-sheikh",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_portsaid",
+    "cityId": "portsaid",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_qaluobia",
+    "cityId": "benha",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_sharkia",
+    "cityId": "zagazig",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_beheira",
+    "cityId": "damanhour",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_beheira",
+    "cityId": "kafrdawar",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_menoufia",
+    "cityId": "shebinalkoum",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_suiz",
+    "cityId": "suiz",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_red-sea",
+    "cityId": "ghurgada",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_assuit",
+    "cityId": "assuit",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_aswan",
+    "cityId": "aswan",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_bani-sweif",
+    "cityId": "bani-sweif",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_fayioum",
+    "cityId": "fayioum",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_luxor",
+    "cityId": "luxor",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_matrouh",
+    "cityId": "matrouh",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_menia",
+    "cityId": "menia",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_qena",
+    "cityId": "qena",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-betech",
+    "storeId": "betech",
+    "branchNameAr": "بي تك",
+    "branchNameEn": "B. Tech",
+    "governorateId": "eg_souhag",
+    "cityId": "souhag",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_cairo",
+    "cityId": "cairocenter",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_cairo",
+    "cityId": "cairoeast",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_cairo",
+    "cityId": "caironorth",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_cairo",
+    "cityId": "cairosouth",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_cairo",
+    "cityId": "cairowest",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_cairo",
+    "cityId": "newcairo",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_giza",
+    "cityId": "gizacenter",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_giza",
+    "cityId": "gizanorth",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_giza",
+    "cityId": "gizasouth",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_giza",
+    "cityId": "gizawest",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_alexandria",
+    "cityId": "alexcenter",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_alexandria",
+    "cityId": "alexeast",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_alexandria",
+    "cityId": "alexwest",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_dakahlia",
+    "cityId": "mamsoura",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_gharbia",
+    "cityId": "mahala",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_gharbia",
+    "cityId": "tanta",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_ismailia",
+    "cityId": "ismailia",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_portsaid",
+    "cityId": "portsaid",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_qaluobia",
+    "cityId": "benha",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_sharkia",
+    "cityId": "zagazig",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_red-sea",
+    "cityId": "ghurgada",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_fayioum",
+    "cityId": "fayioum",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "all-2b",
+    "storeId": "2b",
+    "branchNameAr": "2B",
+    "branchNameEn": "2B",
+    "governorateId": "eg_matrouh",
+    "cityId": "matrouh",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_appliancestore"
   }
 ]

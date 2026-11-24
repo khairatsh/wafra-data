@@ -70,5 +70,31 @@
       "dept_personalcare"
     ],
     "featuredInCat": true
+  },
+  {
+    "storeId": "betech",
+    "storeNameAr": "بي تك",
+    "storeNameEn": "B. Tech",
+    "imageUrl": "https://d22nihcmq83fqg.cloudfront.net/sites/default/files/styles/icon_image/public/store_icon/btech-logo-en-arabiccoupon-btech-coupons-and-promo-codes-400x400.jpg",
+    "homeScreenDisplay": true,
+    "categoryId": "cat_appliancestore",
+    "departmentIds": [
+      "dept_electronics",
+      "dept_home_appliances"
+    ],
+    "featuredInCat": true
+  },
+  {
+    "storeId": "2b",
+    "storeNameAr": "2B",
+    "storeNameEn": "2B",
+    "imageUrl": "https://cdnprod.mafretailproxy.com/cs/cms/assets/images/2_B_bd69702632.jpg",
+    "homeScreenDisplay": true,
+    "categoryId": "cat_appliancestore",
+    "departmentIds": [
+      "dept_electronics",
+      "dept_home_appliances"
+    ],
+    "featuredInCat": true
   }
 ]
