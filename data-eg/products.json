@@ -2684,6 +2684,7 @@
     "brandEn": "Toshiba",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://moreelectronicss.com/wp-content/uploads/2026/03/0201115-%D8%AA%D9%88%D8%B4%D9%8A%D8%A8%D8%A7-%D8%B4%D8%A7%D8%B4%D8%A9-%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%8C-%D9%85%D9%82%D8%A7%D8%B3-58-%D8%A8%D9%88%D8%B5%D8%A9-%D8%8C-QLED-%D8%8C-%D8%AF%D9%82%D8%A9-4K-UHD-%D8%8C-%D8%A8%D8%B1%D9%8A%D8%B3%D9%8A%D9%81%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-58M450RP-.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "qled tv 58 m450rp toshiba",
@@ -2701,6 +2702,7 @@
     "brandEn": "Toshiba",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRzu33K0QQeGB2gkLEVwBd3ETA4nb0Jmf6abQu3OVZ0X7pffvaHNZNup3Z&s=10",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "qled tv 65 z570sp toshiba",
@@ -2718,6 +2720,7 @@
     "brandEn": "Jac",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/691374/1792593002/691374_main.jpg?im=Resize=400",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "led tv 65 je8135f jac",
@@ -2956,6 +2959,7 @@
     "brandEn": "Fresh",
     "categoryId": "cat_smallappliances",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvfHV90kV0lYggpoo2-OAXiRTIOwbdAI1SoJ9vBdVZRXWEkvtPuwVNdQcJ&s=10",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Fresh oven 48 L",
@@ -2973,6 +2977,7 @@
     "brandEn": "Touch",
     "categoryId": "cat_smallappliances",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0lrLNeJ2Of5WDLResnneIv7cD6ToAFDlMdDH8dZcmoO__jI03FcjzsKM&s=10",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "touch oven 50 L",
@@ -2990,6 +2995,7 @@
     "brandEn": "Midea",
     "categoryId": "cat_smallappliances",
     "imageUrl": "https://web-res.midea.com/content/dam/midea-aem/in/india-assets-new/small-appliances/microwave/mmo20cxa-%D0%BC%D0%BC%D1%80%D0%B5%D0%B2%D0%BA/id/MMO20CXA-%D0%9C%D0%9C%D0%A0%D0%95%D0%92%D0%9A-id2.png/jcr:content/renditions/MMO20CXA-%D0%9C%D0%9C%D0%A0%D0%95%D0%92%D0%9A-id2.webp",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "microwave midea 20 L",
@@ -3262,6 +3268,7 @@
     "brandEn": "One Life",
     "categoryId": "cat_smallappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/688929/1790084400/688929_main.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "mixer bowl one-life 10 L",
@@ -3279,6 +3286,7 @@
     "brandEn": "Smart",
     "categoryId": "cat_smallappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/679707/1786632000/679707_main.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "mixer bowl smart 11 L",
@@ -3296,6 +3304,7 @@
     "brandEn": "Mienta",
     "categoryId": "cat_smallappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659630/1755788404/659630_main.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "mixer bowl mienta 10 L",
@@ -3330,6 +3339,7 @@
     "brandEn": "Unionaire",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659563/1766917800/659563_main.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "upright freezer unionaire - 230 L",
@@ -3347,6 +3357,7 @@
     "brandEn": "Fresh",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641269/1766647802/641269_main.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "upright freezer fresh - 250 L",
@@ -3364,6 +3375,7 @@
     "brandEn": "White Point",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/650065/1741593603/650065_main.jpg?im=Resize=376",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "upright freezer white point - 181 L",
@@ -3483,6 +3495,7 @@
     "brandEn": "Fresh",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszTcdOszaKgK1NX402HjRW3fBPsAJmN8hboDOOpn7Fw&s",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "fridge two door fresh 329 L",
@@ -3500,6 +3513,7 @@
     "brandEn": "Midea",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/685773/1789473000/685773_main.jpg?im=Resize=376",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "fridge two door midea 379 L",
@@ -3517,6 +3531,7 @@
     "brandEn": "Toshiba",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/679020/1780386000/679020_main.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "fridge two door toshiba 338 L",
@@ -3738,6 +3753,7 @@
     "brandEn": "Midea ",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ1QIWPrS7D2YXkwoYX8fJWnULktWD5_Qa9nNMpBAHMn6JVonQevdxg6JJ&s=10",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "dishwasher midea 14 person",
@@ -3755,6 +3771,7 @@
     "brandEn": "Whitepoint",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/he0/h33/61726546821150/625435_main.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "dishwasher whitepoint 14 person",
@@ -3772,6 +3789,7 @@
     "brandEn": "Bosch",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/1698542001309/1793105130/1698542001309_main.jpeg?im=Resize=376",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "dishwasher bosch 14 person",
@@ -3823,6 +3841,7 @@
     "brandEn": "Fresh",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/679861/1780572600/679861_main.jpg?im=Resize=376",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "top washing machine fresh 6 kg",
@@ -3840,6 +3859,7 @@
     "brandEn": "Whitepoint",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/648136/1738830731/648136_main.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "top washing machine whitepoint 9 kg",
@@ -3857,6 +3877,7 @@
     "brandEn": "Haier",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/638702/1726744208/638702_main.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "top washing machine haier 10 kg",
@@ -4078,6 +4099,7 @@
     "brandEn": "Fresh",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/691500/1793007000/691500_main.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "gas cooker fresh 5 burners - oven fan light",
@@ -4095,6 +4117,7 @@
     "brandEn": "Whitepoint",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/648259/1742729032/648259_main.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "gas cooker whitepoint 5 burners",
@@ -4112,6 +4135,7 @@
     "brandEn": "Fresh",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/691500/1793007000/691500_main.jpg",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "gas cooker fresh 5 burners - cooling fan",
