@@ -1777,5 +1777,115 @@
     "sourceAr": "موقع بي تك",
     "sourceEn": "B.tech Website",
     "pricePiastres": 1739000
+  },
+  {
+    "priceId": "price-Balady-Bananas-wafra-458546-alkawas",
+    "variantId": "Balady-Bananas-wafra-458546",
+    "storeId": "aswaq-alqawas",
+    "pricePiastres": 2790,
+    "regularPricePiastres": 3500,
+    "priceType": "flash_offer",
+    "observationDate": "2026-11-25",
+    "sourceAr": "صفحة المتجر على فيس بوك",
+    "sourceEn": "Store Facebook Page"
+  },
+  {
+    "priceId": "price-Balady-Tomatoes-wafra-32631-alkawas",
+    "variantId": "Balady-Tomatoes-wafra-32631",
+    "storeId": "aswaq-alqawas",
+    "pricePiastres": 1500,
+    "regularPricePiastres": 2000,
+    "priceType": "flash_offer",
+    "observationDate": "2026-11-25",
+    "sourceAr": "صفحة المتجر على فيس بوك",
+    "sourceEn": "Store Facebook Page"
+  },
+  {
+    "priceId": "price-Carrot-wafra-32634-alkawas",
+    "variantId": "Carrot-wafra-32634",
+    "storeId": "aswaq-alqawas",
+    "pricePiastres": 1400,
+    "regularPricePiastres": 2000,
+    "priceType": "flash_offer",
+    "observationDate": "2026-11-25",
+    "sourceAr": "صفحة المتجر على فيس بوك",
+    "sourceEn": "Store Facebook Page"
+  },
+  {
+    "priceId": "price-Grade-A-Mixed-Capsicum-wafra-287358-alkawas",
+    "variantId": "Grade-A-Mixed-Capsicum-wafra-287358",
+    "storeId": "aswaq-alqawas",
+    "pricePiastres": 4800,
+    "regularPricePiastres": 6000,
+    "priceType": "flash_offer",
+    "observationDate": "2026-11-25",
+    "sourceAr": "صفحة المتجر على فيس بوك",
+    "sourceEn": "Store Facebook Page"
+  },
+  {
+    "priceId": "price-Green-Capsicum-wafra-444979-alkawas",
+    "variantId": "Green-Capsicum-wafra-444979",
+    "storeId": "aswaq-alqawas",
+    "pricePiastres": 1500,
+    "regularPricePiastres": 2000,
+    "priceType": "flash_offer",
+    "observationDate": "2026-11-25",
+    "sourceAr": "صفحة المتجر على فيس بوك",
+    "sourceEn": "Store Facebook Page"
+  },
+  {
+    "priceId": "price-Imported-Plum-wafra-32501-alkawas",
+    "variantId": "Imported-Plum-wafra-32501",
+    "storeId": "aswaq-alqawas",
+    "pricePiastres": 8400,
+    "regularPricePiastres": 10000,
+    "priceType": "flash_offer",
+    "observationDate": "2026-11-25",
+    "sourceAr": "صفحة المتجر على فيس بوك",
+    "sourceEn": "Store Facebook Page"
+  },
+  {
+    "priceId": "price-Mandarin-wafra-32496-alkawas",
+    "variantId": "Mandarin-wafra-32496",
+    "storeId": "aswaq-alqawas",
+    "pricePiastres": 3700,
+    "regularPricePiastres": 5000,
+    "priceType": "flash_offer",
+    "observationDate": "2026-11-25",
+    "sourceAr": "صفحة المتجر على فيس بوك",
+    "sourceEn": "Store Facebook Page"
+  },
+  {
+    "priceId": "price-Pomegranate-wafra-397729-alkawas",
+    "variantId": "Pomegranate-wafra-397729",
+    "storeId": "aswaq-alqawas",
+    "pricePiastres": 4400,
+    "regularPricePiastres": 6000,
+    "priceType": "flash_offer",
+    "observationDate": "2026-11-25",
+    "sourceAr": "صفحة المتجر على فيس بوك",
+    "sourceEn": "Store Facebook Page"
+  },
+  {
+    "priceId": "price-Red-Apples-wafra-369185-alkawas",
+    "variantId": "Red-Apples-wafra-369185",
+    "storeId": "aswaq-alqawas",
+    "pricePiastres": 7000,
+    "regularPricePiastres": 8000,
+    "priceType": "flash_offer",
+    "observationDate": "2026-11-25",
+    "sourceAr": "صفحة المتجر على فيس بوك",
+    "sourceEn": "Store Facebook Page"
+  },
+  {
+    "priceId": "price-Red-Onions-wafra-32762-alkawas",
+    "variantId": "Red-Onions-wafra-32762",
+    "storeId": "aswaq-alqawas",
+    "pricePiastres": 2500,
+    "regularPricePiastres": 3000,
+    "priceType": "flash_offer",
+    "observationDate": "2026-11-25",
+    "sourceAr": "صفحة المتجر على فيس بوك",
+    "sourceEn": "Store Facebook Page"
   }
 ]

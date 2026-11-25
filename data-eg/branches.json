@@ -1318,5 +1318,16 @@
     "addressAr": "غير متاح",
     "addressEn": "Not available",
     "category": "cat_appliancestore"
+  },
+  {
+    "branchId": "aswaq-alqawas-newdamietta",
+    "storeId": "aswaq-alqawas",
+    "branchNameAr": "أسواق القواس",
+    "branchNameEn": "Aswaq Al Kawas",
+    "governorateId": "eg_damietta",
+    "cityId": "newdamietta",
+    "addressAr": "غير متاح",
+    "addressEn": "Not available",
+    "category": "cat_supermarket"
   }
 ]

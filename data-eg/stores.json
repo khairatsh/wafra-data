@@ -11,7 +11,6 @@
       "dept_fresh",
       "dept_frozen",
       "dept_electronics",
-      "dept_electronics",
       "dept_home_appliances",
       "dept_personalcare"
     ],
@@ -28,7 +27,6 @@
       "dept_grocery",
       "dept_fresh",
       "dept_frozen",
-      "dept_electronics",
       "dept_electronics",
       "dept_home_appliances",
       "dept_personalcare"
@@ -47,7 +45,6 @@
       "dept_fresh",
       "dept_frozen",
       "dept_electronics",
-      "dept_electronics",
       "dept_home_appliances",
       "dept_personalcare"
     ],
@@ -64,7 +61,6 @@
       "dept_grocery",
       "dept_fresh",
       "dept_frozen",
-      "dept_electronics",
       "dept_electronics",
       "dept_home_appliances",
       "dept_personalcare"
@@ -94,6 +90,21 @@
     "departmentIds": [
       "dept_electronics",
       "dept_home_appliances"
+    ],
+    "featuredInCat": true
+  },
+  {
+    "storeId": "aswaq-alqawas",
+    "storeNameAr": "أسواق القواس",
+    "storeNameEn": "Al Kawas Market",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh4YGqMTgNrfJk0za9xhWpUPJwygt3D3QOp0eAR2FSndLKskGhQF8DtJA&s=10",
+    "homeScreenDisplay": true,
+    "categoryId": "cat_supermarket",
+    "departmentIds": [
+      "dept_grocery",
+      "dept_fresh",
+      "dept_frozen",
+      "dept_personalcare"
     ],
     "featuredInCat": true
   }
