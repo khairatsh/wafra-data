@@ -155,6 +155,7 @@
     "productNameEn": "Red Apples",
     "categoryId": "cat_freshfruits",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h59/hc5/35139577085982/369185_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Red-Apples-wafra-369185",
@@ -470,6 +471,7 @@
     "productNameEn": "Chinese Pears",
     "categoryId": "cat_freshfruits",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h3b/h0b/11007949439006/43857_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Chinese-Pears-wafra-43857",
@@ -485,6 +487,7 @@
     "productNameEn": "Kiwi",
     "categoryId": "cat_freshfruits",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h2f/h03/35139574202398/287170_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Kiwi-wafra-287170",
@@ -515,6 +518,7 @@
     "productNameEn": "Mandarin",
     "categoryId": "cat_freshfruits",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hde/h6d/35139575283742/32496_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Mandarin-wafra-32496",
@@ -530,6 +534,7 @@
     "productNameEn": "Balady Bananas",
     "categoryId": "cat_freshfruits",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h54/hae/35139577708574/458546_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Balady-Bananas-wafra-458546",
@@ -695,6 +700,7 @@
     "productNameEn": "Red Onions",
     "categoryId": "cat_freshvegetables",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h7c/heb/35139576823838/32762_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Red-Onions-wafra-32762",
@@ -755,6 +761,7 @@
     "productNameEn": "Potato for Cooking",
     "categoryId": "cat_freshvegetables",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h07/hc6/35139577020446/32750_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Potato-for-Cooking-wafra-32750",
@@ -1175,6 +1182,7 @@
     "productNameEn": "Grade A Mixed Capsicum",
     "categoryId": "cat_freshvegetables",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hdc/h6d/11510974447646/287358_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Grade-A-Mixed-Capsicum-wafra-287358",
@@ -1762,6 +1770,7 @@
     "brandEn": "Fern",
     "categoryId": "cat_kitchenstaples",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h6d/h0c/15070388224030/142156_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "wafra-142156-Fern Natural Ghee - 700 gram",
@@ -1847,6 +1856,7 @@
     "brandEn": "Crystal",
     "categoryId": "cat_kitchenstaples",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/305567/1738681205/305567_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "wafra-305567-Crystal Vegetable White Ghee - 1.5kg",
@@ -2034,6 +2044,7 @@
     "brandEn": "Oxi",
     "categoryId": "cat_cleaning",
     "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h73/hb8/32185163022366/335054_main.jpg?im=Resize=(300,300)",
+    "homeSuggested": true,
     "variants": [
       {
         "variantId": "Oxi Automatic Powder Detergent - Spring Breeze Scent - 2.5 Kg-carrefour-335054",
@@ -2684,7 +2695,6 @@
     "brandEn": "Toshiba",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://moreelectronicss.com/wp-content/uploads/2026/03/0201115-%D8%AA%D9%88%D8%B4%D9%8A%D8%A8%D8%A7-%D8%B4%D8%A7%D8%B4%D8%A9-%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%8C-%D9%85%D9%82%D8%A7%D8%B3-58-%D8%A8%D9%88%D8%B5%D8%A9-%D8%8C-QLED-%D8%8C-%D8%AF%D9%82%D8%A9-4K-UHD-%D8%8C-%D8%A8%D8%B1%D9%8A%D8%B3%D9%8A%D9%81%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-58M450RP-.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "qled tv 58 m450rp toshiba",
@@ -2720,7 +2730,6 @@
     "brandEn": "Jac",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/691374/1792593002/691374_main.jpg?im=Resize=400",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "led tv 65 je8135f jac",
@@ -3268,7 +3277,6 @@
     "brandEn": "One Life",
     "categoryId": "cat_smallappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/688929/1790084400/688929_main.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "mixer bowl one-life 10 L",
@@ -3286,7 +3294,6 @@
     "brandEn": "Smart",
     "categoryId": "cat_smallappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/679707/1786632000/679707_main.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "mixer bowl smart 11 L",
@@ -3339,7 +3346,6 @@
     "brandEn": "Unionaire",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659563/1766917800/659563_main.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "upright freezer unionaire - 230 L",
@@ -3375,7 +3381,6 @@
     "brandEn": "White Point",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/650065/1741593603/650065_main.jpg?im=Resize=376",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "upright freezer white point - 181 L",
@@ -4099,7 +4104,6 @@
     "brandEn": "Fresh",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/691500/1793007000/691500_main.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "gas cooker fresh 5 burners - oven fan light",
@@ -4117,7 +4121,6 @@
     "brandEn": "Whitepoint",
     "categoryId": "cat_majorappliances",
     "imageUrl": "https://cdn.mafrservices.com/pim-content/EGY/media/product/648259/1742729032/648259_main.jpg",
-    "homeSuggested": true,
     "variants": [
       {
         "variantId": "gas cooker whitepoint 5 burners",
